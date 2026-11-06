@@ -1,12 +1,11 @@
-[07:31:30 AM] ===== CACHE METHOD DETAILS =====
-[07:31:30 AM] 
+[07:33:56 AM] ===== CACHE METHOD DETAILS =====
+[07:33:56 AM] 
 ---	Get	---
-[07:31:30 AM] Source:	=ReplicatedStorage.ItemReplicationService.UserReplicationCache
-[07:31:30 AM] Line:	nil
-[07:31:30 AM] Parameters:	5
-[07:31:30 AM] Upvalues:	1
-[07:31:30 AM] Vararg:	0
-[07:31:30 AM] UPVALUE:	1	table	table: 0xa01b65ea8bebfe49 {
+[07:33:56 AM] Source:	=ReplicatedStorage.ItemReplicationService.UserReplicationCache
+[07:33:56 AM] Line:	nil
+[07:33:56 AM] Parameters:	5
+[07:33:56 AM] Upvalues:	1
+[07:33:56 AM] UPVALUE:	1	table	table: 0xa01b65ea8bebfe49 {
   "AccessoryModifiers_1121_01fae5f551824ddf80ed84e3735f74c1": "",
   "AccessoryModifiers_1124_67f3e2a569fb4e65992bdd38f3448eca": "",
   "AccessoryModifiers_1125_6ce0b4ecac434fccb7004a928daa22e8": "",
@@ -7492,14 +7491,13 @@
   "Quantity_856_nil": "11",
   "Quantity_857_nil": "2"
 }
-[07:31:30 AM] 
+[07:33:56 AM] 
 ---	GetItems	---
-[07:31:30 AM] Source:	=ReplicatedStorage.ItemReplicationService.UserReplicationCache
-[07:31:30 AM] Line:	nil
-[07:31:30 AM] Parameters:	2
-[07:31:30 AM] Upvalues:	2
-[07:31:30 AM] Vararg:	0
-[07:31:30 AM] UPVALUE:	1	table	table: 0xd52008eba17216a9 {
+[07:33:56 AM] Source:	=ReplicatedStorage.ItemReplicationService.UserReplicationCache
+[07:33:56 AM] Line:	nil
+[07:33:56 AM] Parameters:	2
+[07:33:56 AM] Upvalues:	2
+[07:33:56 AM] UPVALUE:	1	table	table: 0xd52008eba17216a9 {
   "AccessoryModifiers": {
     "keys": {
       "clear": "function: 0xdf642f172fc1b891",
@@ -7636,20 +7634,19 @@
     "value": "table: 0xd2ac3b597183333c"
   }
 }
-[07:31:30 AM] UPVALUE:	2	table	table: 0x7ce6bdd55cd12ae7 {
+[07:33:56 AM] UPVALUE:	2	table	table: 0x7ce6bdd55cd12ae7 {
   "clear": "function: 0x583e0bca7c6541a1",
   "dump": "function: 0x123764f4fe4a46a2",
   "get": "function: 0xf6c69233f5286e21",
   "set": "function: 0x301d3ead8afd0472"
 }
-[07:31:30 AM] 
+[07:33:56 AM] 
 ---	GetAllIds	---
-[07:31:30 AM] Source:	=ReplicatedStorage.ItemReplicationService.UserReplicationCache
-[07:31:30 AM] Line:	nil
-[07:31:30 AM] Parameters:	2
-[07:31:30 AM] Upvalues:	2
-[07:31:30 AM] Vararg:	0
-[07:31:30 AM] UPVALUE:	1	table	table: 0xafb6334a05d1d7b5 {
+[07:33:56 AM] Source:	=ReplicatedStorage.ItemReplicationService.UserReplicationCache
+[07:33:56 AM] Line:	nil
+[07:33:56 AM] Parameters:	2
+[07:33:56 AM] Upvalues:	2
+[07:33:56 AM] UPVALUE:	1	table	table: 0xafb6334a05d1d7b5 {
   "AccessoryModifiers": {
     "keys": {
       "clear": "function: 0xc1695e0b51a4193e",
@@ -7786,20 +7783,19 @@
     "value": "table: 0x99735e8a2f55c49c"
   }
 }
-[07:31:31 AM] UPVALUE:	2	table	table: 0x054f206e9e41a82f {
+[07:33:56 AM] UPVALUE:	2	table	table: 0x054f206e9e41a82f {
   "clear": "function: 0xcac1af7623516bf0",
   "dump": "function: 0x1a985ed1b01a807e",
   "get": "function: 0xee9bd1a23593a8fb",
   "set": "function: 0x81f8467752c5107a"
 }
-[07:31:31 AM] 
+[07:33:56 AM] 
 ---	GetKeys	---
-[07:31:31 AM] Source:	=ReplicatedStorage.ItemReplicationService.UserReplicationCache
-[07:31:31 AM] Line:	nil
-[07:31:31 AM] Parameters:	1
-[07:31:31 AM] Upvalues:	2
-[07:31:31 AM] Vararg:	0
-[07:31:31 AM] UPVALUE:	1	table	table: 0xa6ec1abe623e33f9 {
+[07:33:56 AM] Source:	=ReplicatedStorage.ItemReplicationService.UserReplicationCache
+[07:33:56 AM] Line:	nil
+[07:33:56 AM] Parameters:	1
+[07:33:56 AM] Upvalues:	2
+[07:33:56 AM] UPVALUE:	1	table	table: 0xa6ec1abe623e33f9 {
   "append": "function: 0xb0cac17e018c2a3d",
   "deduplicate": "function: 0xfaa5808cb1b6c0ce",
   "deepCopy": "function: 0x8a2c26f721144192",
@@ -7811,7 +7807,7 @@
   "reverse": "function: 0x664d5988708ac030",
   "values": "function: 0xb2b9f159146f84b5"
 }
-[07:31:31 AM] UPVALUE:	2	table	table: 0x6b1a419b2cc86cfe {
+[07:33:56 AM] UPVALUE:	2	table	table: 0x6b1a419b2cc86cfe {
   "AccessoryModifiers": "true",
   "AccessoryType": "true",
   "Awakenings": "true",
