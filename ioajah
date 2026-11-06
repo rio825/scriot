@@ -61,3 +61,277 @@
 [09:07:51 AM] LINE:	18
 [09:07:51 AM] UPVALUE:	1	| TYPE:	function	| VALUE:	function: 0xd44acf0894d021d2
 [09:07:51 AM] UPVALUE:	2	| TYPE:	Instance	| VALUE:	Run Service
+[09:09:40 AM] ===== FRUIT SKILL UTIL: LINES 75-210 =====
+[09:09:40 AM] 75: local t_3 = {
+[09:09:40 AM] 76:     getFruitDataAsync = function() --[[ getFruitDataAsync ]] -- line: 91
+[09:09:40 AM] 77:         -- upvalues:
+[09:09:40 AM] 78:         --  [1] RunService (copy)
+[09:09:40 AM] 79:         --  [2] GlobalUtil_m (copy)
+[09:09:40 AM] 80:         --  [3] ReplicatedStorage (copy)
+[09:09:40 AM] 81: 
+[09:09:40 AM] 82:         if RunService:IsRunning() and (not GlobalUtil_m.FFlags.IsUnitTest and not GlobalUtil_m.FFlags.IsSandboxed) then
+[09:09:40 AM] 83:             if RunService:IsServer() then
+[09:09:40 AM] 84:                 return assembleServerData()
+[09:09:40 AM] 85:             end
+[09:09:40 AM] 86: 
+[09:09:40 AM] 87:             local GetFruitData = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild(
+[09:09:40 AM] 88:                 "GetFruitData"
+[09:09:40 AM] 89:             )
+[09:09:40 AM] 90:             assert(GetFruitData:IsA("RemoteFunction"))
+[09:09:40 AM] 91: 
+[09:09:40 AM] 92:             return GetFruitData:InvokeServer()
+[09:09:40 AM] 93:         end
+[09:09:40 AM] 94: 
+[09:09:40 AM] 95:         return assembleServerData()
+[09:09:40 AM] 96:     end,
+[09:09:40 AM] 97:     MobileM1ButtonActivated = function(arg1) --[[ MobileM1ButtonActivated ]] -- line: 106
+[09:09:40 AM] 98:         local HeldTool = arg1.HeldTool
+[09:09:40 AM] 99:         local InputObject = arg1.InputObject
+[09:09:40 AM] 100:         local TapHoldButton = arg1.TapHoldButton
+[09:09:40 AM] 101: 
+[09:09:40 AM] 102:         if HeldTool.Name == "Dragon-Dragon" then
+[09:09:40 AM] 103:             require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[09:09:40 AM] 104:             local v6 = nil
+[09:09:40 AM] 105:             v6 = InputObject.Changed:Connect(function(arg2) -- line: 114
+[09:09:40 AM] 106:                 -- upvalues:
+[09:09:40 AM] 107:                 --  [1] InputObject (copy)
+[09:09:40 AM] 108:                 --  [2] v6 (ref)
+[09:09:40 AM] 109:                 --  [3] HeldTool (copy)
+[09:09:40 AM] 110:                 --  [4] TapHoldButton (copy)
+[09:09:40 AM] 111: 
+[09:09:40 AM] 112:                 if arg2 == "UserInputState" and InputObject.UserInputState == Enum.UserInputState.End then
+[09:09:40 AM] 113:                     v6:Disconnect()
+[09:09:40 AM] 114:                     HeldTool:Deactivate()
+[09:09:40 AM] 115: 
+[09:09:40 AM] 116:                     if TapHoldButton and require(game.ReplicatedStorage.Global).mobileSelectionFrame == TapHoldButton then
+[09:09:40 AM] 117:                         require(game.ReplicatedStorage.Global).mobileSelectionFrame.BackgroundColor3 = Color3.new()
+[09:09:40 AM] 118:                         require(game.ReplicatedStorage.Global).mobileSelectionFrame = nil
+[09:09:40 AM] 119:                         require(game.ReplicatedStorage.Global).mobileSelection = nil
+[09:09:40 AM] 120:                     end
+[09:09:40 AM] 121: 
+[09:09:40 AM] 122:                     task.defer(function() -- line: 123
+[09:09:40 AM] 123:                         require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[09:09:40 AM] 124:                     end)
+[09:09:40 AM] 125:                 end
+[09:09:40 AM] 126:             end)
+[09:09:40 AM] 127:             HeldTool:Activate()
+[09:09:40 AM] 128: 
+[09:09:40 AM] 129:             return
+[09:09:40 AM] 130:         end
+[09:09:40 AM] 131: 
+[09:09:40 AM] 132:         require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = InputObject
+[09:09:40 AM] 133:         require(game.ReplicatedStorage.Global).updateMouseWrapper(InputObject)
+[09:09:40 AM] 134:         InputObject.KeyCode = Enum.KeyCode.G
+[09:09:40 AM] 135:         local v7 = nil
+[09:09:40 AM] 136:         v7 = InputObject.Changed:Connect(function(arg3) -- line: 135
+[09:09:40 AM] 137:             -- upvalues:
+[09:09:40 AM] 138:             --  [1] InputObject (copy)
+[09:09:40 AM] 139:             --  [2] v7 (ref)
+[09:09:40 AM] 140:             --  [3] TapHoldButton (copy)
+[09:09:40 AM] 141: 
+[09:09:40 AM] 142:             if arg3 == "UserInputState" and InputObject.UserInputState == Enum.UserInputState.End then
+[09:09:40 AM] 143:                 v7:Disconnect()
+[09:09:40 AM] 144: 
+[09:09:40 AM] 145:                 if TapHoldButton and require(game.ReplicatedStorage.Global).mobileSelectionFrame == TapHoldButton then
+[09:09:40 AM] 146:                     require(game.ReplicatedStorage.Global).mobileSelectionFrame.BackgroundColor3 = Color3.new()
+[09:09:41 AM] 147:                     require(game.ReplicatedStorage.Global).mobileSelectionFrame = nil
+[09:09:41 AM] 148:                     require(game.ReplicatedStorage.Global).mobileSelection = nil
+[09:09:41 AM] 149:                 end
+[09:09:41 AM] 150: 
+[09:09:41 AM] 151:                 InputObject.KeyCode = Enum.KeyCode.G
+[09:09:41 AM] 152:                 require(game.ReplicatedStorage.Global).TestGamePrint("end from here")
+[09:09:41 AM] 153:                 require(game.ReplicatedStorage.Global).casFunc(
+[09:09:41 AM] 154:                     "DevilFruit",
+[09:09:41 AM] 155:                     Enum.UserInputState.End,
+[09:09:41 AM] 156:                     InputObject,
+[09:09:41 AM] 157:                     Enum.KeyCode.G
+[09:09:41 AM] 158:                 )
+[09:09:41 AM] 159:                 task.defer(function() -- line: 151
+[09:09:41 AM] 160:                     require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[09:09:41 AM] 161:                 end)
+[09:09:41 AM] 162:             end
+[09:09:41 AM] 163:         end)
+[09:09:41 AM] 164:         task.defer(function() -- line: 158
+[09:09:41 AM] 165:             -- upvalues:
+[09:09:41 AM] 166:             --  [1] InputObject (copy)
+[09:09:41 AM] 167: 
+[09:09:41 AM] 168:             require(game.ReplicatedStorage.Global).TestGamePrint("cast from here")
+[09:09:41 AM] 169:             require(game.ReplicatedStorage.Global).casFunc(
+[09:09:41 AM] 170:                 "DevilFruit",
+[09:09:41 AM] 171:                 Enum.UserInputState.Begin,
+[09:09:41 AM] 172:                 InputObject,
+[09:09:41 AM] 173:                 Enum.KeyCode.G
+[09:09:41 AM] 174:             )
+[09:09:41 AM] 175:         end)
+[09:09:41 AM] 176:     end,
+[09:09:41 AM] 177:     isToolSkillDisabled = function(u1: userdata, s1: string) --[[ isToolSkillDisabled ]] -- line: 169
+[09:09:41 AM] 178:         return if u1:GetAttribute("DisabledSkill" .. s1) ~= true then false else true
+[09:09:41 AM] 179:     end
+[09:09:41 AM] 180: }
+[09:09:41 AM] 181: 
+[09:09:41 AM] 182: function t_3.IsSkillBlocked(u2: userdata, u3: userdata, s2: string) -- line: 173
+[09:09:41 AM] 183:     -- upvalues:
+[09:09:41 AM] 184:     --  [1] t_3 (copy)
+[09:09:41 AM] 185:     --  [2] t_1 (copy)
+[09:09:41 AM] 186: 
+[09:09:41 AM] 187:     if t_3.isToolSkillDisabled(u3, s2) then
+[09:09:41 AM] 188:         return true
+[09:09:41 AM] 189:     end
+[09:09:41 AM] 190: 
+[09:09:41 AM] 191:     if s2 == "F" and u2.Character and u2.Character:HasTag("TargetEggOwner") and table.find(
+[09:09:41 AM] 192:         t_1,
+[09:09:41 AM] 193:         u3.Name
+[09:09:41 AM] 194:     ) then
+[09:09:41 AM] 195:         local t_5 = {}
+[09:09:41 AM] 196:         local AwakenedMoves = u3:FindFirstChild("AwakenedMoves")
+[09:09:41 AM] 197:         local v10 = AwakenedMoves
+[09:09:41 AM] 198: 
+[09:09:41 AM] 199:         if v10 then
+[09:09:41 AM] 200:             v10 = AwakenedMoves:FindFirstChild(s2)
+[09:09:41 AM] 201:         end
+[09:09:41 AM] 202: 
+[09:09:41 AM] 203:         if table.find({ "Magma-Magma" }, u3.Name) then
+[09:09:41 AM] 204:             if v10 then
+[09:09:41 AM] 205:                 return true, "<Color=Red>You can't use this skill while holding the Target Egg!<Color=/>"
+[09:09:41 AM] 206:             end
+[09:09:41 AM] 207:         elseif table.find(t_5, u3.Name) then
+[09:09:41 AM] 208:             if not v10 then
+[09:09:41 AM] 209:                 return true, "<Color=Red>You can't use this skill while holding the Target Egg!<Color=/>"
+[09:09:41 AM] 210:             end
+[09:09:41 AM] ===== FRUIT SKILL UTIL: LINES 75-210 =====
+[09:09:41 AM] 75: local t_3 = {
+[09:09:41 AM] 76:     getFruitDataAsync = function() --[[ getFruitDataAsync ]] -- line: 91
+[09:09:41 AM] 77:         -- upvalues:
+[09:09:41 AM] 78:         --  [1] RunService (copy)
+[09:09:41 AM] 79:         --  [2] GlobalUtil_m (copy)
+[09:09:41 AM] 80:         --  [3] ReplicatedStorage (copy)
+[09:09:41 AM] 81: 
+[09:09:41 AM] 82:         if RunService:IsRunning() and (not GlobalUtil_m.FFlags.IsUnitTest and not GlobalUtil_m.FFlags.IsSandboxed) then
+[09:09:41 AM] 83:             if RunService:IsServer() then
+[09:09:41 AM] 84:                 return assembleServerData()
+[09:09:41 AM] 85:             end
+[09:09:41 AM] 86: 
+[09:09:41 AM] 87:             local GetFruitData = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild(
+[09:09:41 AM] 88:                 "GetFruitData"
+[09:09:41 AM] 89:             )
+[09:09:41 AM] 90:             assert(GetFruitData:IsA("RemoteFunction"))
+[09:09:41 AM] 91: 
+[09:09:41 AM] 92:             return GetFruitData:InvokeServer()
+[09:09:41 AM] 93:         end
+[09:09:41 AM] 94: 
+[09:09:41 AM] 95:         return assembleServerData()
+[09:09:41 AM] 96:     end,
+[09:09:41 AM] 97:     MobileM1ButtonActivated = function(arg1) --[[ MobileM1ButtonActivated ]] -- line: 106
+[09:09:41 AM] 98:         local HeldTool = arg1.HeldTool
+[09:09:41 AM] 99:         local InputObject = arg1.InputObject
+[09:09:41 AM] 100:         local TapHoldButton = arg1.TapHoldButton
+[09:09:41 AM] 101: 
+[09:09:41 AM] 102:         if HeldTool.Name == "Dragon-Dragon" then
+[09:09:41 AM] 103:             require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[09:09:41 AM] 104:             local v6 = nil
+[09:09:41 AM] 105:             v6 = InputObject.Changed:Connect(function(arg2) -- line: 114
+[09:09:41 AM] 106:                 -- upvalues:
+[09:09:41 AM] 107:                 --  [1] InputObject (copy)
+[09:09:41 AM] 108:                 --  [2] v6 (ref)
+[09:09:41 AM] 109:                 --  [3] HeldTool (copy)
+[09:09:41 AM] 110:                 --  [4] TapHoldButton (copy)
+[09:09:41 AM] 111: 
+[09:09:41 AM] 112:                 if arg2 == "UserInputState" and InputObject.UserInputState == Enum.UserInputState.End then
+[09:09:41 AM] 113:                     v6:Disconnect()
+[09:09:42 AM] 114:                     HeldTool:Deactivate()
+[09:09:42 AM] 115: 
+[09:09:42 AM] 116:                     if TapHoldButton and require(game.ReplicatedStorage.Global).mobileSelectionFrame == TapHoldButton then
+[09:09:42 AM] 117:                         require(game.ReplicatedStorage.Global).mobileSelectionFrame.BackgroundColor3 = Color3.new()
+[09:09:42 AM] 118:                         require(game.ReplicatedStorage.Global).mobileSelectionFrame = nil
+[09:09:42 AM] 119:                         require(game.ReplicatedStorage.Global).mobileSelection = nil
+[09:09:42 AM] 120:                     end
+[09:09:42 AM] 121: 
+[09:09:42 AM] 122:                     task.defer(function() -- line: 123
+[09:09:42 AM] 123:                         require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[09:09:42 AM] 124:                     end)
+[09:09:42 AM] 125:                 end
+[09:09:42 AM] 126:             end)
+[09:09:42 AM] 127:             HeldTool:Activate()
+[09:09:42 AM] 128: 
+[09:09:42 AM] 129:             return
+[09:09:42 AM] 130:         end
+[09:09:42 AM] 131: 
+[09:09:42 AM] 132:         require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = InputObject
+[09:09:42 AM] 133:         require(game.ReplicatedStorage.Global).updateMouseWrapper(InputObject)
+[09:09:42 AM] 134:         InputObject.KeyCode = Enum.KeyCode.G
+[09:09:42 AM] 135:         local v7 = nil
+[09:09:42 AM] 136:         v7 = InputObject.Changed:Connect(function(arg3) -- line: 135
+[09:09:42 AM] 137:             -- upvalues:
+[09:09:42 AM] 138:             --  [1] InputObject (copy)
+[09:09:42 AM] 139:             --  [2] v7 (ref)
+[09:09:42 AM] 140:             --  [3] TapHoldButton (copy)
+[09:09:42 AM] 141: 
+[09:09:42 AM] 142:             if arg3 == "UserInputState" and InputObject.UserInputState == Enum.UserInputState.End then
+[09:09:42 AM] 143:                 v7:Disconnect()
+[09:09:42 AM] 144: 
+[09:09:42 AM] 145:                 if TapHoldButton and require(game.ReplicatedStorage.Global).mobileSelectionFrame == TapHoldButton then
+[09:09:42 AM] 146:                     require(game.ReplicatedStorage.Global).mobileSelectionFrame.BackgroundColor3 = Color3.new()
+[09:09:42 AM] 147:                     require(game.ReplicatedStorage.Global).mobileSelectionFrame = nil
+[09:09:42 AM] 148:                     require(game.ReplicatedStorage.Global).mobileSelection = nil
+[09:09:42 AM] 149:                 end
+[09:09:42 AM] 150: 
+[09:09:42 AM] 151:                 InputObject.KeyCode = Enum.KeyCode.G
+[09:09:42 AM] 152:                 require(game.ReplicatedStorage.Global).TestGamePrint("end from here")
+[09:09:42 AM] 153:                 require(game.ReplicatedStorage.Global).casFunc(
+[09:09:42 AM] 154:                     "DevilFruit",
+[09:09:42 AM] 155:                     Enum.UserInputState.End,
+[09:09:42 AM] 156:                     InputObject,
+[09:09:42 AM] 157:                     Enum.KeyCode.G
+[09:09:42 AM] 158:                 )
+[09:09:42 AM] 159:                 task.defer(function() -- line: 151
+[09:09:42 AM] 160:                     require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[09:09:42 AM] 161:                 end)
+[09:09:42 AM] 162:             end
+[09:09:42 AM] 163:         end)
+[09:09:42 AM] 164:         task.defer(function() -- line: 158
+[09:09:42 AM] 165:             -- upvalues:
+[09:09:42 AM] 166:             --  [1] InputObject (copy)
+[09:09:42 AM] 167: 
+[09:09:42 AM] 168:             require(game.ReplicatedStorage.Global).TestGamePrint("cast from here")
+[09:09:42 AM] 169:             require(game.ReplicatedStorage.Global).casFunc(
+[09:09:42 AM] 170:                 "DevilFruit",
+[09:09:42 AM] 171:                 Enum.UserInputState.Begin,
+[09:09:42 AM] 172:                 InputObject,
+[09:09:42 AM] 173:                 Enum.KeyCode.G
+[09:09:42 AM] 174:             )
+[09:09:42 AM] 175:         end)
+[09:09:42 AM] 176:     end,
+[09:09:42 AM] 177:     isToolSkillDisabled = function(u1: userdata, s1: string) --[[ isToolSkillDisabled ]] -- line: 169
+[09:09:42 AM] 178:         return if u1:GetAttribute("DisabledSkill" .. s1) ~= true then false else true
+[09:09:42 AM] 179:     end
+[09:09:42 AM] 180: }
+[09:09:42 AM] 181: 
+[09:09:42 AM] 182: function t_3.IsSkillBlocked(u2: userdata, u3: userdata, s2: string) -- line: 173
+[09:09:42 AM] 183:     -- upvalues:
+[09:09:42 AM] 184:     --  [1] t_3 (copy)
+[09:09:42 AM] 185:     --  [2] t_1 (copy)
+[09:09:42 AM] 186: 
+[09:09:43 AM] 187:     if t_3.isToolSkillDisabled(u3, s2) then
+[09:09:43 AM] 188:         return true
+[09:09:43 AM] 189:     end
+[09:09:43 AM] 190: 
+[09:09:43 AM] 191:     if s2 == "F" and u2.Character and u2.Character:HasTag("TargetEggOwner") and table.find(
+[09:09:43 AM] 192:         t_1,
+[09:09:43 AM] 193:         u3.Name
+[09:09:43 AM] 194:     ) then
+[09:09:43 AM] 195:         local t_5 = {}
+[09:09:43 AM] 196:         local AwakenedMoves = u3:FindFirstChild("AwakenedMoves")
+[09:09:43 AM] 197:         local v10 = AwakenedMoves
+[09:09:43 AM] 198: 
+[09:09:43 AM] 199:         if v10 then
+[09:09:43 AM] 200:             v10 = AwakenedMoves:FindFirstChild(s2)
+[09:09:43 AM] 201:         end
+[09:09:43 AM] 202: 
+[09:09:43 AM] 203:         if table.find({ "Magma-Magma" }, u3.Name) then
+[09:09:43 AM] 204:             if v10 then
+[09:09:43 AM] 205:                 return true, "<Color=Red>You can't use this skill while holding the Target Egg!<Color=/>"
+[09:09:43 AM] 206:             end
+[09:09:43 AM] 207:         elseif table.find(t_5, u3.Name) then
+[09:09:43 AM] 208:             if not v10 then
+[09:09:43 AM] 209:                 return true, "<Color=Red>You can't use this skill while holding the Target Egg!<Color=/>"
+[09:09:43 AM] 210:             end
