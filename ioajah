@@ -1,4153 +1,500 @@
-[07:20:59 AM] ItemId:	508	| Value:	table: 0xb2ed0e908313aa5d {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "7",
-      "F": "0.65",
-      "TAP": "2",
-      "V": "15",
-      "X": "6",
-      "Z": "3"
-    },
-    "value": "table: 0x83c3f376d6f7e931"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "F": "25",
-      "TAP": "5",
-      "V": "100",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x925ed7702b725828"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "75",
-      "F": "25",
-      "TAP": "0",
-      "V": "125",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0xa33eb624f04819e8"
-  }
-}
-[07:20:59 AM]   	Lvl	table: 0xa33eb624f04819e8 {
-  "C": "75",
-  "F": "25",
-  "TAP": "0",
-  "V": "125",
-  "X": "50",
-  "Z": "1"
-}
-[07:20:59 AM]   	Cap	200
-[07:20:59 AM]   	Cooldown	table: 0x83c3f376d6f7e931 {
-  "C": "7",
-  "F": "0.65",
-  "TAP": "2",
-  "V": "15",
-  "X": "6",
-  "Z": "3"
-}
-[07:21:00 AM]   	Cost	table: 0x925ed7702b725828 {
-  "C": "50",
-  "F": "25",
-  "TAP": "5",
-  "V": "100",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:00 AM] ItemId:	57	| Value:	table: 0x4fdfe2c7298b7c1e {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "12.5",
-      "F": "4.25",
-      "V": "16.5",
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0xb064990f30f892a1"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "20",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0xa439fea39336b380"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x70b7a36c560447e5"
-  }
-}
-[07:21:00 AM]   	Lvl	table: 0x70b7a36c560447e5 {
-  "C": "200",
-  "F": "50",
-  "V": "300",
-  "X": "100",
-  "Z": "1"
-}
-[07:21:00 AM]   	Cap	400
-[07:21:00 AM]   	Cooldown	table: 0xb064990f30f892a1 {
-  "C": "12.5",
-  "F": "4.25",
-  "V": "16.5",
-  "X": "8",
-  "Z": "5"
-}
-[07:21:00 AM]   	Cost	table: 0xa439fea39336b380 {
-  "C": "80",
-  "F": "20",
-  "V": "100",
-  "X": "60",
-  "Z": "40"
-}
-[07:21:00 AM] ItemId:	1411	| Value:	table: 0x612b28b889fd8a4d {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "9.5",
-      "F": "5",
-      "X": "7.25",
-      "Z": "5.5"
-    },
-    "value": "table: 0x153cc6d384f68dc5"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x2a26c443473d9e88"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "90",
-      "F": "25",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x10c3c7c88965269d"
-  }
-}
-[07:21:00 AM]   	Lvl	table: 0x10c3c7c88965269d {
-  "C": "90",
-  "F": "25",
-  "X": "50",
-  "Z": "1"
-}
-[07:21:00 AM]   	Cap	200
-[07:21:00 AM]   	Cooldown	table: 0x153cc6d384f68dc5 {
-  "C": "9.5",
-  "F": "5",
-  "X": "7.25",
-  "Z": "5.5"
-}
-[07:21:01 AM]   	Cost	table: 0x2a26c443473d9e88 {
-  "C": "35",
-  "F": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:01 AM] ItemId:	32	| Value:	table: 0x2889ee7ec695746a {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3",
-      "X": "6",
-      "Z": "3.5"
-    },
-    "value": "table: 0x16d450c8e10cf750"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "F": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xbc4a06ba447a5530"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "10",
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0x70ee9e9ec5d4124f"
-  }
-}
-[07:21:01 AM]   	Lvl	table: 0x70ee9e9ec5d4124f {
-  "C": "50",
-  "F": "10",
-  "X": "20",
-  "Z": "1"
-}
-[07:21:01 AM]   	Cap	200
-[07:21:01 AM]   	Cooldown	table: 0x16d450c8e10cf750 {
-  "C": "9",
-  "F": "3",
-  "X": "6",
-  "Z": "3.5"
-}
-[07:21:01 AM]   	Cost	table: 0xbc4a06ba447a5530 {
-  "C": "50",
-  "F": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:01 AM] ItemId:	1417	| Value:	table: 0xd1e9bae1b9ea1df1 {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "11",
-          "F": "4.5",
-          "TAP": "0.5",
-          "V": "15",
-          "X": "8.5",
-          "Z": "6"
-        },
-        "value": "table: 0xb2ebb66acc080677"
-      },
-      "Cost": {
-        "keys": {
-          "C": "80",
-          "F": "25",
-          "TAP": "40",
-          "V": "90",
-          "X": "60",
-          "Z": "40"
-        },
-        "value": "table: 0x8eb6ca5521f6a62d"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "TAP": "4000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0x831b9d089bd8d55f"
-      }
-    },
-    "value": "table: 0xcefe2fcc9fd8bac0"
-  },
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "4.5",
-      "V": "15",
-      "X": "8.5",
-      "Z": "6"
-    },
-    "value": "table: 0xc4a80f1ba90e67c9"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "25",
-      "V": "90",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x22cc1765226094f6"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "TAP": "1",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x8a319e0b2434add3"
-  }
-}
-[07:21:01 AM]   	Cap	275
-[07:21:02 AM]   	Cost	table: 0x22cc1765226094f6 {
-  "C": "80",
-  "F": "25",
-  "V": "90",
-  "X": "60",
-  "Z": "40"
-}
-[07:21:02 AM]   	Awakening	table: 0xcefe2fcc9fd8bac0 {
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "4.5",
-      "TAP": "0.5",
-      "V": "15",
-      "X": "8.5",
-      "Z": "6"
-    },
-    "value": "table: 0xb2ebb66acc080677"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "25",
-      "TAP": "40",
-      "V": "90",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x8eb6ca5521f6a62d"
-  },
-  "Fragments": {
-    "keys": {
-      "C": "4000",
-      "F": "2000",
-      "TAP": "4000",
-      "V": "5000",
-      "X": "3000",
-      "Z": "500"
-    },
-    "value": "table: 0x831b9d089bd8d55f"
-  }
-}
-[07:21:02 AM]   	Cooldown	table: 0xc4a80f1ba90e67c9 {
-  "C": "11",
-  "F": "4.5",
-  "V": "15",
-  "X": "8.5",
-  "Z": "6"
-}
-[07:21:02 AM]   	Lvl	table: 0x8a319e0b2434add3 {
-  "C": "200",
-  "F": "50",
-  "TAP": "1",
-  "V": "300",
-  "X": "100",
-  "Z": "1"
-}
-[07:21:02 AM] ItemId:	1204	| Value:	table: 0xc08a12ba1044a80a {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0xea6a3414330c360a"
-  },
-  "Cost": {
-    "keys": {
-      "X": "30",
-      "Z": "20"
-    },
-    "value": "table: 0x73fe61b4e1e6a587"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0x2800c322b7bfc9b3"
-  }
-}
-[07:21:02 AM]   	Lvl	table: 0x2800c322b7bfc9b3 {
-  "X": "300",
-  "Z": "150"
-}
-[07:21:02 AM]   	Cap	400
-[07:21:02 AM]   	Cooldown	table: 0xea6a3414330c360a {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:02 AM]   	Cost	table: 0x73fe61b4e1e6a587 {
-  "X": "30",
-  "Z": "20"
-}
-[07:21:02 AM] ItemId:	8	| Value:	table: 0x41606edc1e40e65a {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "9",
-          "F": "4",
-          "V": "16",
-          "X": "7",
-          "Z": "5"
-        },
-        "value": "table: 0x3b9c617901cc46d2"
-      },
-      "Cost": {
-        "keys": {
-          "C": "35",
-          "F": "75",
-          "V": "50",
-          "X": "25",
-          "Z": "15"
-        },
-        "value": "table: 0x4c8ee7108319f706"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0xe86ad295b3ea851c"
-      }
-    },
-    "value": "table: 0x2a3c7693fe59709c"
-  },
-  "Cap": "300",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "4",
-      "V": "16",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xd68f9ae5ac5e6a22"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "75",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x7fb564eebab3a12b"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "95",
-      "F": "10",
-      "V": "140",
-      "X": "45",
-      "Z": "1"
-    },
-    "value": "table: 0x66f59b5f0c32cdb3"
-  }
-}
-[07:21:02 AM]   	Cap	300
-[07:21:03 AM]   	Cost	table: 0x7fb564eebab3a12b {
-  "C": "35",
-  "F": "75",
-  "V": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:03 AM]   	Awakening	table: 0x2a3c7693fe59709c {
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "4",
-      "V": "16",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x3b9c617901cc46d2"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "75",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x4c8ee7108319f706"
-  },
-  "Fragments": {
-    "keys": {
-      "C": "4000",
-      "F": "2000",
-      "V": "5000",
-      "X": "3000",
-      "Z": "500"
-    },
-    "value": "table: 0xe86ad295b3ea851c"
-  }
-}
-[07:21:03 AM]   	Cooldown	table: 0xd68f9ae5ac5e6a22 {
-  "C": "9",
-  "F": "4",
-  "V": "16",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:03 AM]   	Lvl	table: 0x66f59b5f0c32cdb3 {
-  "C": "95",
-  "F": "10",
-  "V": "140",
-  "X": "45",
-  "Z": "1"
-}
-[07:21:03 AM] ItemId:	1184	| Value:	table: 0xa55d54a0f5ad30cb {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "V": "30",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x26a0c8c701fcd0ca"
-  },
-  "Cost": {
-    "keys": {
-      "C": "55",
-      "V": "100",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xf8cae4897710af58"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "300",
-      "V": "400",
-      "X": "200",
-      "Z": "100"
-    },
-    "value": "table: 0xccbe12774730f37f"
-  }
-}
-[07:21:03 AM]   	Lvl	table: 0xccbe12774730f37f {
-  "C": "300",
-  "V": "400",
-  "X": "200",
-  "Z": "100"
-}
-[07:21:03 AM]   	Cap	400
-[07:21:03 AM]   	Cooldown	table: 0x26a0c8c701fcd0ca {
-  "C": "11",
-  "V": "30",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:03 AM]   	Cost	table: 0xf8cae4897710af58 {
-  "C": "55",
-  "V": "100",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:03 AM] ItemId:	1145	| Value:	table: 0xd12bfec35c8a44b4 {
-  "Cap": "450",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x20540440b2d49f37"
-  },
-  "Cost": {
-    "keys": {
-      "X": "30",
-      "Z": "20"
-    },
-    "value": "table: 0x120febf32e87f7d6"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0x46d5e0e811c519c7"
-  }
-}
-[07:21:04 AM]   	Lvl	table: 0x46d5e0e811c519c7 {
-  "X": "300",
-  "Z": "150"
-}
-[07:21:04 AM]   	Cap	450
-[07:21:04 AM]   	Cooldown	table: 0x20540440b2d49f37 {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:04 AM]   	Cost	table: 0x120febf32e87f7d6 {
-  "X": "30",
-  "Z": "20"
-}
-[07:21:04 AM] ItemId:	1419	| Value:	table: 0xa985accb803b33a1 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "2",
-      "V": "16",
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0x4615446f0dd6d94c"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "F": "25",
-      "V": "100",
-      "X": "50",
-      "Z": "25"
-    },
-    "value": "table: 0x203e47e8091d8c97"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "175",
-      "V": "250",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x3277e2ab918d7fd1"
-  }
-}
-[07:21:04 AM]   	Lvl	table: 0x3277e2ab918d7fd1 {
-  "C": "100",
-  "F": "175",
-  "V": "250",
-  "X": "50",
-  "Z": "1"
-}
-[07:21:04 AM]   	Cap	275
-[07:21:04 AM]   	Cooldown	table: 0x4615446f0dd6d94c {
-  "C": "10",
-  "F": "2",
-  "V": "16",
-  "X": "8",
-  "Z": "6"
-}
-[07:21:04 AM]   	Cost	table: 0x203e47e8091d8c97 {
-  "C": "75",
-  "F": "25",
-  "V": "100",
-  "X": "50",
-  "Z": "25"
-}
-[07:21:04 AM] ItemId:	1423	| Value:	table: 0xfca6d353111c6e9b {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "6",
-      "V": "2",
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0xc4e0ed074963ba17"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "60",
-      "V": "20",
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0x074ec6fad30a1347"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "200",
-      "V": "300",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x915c7338ce2281a5"
-  }
-}
-[07:21:04 AM]   	Lvl	table: 0x915c7338ce2281a5 {
-  "C": "100",
-  "F": "200",
-  "V": "300",
-  "X": "50",
-  "Z": "1"
-}
-[07:21:04 AM]   	Cap	275
-[07:21:05 AM]   	Cooldown	table: 0xc4e0ed074963ba17 {
-  "C": "10",
-  "F": "6",
-  "V": "2",
-  "X": "8",
-  "Z": "6"
-}
-[07:21:05 AM]   	Cost	table: 0x074ec6fad30a1347 {
-  "C": "80",
-  "F": "60",
-  "V": "20",
-  "X": "40",
-  "Z": "20"
-}
-[07:21:05 AM] ItemId:	458	| Value:	table: 0x2c4db514c40b9dea {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "5",
-      "TAP": "2.5",
-      "V": "16",
-      "X": "12.5",
-      "Z": "5"
-    },
-    "value": "table: 0xb725581326270eae"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "25",
-      "TAP": "0",
-      "V": "100",
-      "X": "50",
-      "Z": "15"
-    },
-    "value": "table: 0x1bac9275ffe75aea"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "100",
-      "TAP": "1",
-      "V": "300",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0xc362a736bb939522"
-  }
-}
-[07:21:05 AM]   	Lvl	table: 0xc362a736bb939522 {
-  "C": "200",
-  "F": "100",
-  "TAP": "1",
-  "V": "300",
-  "X": "50",
-  "Z": "1"
-}
-[07:21:05 AM]   	Cap	200
-[07:21:05 AM]   	Cooldown	table: 0xb725581326270eae {
-  "C": "11",
-  "F": "5",
-  "TAP": "2.5",
-  "V": "16",
-  "X": "12.5",
-  "Z": "5"
-}
-[07:21:05 AM]   	Cost	table: 0x1bac9275ffe75aea {
-  "C": "100",
-  "F": "25",
-  "TAP": "0",
-  "V": "100",
-  "X": "50",
-  "Z": "15"
-}
-[07:21:05 AM] ItemId:	1240	| Value:	table: 0x94639728463591a9 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xdf5d319cfe4a9859"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "X": "35",
-      "Z": "25"
-    },
-    "value": "table: 0x58a5fb33e013aa55"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "350",
-      "X": "250",
-      "Z": "125"
-    },
-    "value": "table: 0xd2937ac781879f88"
-  }
-}
-[07:21:05 AM]   	Lvl	table: 0xd2937ac781879f88 {
-  "C": "350",
-  "X": "250",
-  "Z": "125"
-}
-[07:21:05 AM]   	Cap	275
-[07:21:05 AM]   	Cooldown	table: 0xdf5d319cfe4a9859 {
-  "C": "11",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:06 AM]   	Cost	table: 0x58a5fb33e013aa55 {
-  "C": "75",
-  "X": "35",
-  "Z": "25"
-}
-[07:21:06 AM] ItemId:	1406	| Value:	table: 0x4ae896eb72ed6204 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "12.5",
-      "F": "4.25",
-      "V": "16.5",
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0xcd26da27e0047e7b"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "20",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x25e4650fa155cb21"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x1292cf88d6202c41"
-  }
-}
-[07:21:06 AM]   	Lvl	table: 0x1292cf88d6202c41 {
-  "C": "200",
-  "F": "50",
-  "V": "300",
-  "X": "100",
-  "Z": "1"
-}
-[07:21:06 AM]   	Cap	400
-[07:21:06 AM]   	Cooldown	table: 0xcd26da27e0047e7b {
-  "C": "12.5",
-  "F": "4.25",
-  "V": "16.5",
-  "X": "8",
-  "Z": "5"
-}
-[07:21:06 AM]   	Cost	table: 0x25e4650fa155cb21 {
-  "C": "80",
-  "F": "20",
-  "V": "100",
-  "X": "60",
-  "Z": "40"
-}
-[07:21:06 AM] ItemId:	1157	| Value:	table: 0xd48a09918f7eb026 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "X": "10.5",
-      "Z": "6.5"
-    },
-    "value": "table: 0x87cd3ab2dd4c3c61"
-  },
-  "Cost": {
-    "keys": {
-      "X": "60",
-      "Z": "30"
-    },
-    "value": "table: 0xabf70535397b0732"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "200",
-      "Z": "100"
-    },
-    "value": "table: 0x9401a6fff02efe23"
-  }
-}
-[07:21:06 AM]   	Lvl	table: 0x9401a6fff02efe23 {
-  "X": "200",
-  "Z": "100"
-}
-[07:21:06 AM]   	Cap	400
-[07:21:06 AM]   	Cooldown	table: 0x87cd3ab2dd4c3c61 {
-  "X": "10.5",
-  "Z": "6.5"
-}
-[07:21:06 AM]   	Cost	table: 0xabf70535397b0732 {
-  "X": "60",
-  "Z": "30"
-}
-[07:21:06 AM] ItemId:	1233	| Value:	table: 0x1f7e29cfa1accfd8 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x49add00a5985bf8c"
-  },
-  "Cost": {
-    "keys": {
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0x5ae2cbffb4a3c634"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0xd7868326069df1be"
-  }
-}
-[07:21:07 AM]   	Lvl	table: 0xd7868326069df1be {
-  "X": "300",
-  "Z": "150"
-}
-[07:21:07 AM]   	Cap	275
-[07:21:07 AM]   	Cooldown	table: 0x49add00a5985bf8c {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:07 AM]   	Cost	table: 0x5ae2cbffb4a3c634 {
-  "X": "40",
-  "Z": "20"
-}
-[07:21:07 AM] ItemId:	184	| Value:	table: 0xa638e24fbfc3d81d {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "4",
-      "V": "18",
-      "X": "8.5",
-      "Z": "5.5"
-    },
-    "value": "table: 0x589649608cf6fbc0"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "60",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0xe82a549c6272e10b"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "40",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0x2eb38c3cb343653e"
-  }
-}
-[07:21:07 AM]   	Lvl	table: 0x2eb38c3cb343653e {
-  "C": "160",
-  "F": "40",
-  "V": "250",
-  "X": "90",
-  "Z": "1"
-}
-[07:21:07 AM]   	Cap	275
-[07:21:07 AM]   	Cooldown	table: 0x589649608cf6fbc0 {
-  "C": "11",
-  "F": "4",
-  "V": "18",
-  "X": "8.5",
-  "Z": "5.5"
-}
-[07:21:07 AM]   	Cost	table: 0xe82a549c6272e10b {
-  "C": "80",
-  "F": "60",
-  "V": "100",
-  "X": "60",
-  "Z": "40"
-}
-[07:21:07 AM] ItemId:	1427	| Value:	table: 0x2c5abdb71358459a {
-  "Cap": "375",
-  "Cooldown": {
-    "keys": {
-      "C": "12",
-      "F": "0",
-      "TAP": "0.1",
-      "V": "28.5",
-      "X": "8",
-      "Z": "0"
-    },
-    "value": "table: 0x77acc78e5fd7c56b"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "TAP": "0",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xbc83817547ddd01a"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "30",
-      "TAP": "0",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0x49548c7e2a5925e9"
-  }
-}
-[07:21:07 AM]   	Lvl	table: 0x49548c7e2a5925e9 {
-  "C": "160",
-  "F": "30",
-  "TAP": "0",
-  "V": "250",
-  "X": "90",
-  "Z": "1"
-}
-[07:21:07 AM]   	Cap	375
-[07:21:08 AM]   	Cooldown	table: 0x77acc78e5fd7c56b {
-  "C": "12",
-  "F": "0",
-  "TAP": "0.1",
-  "V": "28.5",
-  "X": "8",
-  "Z": "0"
-}
-[07:21:08 AM]   	Cost	table: 0xbc83817547ddd01a {
-  "C": "35",
-  "F": "30",
-  "TAP": "0",
-  "V": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:08 AM] ItemId:	1100	| Value:	table: 0x2f6d836a1dde97eb {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0x4a1642898292f670"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xadb056ef9ec972fc"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "60",
-      "Z": "20"
-    },
-    "value": "table: 0xeed5be1f9d0313fd"
-  }
-}
-[07:21:08 AM]   	Lvl	table: 0xeed5be1f9d0313fd {
-  "X": "60",
-  "Z": "20"
-}
-[07:21:08 AM]   	Cap	200
-[07:21:08 AM]   	Cooldown	table: 0x4a1642898292f670 {
-  "X": "8",
-  "Z": "5"
-}
-[07:21:08 AM]   	Cost	table: 0xadb056ef9ec972fc {
-  "X": "25",
-  "Z": "15"
-}
-[07:21:08 AM] ItemId:	1105	| Value:	table: 0x26e21debb25a6342 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0xd53fc000f50678cc"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x23a32ade6942c8bb"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "60",
-      "Z": "10"
-    },
-    "value": "table: 0x5166c314f31d6a4a"
-  }
-}
-[07:21:08 AM]   	Lvl	table: 0x5166c314f31d6a4a {
-  "X": "60",
-  "Z": "10"
-}
-[07:21:08 AM]   	Cap	200
-[07:21:08 AM]   	Cooldown	table: 0xd53fc000f50678cc {
-  "X": "8",
-  "Z": "5"
-}
-[07:21:08 AM]   	Cost	table: 0x23a32ade6942c8bb {
-  "X": "25",
-  "Z": "15"
-}
-[07:21:08 AM] ItemId:	1524	| Value:	table: 0x0e2efd2775265a07 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "2.5",
-      "V": "15",
-      "X": "7.5",
-      "Z": "5"
-    },
-    "value": "table: 0xeebaaaa372f397af"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "50",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x3e2fa6e38ef91a3b"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "75",
-      "V": "150",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x2560ac85b5d30755"
-  }
-}
-[07:21:09 AM]   	Lvl	table: 0x2560ac85b5d30755 {
-  "C": "100",
-  "F": "75",
-  "V": "150",
-  "X": "50",
-  "Z": "1"
-}
-[07:21:09 AM]   	Cap	200
-[07:21:09 AM]   	Cooldown	table: 0xeebaaaa372f397af {
-  "C": "10",
-  "F": "2.5",
-  "V": "15",
-  "X": "7.5",
-  "Z": "5"
-}
-[07:21:09 AM]   	Cost	table: 0x3e2fa6e38ef91a3b {
-  "C": "35",
-  "F": "50",
-  "V": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:09 AM] ItemId:	95	| Value:	table: 0x846f9a09c58ad7f5 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "5",
-      "TAP": "0.875",
-      "V": "20",
-      "X": "10",
-      "Z": "1"
-    },
-    "value": "table: 0x56755555a84bf60e"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "50",
-      "TAP": "0",
-      "V": "10",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x23ecfffcb6a0e959"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "250",
-      "F": "75",
-      "TAP": "0",
-      "V": "350",
-      "X": "150",
-      "Z": "1"
-    },
-    "value": "table: 0xa5200d23d521e98c"
-  }
-}
-[07:21:09 AM]   	Lvl	table: 0xa5200d23d521e98c {
-  "C": "250",
-  "F": "75",
-  "TAP": "0",
-  "V": "350",
-  "X": "150",
-  "Z": "1"
-}
-[07:21:09 AM]   	Cap	275
-[07:21:09 AM]   	Cooldown	table: 0x56755555a84bf60e {
-  "C": "10",
-  "F": "5",
-  "TAP": "0.875",
-  "V": "20",
-  "X": "10",
-  "Z": "1"
-}
-[07:21:09 AM]   	Cost	table: 0x23ecfffcb6a0e959 {
-  "C": "100",
-  "F": "50",
-  "TAP": "0",
-  "V": "10",
-  "X": "60",
-  "Z": "40"
-}
-[07:21:09 AM] ItemId:	1169	| Value:	table: 0x70e46ab40d056f9a {
-  "Cap": "350",
-  "Cooldown": {
-    "keys": {
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0x9098488e5c7f5011"
-  },
-  "Cost": {
-    "keys": {
-      "X": "60",
-      "Z": "30"
-    },
-    "value": "table: 0x29bd404f54f80abc"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0x8a24371e478c48b0"
-  }
-}
-[07:21:09 AM]   	Lvl	table: 0x8a24371e478c48b0 {
-  "X": "300",
-  "Z": "150"
-}
-[07:21:09 AM]   	Cap	350
-[07:21:10 AM]   	Cooldown	table: 0x9098488e5c7f5011 {
-  "X": "8",
-  "Z": "6"
-}
-[07:21:10 AM]   	Cost	table: 0x29bd404f54f80abc {
-  "X": "60",
-  "Z": "30"
-}
-[07:21:10 AM] ItemId:	471	| Value:	table: 0x2d35a2cac3da48db {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "TAP": "0.8",
-      "V": "14",
-      "X": "8",
-      "Z": "4"
-    },
-    "value": "table: 0xc691e11e5a09d902"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "TAP": "25",
-      "V": "60",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x503436f828d6d51d"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "TAP": "1",
-      "V": "110",
-      "X": "1",
-      "Z": "1"
-    },
-    "value": "table: 0xd3fd8958639c5f79"
-  }
-}
-[07:21:10 AM]   	Lvl	table: 0xd3fd8958639c5f79 {
-  "C": "80",
-  "TAP": "1",
-  "V": "110",
-  "X": "1",
-  "Z": "1"
-}
-[07:21:10 AM]   	Cap	325
-[07:21:10 AM]   	Cooldown	table: 0xc691e11e5a09d902 {
-  "C": "10",
-  "TAP": "0.8",
-  "V": "14",
-  "X": "8",
-  "Z": "4"
-}
-[07:21:10 AM]   	Cost	table: 0x503436f828d6d51d {
-  "C": "30",
-  "TAP": "25",
-  "V": "60",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:10 AM] ItemId:	540	| Value:	table: 0xa18193946a7946ea {
-  "Cap": "375",
-  "Cooldown": {
-    "keys": {
-      "C": "12",
-      "F": "0",
-      "TAP": "0.1",
-      "V": "28.5",
-      "X": "8",
-      "Z": "0"
-    },
-    "value": "table: 0x6bcc40259ae89ed2"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "TAP": "0",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x6fc742c167f44377"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "30",
-      "TAP": "0",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0xbeacc2f914887f99"
-  }
-}
-[07:21:10 AM]   	Lvl	table: 0xbeacc2f914887f99 {
-  "C": "160",
-  "F": "30",
-  "TAP": "0",
-  "V": "250",
-  "X": "90",
-  "Z": "1"
-}
-[07:21:10 AM]   	Cap	375
-[07:21:10 AM]   	Cooldown	table: 0x6bcc40259ae89ed2 {
-  "C": "12",
-  "F": "0",
-  "TAP": "0.1",
-  "V": "28.5",
-  "X": "8",
-  "Z": "0"
-}
-[07:21:10 AM]   	Cost	table: 0x6fc742c167f44377 {
-  "C": "35",
-  "F": "30",
-  "TAP": "0",
-  "V": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:10 AM] ItemId:	208	| Value:	table: 0x365f1f03ef50d1ea {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "TAP": "0.8",
-      "V": "14",
-      "X": "8",
-      "Z": "4"
-    },
-    "value": "table: 0x665770cb31055963"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "TAP": "25",
-      "V": "60",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x206f2dd1e3efbc92"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "TAP": "1",
-      "V": "110",
-      "X": "1",
-      "Z": "1"
-    },
-    "value": "table: 0x028bbf99c7cf2738"
-  }
-}
-[07:21:11 AM]   	Lvl	table: 0x028bbf99c7cf2738 {
-  "C": "80",
-  "TAP": "1",
-  "V": "110",
-  "X": "1",
-  "Z": "1"
-}
-[07:21:11 AM]   	Cap	325
-[07:21:11 AM]   	Cooldown	table: 0x665770cb31055963 {
-  "C": "10",
-  "TAP": "0.8",
-  "V": "14",
-  "X": "8",
-  "Z": "4"
-}
-[07:21:11 AM]   	Cost	table: 0x206f2dd1e3efbc92 {
-  "C": "30",
-  "TAP": "25",
-  "V": "60",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:11 AM] ItemId:	1132	| Value:	table: 0x70bacd592aad39fd {
-  "Cap": "350",
-  "Cooldown": {
-    "keys": {
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xae3b10e57fb22d87"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x100c93e6530d5622"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "180",
-      "Z": "80"
-    },
-    "value": "table: 0xd320b38138492b74"
-  }
-}
-[07:21:11 AM]   	Lvl	table: 0xd320b38138492b74 {
-  "X": "180",
-  "Z": "80"
-}
-[07:21:11 AM]   	Cap	350
-[07:21:11 AM]   	Cooldown	table: 0xae3b10e57fb22d87 {
-  "X": "7",
-  "Z": "5"
-}
-[07:21:11 AM]   	Cost	table: 0x100c93e6530d5622 {
-  "X": "25",
-  "Z": "15"
-}
-[07:21:11 AM] ItemId:	1426	| Value:	table: 0x627a6a02c5d01671 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "0.75",
-      "TAP": "2",
-      "V": "16",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x215a70fa49dd4daf"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "5",
-      "TAP": "10",
-      "V": "70",
-      "X": "25",
-      "Z": "25"
-    },
-    "value": "table: 0x3f1794e43ea46b6c"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "90",
-      "F": "10",
-      "TAP": "1",
-      "V": "130",
-      "X": "45",
-      "Z": "1"
-    },
-    "value": "table: 0x3ae8af0b106af32d"
-  }
-}
-[07:21:11 AM]   	Lvl	table: 0x3ae8af0b106af32d {
-  "C": "90",
-  "F": "10",
-  "TAP": "1",
-  "V": "130",
-  "X": "45",
-  "Z": "1"
-}
-[07:21:12 AM]   	Cap	275
-[07:21:12 AM]   	Cooldown	table: 0x215a70fa49dd4daf {
-  "C": "10",
-  "F": "0.75",
-  "TAP": "2",
-  "V": "16",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:12 AM]   	Cost	table: 0x3f1794e43ea46b6c {
-  "C": "35",
-  "F": "5",
-  "TAP": "10",
-  "V": "70",
-  "X": "25",
-  "Z": "25"
-}
-[07:21:12 AM] ItemId:	448	| Value:	table: 0x41309e2f7498450c {
-  "Cap": "375",
-  "Cooldown": {
-    "keys": {
-      "C": "12",
-      "F": "0",
-      "TAP": "0.1",
-      "V": "28.5",
-      "X": "8",
-      "Z": "0"
-    },
-    "value": "table: 0x75f64c7694faf447"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "TAP": "0",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x9e43e3c9d4fa841c"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "30",
-      "TAP": "0",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0x8f0742aafbb92e4c"
-  }
-}
-[07:21:12 AM]   	Lvl	table: 0x8f0742aafbb92e4c {
-  "C": "160",
-  "F": "30",
-  "TAP": "0",
-  "V": "250",
-  "X": "90",
-  "Z": "1"
-}
-[07:21:12 AM]   	Cap	375
-[07:21:12 AM]   	Cooldown	table: 0x75f64c7694faf447 {
-  "C": "12",
-  "F": "0",
-  "TAP": "0.1",
-  "V": "28.5",
-  "X": "8",
-  "Z": "0"
-}
-[07:21:12 AM]   	Cost	table: 0x9e43e3c9d4fa841c {
-  "C": "35",
-  "F": "30",
-  "TAP": "0",
-  "V": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:12 AM] ItemId:	3	| Value:	table: 0xdf196a223fb4a52a {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "11.5",
-          "V": "19",
-          "X": "8.5",
-          "Z": "6.66"
-        },
-        "value": "table: 0x3d9bb328f3ebb4f5"
-      },
-      "Cost": {
-        "keys": {
-          "C": "35",
-          "V": "50",
-          "X": "25",
-          "Z": "15"
-        },
-        "value": "table: 0x664b63d108cde94f"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "5000",
-          "V": "8000",
-          "X": "3000",
-          "Z": "1000"
-        },
-        "value": "table: 0xfab5250e59523208"
-      }
-    },
-    "value": "table: 0xd62132a16042d9f7"
-  },
-  "Cap": "300",
-  "Cooldown": {
-    "keys": {
-      "C": "12",
-      "V": "21",
-      "X": "9",
-      "Z": "7"
-    },
-    "value": "table: 0xec49cf2ec583caa7"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xd93c51e73f4b0cc2"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "V": "150",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0xe1ea07aa528d4445"
-  }
-}
-[07:21:12 AM]   	Cap	300
-[07:21:12 AM]   	Cost	table: 0xd93c51e73f4b0cc2 {
-  "C": "35",
-  "V": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:12 AM]   	Awakening	table: 0xd62132a16042d9f7 {
-  "Cooldown": {
-    "keys": {
-      "C": "11.5",
-      "V": "19",
-      "X": "8.5",
-      "Z": "6.66"
-    },
-    "value": "table: 0x3d9bb328f3ebb4f5"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x664b63d108cde94f"
-  },
-  "Fragments": {
-    "keys": {
-      "C": "5000",
-      "V": "8000",
-      "X": "3000",
-      "Z": "1000"
-    },
-    "value": "table: 0xfab5250e59523208"
-  }
-}
-[07:21:13 AM]   	Cooldown	table: 0xec49cf2ec583caa7 {
-  "C": "12",
-  "V": "21",
-  "X": "9",
-  "Z": "7"
-}
-[07:21:13 AM]   	Lvl	table: 0xe1ea07aa528d4445 {
-  "C": "100",
-  "V": "150",
-  "X": "50",
-  "Z": "1"
-}
-[07:21:13 AM] ItemId:	4	| Value:	table: 0xc3ce359bdc24fd61 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "9.5",
-      "F": "5",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xabbe794f58575c46"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "35",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xee8b74646ba866bc"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "75",
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0x8245ea34396784f6"
-  }
-}
-[07:21:13 AM]   	Lvl	table: 0x8245ea34396784f6 {
-  "C": "50",
-  "F": "75",
-  "X": "20",
-  "Z": "1"
-}
-[07:21:13 AM]   	Cap	200
-[07:21:13 AM]   	Cooldown	table: 0xabbe794f58575c46 {
-  "C": "9.5",
-  "F": "5",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:13 AM]   	Cost	table: 0xee8b74646ba866bc {
-  "C": "35",
-  "F": "35",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:13 AM] ItemId:	450	| Value:	table: 0xc77779b6869d574f {
-  "Cap": "375",
-  "Cooldown": {
-    "keys": {
-      "C": "12",
-      "F": "0",
-      "TAP": "0.1",
-      "V": "28.5",
-      "X": "8",
-      "Z": "0"
-    },
-    "value": "table: 0xa2db056594b83238"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "TAP": "0",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x01ccc406f34a8dfc"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "30",
-      "TAP": "0",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0xc7e5232ad0d96694"
-  }
-}
-[07:21:13 AM]   	Lvl	table: 0xc7e5232ad0d96694 {
-  "C": "160",
-  "F": "30",
-  "TAP": "0",
-  "V": "250",
-  "X": "90",
-  "Z": "1"
-}
-[07:21:13 AM]   	Cap	375
-[07:21:13 AM]   	Cooldown	table: 0xa2db056594b83238 {
-  "C": "12",
-  "F": "0",
-  "TAP": "0.1",
-  "V": "28.5",
-  "X": "8",
-  "Z": "0"
-}
-[07:21:14 AM]   	Cost	table: 0x01ccc406f34a8dfc {
-  "C": "35",
-  "F": "30",
-  "TAP": "0",
-  "V": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:14 AM] ItemId:	1162	| Value:	table: 0xa4035556f98db98f {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xb6ab898e38d9f964"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "X": "35",
-      "Z": "25"
-    },
-    "value": "table: 0xa0882cfe1379e1f6"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "330",
-      "X": "220",
-      "Z": "110"
-    },
-    "value": "table: 0x2a24f431fbbd599b"
-  }
-}
-[07:21:14 AM]   	Lvl	table: 0x2a24f431fbbd599b {
-  "C": "330",
-  "X": "220",
-  "Z": "110"
-}
-[07:21:14 AM]   	Cap	275
-[07:21:14 AM]   	Cooldown	table: 0xb6ab898e38d9f964 {
-  "C": "11",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:14 AM]   	Cost	table: 0xa0882cfe1379e1f6 {
-  "C": "75",
-  "X": "35",
-  "Z": "25"
-}
-[07:21:14 AM] ItemId:	1252	| Value:	table: 0x2f755d5c8b16ea4d {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0xd8acd57cd89f42ae"
-  },
-  "Cost": {
-    "keys": {
-      "X": "60",
-      "Z": "30"
-    },
-    "value": "table: 0xa5e37dfd756aed34"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "350",
-      "Z": "150"
-    },
-    "value": "table: 0x1f948a5de99c8377"
-  }
-}
-[07:21:14 AM]   	Lvl	table: 0x1f948a5de99c8377 {
-  "X": "350",
-  "Z": "150"
-}
-[07:21:14 AM]   	Cap	275
-[07:21:14 AM]   	Cooldown	table: 0xd8acd57cd89f42ae {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:14 AM]   	Cost	table: 0xa5e37dfd756aed34 {
-  "X": "60",
-  "Z": "30"
-}
-[07:21:14 AM] ItemId:	1185	| Value:	table: 0x8e8362807235902f {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0xe37d0a8c7f146aea"
-  },
-  "Cost": {
-    "keys": {
-      "X": "30",
-      "Z": "20"
-    },
-    "value": "table: 0xf3702f1071d37ab1"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "350",
-      "Z": "150"
-    },
-    "value": "table: 0xf6c24b87fe8f8e93"
-  }
-}
-[07:21:15 AM]   	Lvl	table: 0xf6c24b87fe8f8e93 {
-  "X": "350",
-  "Z": "150"
-}
-[07:21:15 AM]   	Cap	400
-[07:21:15 AM]   	Cooldown	table: 0xe37d0a8c7f146aea {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:15 AM]   	Cost	table: 0xf3702f1071d37ab1 {
-  "X": "30",
-  "Z": "20"
-}
-[07:21:15 AM] ItemId:	1106	| Value:	table: 0xc551e12658005754 {
-  "Cap": "50",
-  "Cooldown": {
-    "keys": {
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xb2e7971f722780fb"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x2818a6aa07b8de7e"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0x277ffa3a45f931c2"
-  }
-}
-[07:21:15 AM]   	Lvl	table: 0x277ffa3a45f931c2 {
-  "X": "20",
-  "Z": "1"
-}
-[07:21:15 AM]   	Cap	50
-[07:21:15 AM]   	Cooldown	table: 0xb2e7971f722780fb {
-  "X": "7",
-  "Z": "5"
-}
-[07:21:15 AM]   	Cost	table: 0x2818a6aa07b8de7e {
-  "X": "25",
-  "Z": "15"
-}
-[07:21:15 AM] ItemId:	31	| Value:	table: 0xda83017debcc787c {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "8",
-      "F": "3",
-      "X": "6",
-      "Z": "2.5"
-    },
-    "value": "table: 0x25b0e429a487f423"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "35",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xb12889cfba8a148f"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "80",
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0x9110f93abf59b74d"
-  }
-}
-[07:21:15 AM]   	Lvl	table: 0x9110f93abf59b74d {
-  "C": "50",
-  "F": "80",
-  "X": "20",
-  "Z": "1"
-}
-[07:21:15 AM]   	Cap	200
-[07:21:16 AM]   	Cooldown	table: 0x25b0e429a487f423 {
-  "C": "8",
-  "F": "3",
-  "X": "6",
-  "Z": "2.5"
-}
-[07:21:16 AM]   	Cost	table: 0xb12889cfba8a148f {
-  "C": "35",
-  "F": "35",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:16 AM] ItemId:	1177	| Value:	table: 0xd4a0627a2b99d9a2 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x9c7fbebb3170309d"
-  },
-  "Cost": {
-    "keys": {
-      "X": "60",
-      "Z": "30"
-    },
-    "value": "table: 0xde13a8a34a95fd58"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "325",
-      "Z": "150"
-    },
-    "value": "table: 0x69a11aeb46203570"
-  }
-}
-[07:21:16 AM]   	Lvl	table: 0x69a11aeb46203570 {
-  "X": "325",
-  "Z": "150"
-}
-[07:21:16 AM]   	Cap	400
-[07:21:16 AM]   	Cooldown	table: 0x9c7fbebb3170309d {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:16 AM]   	Cost	table: 0xde13a8a34a95fd58 {
-  "X": "60",
-  "Z": "30"
-}
-[07:21:16 AM] ItemId:	1224	| Value:	table: 0xf513df7cf79a6998 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x230ec6d9f03e3f1a"
-  },
-  "Cost": {
-    "keys": {
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0xbded4a9bcd3b6622"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0xd09e0068d491a60a"
-  }
-}
-[07:21:16 AM]   	Lvl	table: 0xd09e0068d491a60a {
-  "X": "300",
-  "Z": "150"
-}
-[07:21:16 AM]   	Cap	275
-[07:21:16 AM]   	Cooldown	table: 0x230ec6d9f03e3f1a {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:16 AM]   	Cost	table: 0xbded4a9bcd3b6622 {
-  "X": "40",
-  "Z": "20"
-}
-[07:21:17 AM] ItemId:	1404	| Value:	table: 0xeedf550b0ca11547 {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "10",
-          "F": "10",
-          "V": "17.5",
-          "X": "7",
-          "Z": "5"
-        },
-        "value": "table: 0x16cb6a6b6037312c"
-      },
-      "Cost": {
-        "keys": {
-          "C": "35",
-          "F": "80",
-          "V": "60",
-          "X": "25",
-          "Z": "20"
-        },
-        "value": "table: 0xfdaa524b419a4ae6"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0x7455865196d0f4b8"
-      }
-    },
-    "value": "table: 0x6bc3d38f49199478"
-  },
-  "Cap": "250",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "10",
-      "V": "17.5",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xe690bdc40cbeb756"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "80",
-      "V": "60",
-      "X": "25",
-      "Z": "20"
-    },
-    "value": "table: 0x8a528dcfed6f3f32"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "F": "15",
-      "V": "120",
-      "X": "40",
-      "Z": "1"
-    },
-    "value": "table: 0xcd0d3f3f25537a76"
-  }
-}
-[07:21:17 AM]   	Cap	250
-[07:21:17 AM]   	Cost	table: 0x8a528dcfed6f3f32 {
-  "C": "35",
-  "F": "80",
-  "V": "60",
-  "X": "25",
-  "Z": "20"
-}
-[07:21:17 AM]   	Awakening	table: 0x6bc3d38f49199478 {
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "10",
-      "V": "17.5",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x16cb6a6b6037312c"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "80",
-      "V": "60",
-      "X": "25",
-      "Z": "20"
-    },
-    "value": "table: 0xfdaa524b419a4ae6"
-  },
-  "Fragments": {
-    "keys": {
-      "C": "4000",
-      "F": "2000",
-      "V": "5000",
-      "X": "3000",
-      "Z": "500"
-    },
-    "value": "table: 0x7455865196d0f4b8"
-  }
-}
-[07:21:17 AM]   	Cooldown	table: 0xe690bdc40cbeb756 {
-  "C": "10",
-  "F": "10",
-  "V": "17.5",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:17 AM]   	Lvl	table: 0xcd0d3f3f25537a76 {
-  "C": "80",
-  "F": "15",
-  "V": "120",
-  "X": "40",
-  "Z": "1"
-}
-[07:21:17 AM] ItemId:	254	| Value:	table: 0xd93169eaa35ac20d {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "3.5",
-      "TAP": "0.5",
-      "V": "1",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xf34fd2b34fb899d1"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "50",
-      "TAP": "0",
-      "V": "10",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0xd220e77610ac7c7b"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "250",
-      "F": "75",
-      "TAP": "0",
-      "V": "350",
-      "X": "150",
-      "Z": "1"
-    },
-    "value": "table: 0x5bbbaadc22b86940"
-  }
-}
-[07:21:17 AM]   	Lvl	table: 0x5bbbaadc22b86940 {
-  "C": "250",
-  "F": "75",
-  "TAP": "0",
-  "V": "350",
-  "X": "150",
-  "Z": "1"
-}
-[07:21:17 AM]   	Cap	275
-[07:21:17 AM]   	Cooldown	table: 0xf34fd2b34fb899d1 {
-  "C": "10",
-  "F": "3.5",
-  "TAP": "0.5",
-  "V": "1",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:18 AM]   	Cost	table: 0xd220e77610ac7c7b {
-  "C": "100",
-  "F": "50",
-  "TAP": "0",
-  "V": "10",
-  "X": "60",
-  "Z": "40"
-}
-[07:21:18 AM] ItemId:	1408	| Value:	table: 0x013d2f2bd5e75d19 {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "1.25",
-      "V": "15",
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0x958c213ce07e919c"
-  },
-  "Cost": {
-    "keys": {
-      "C": "60",
-      "F": "10",
-      "V": "100",
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0xa90786a0a4a8a148"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "150",
-      "F": "100",
-      "V": "200",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x444659ca4a6bf304"
-  }
-}
-[07:21:18 AM]   	Lvl	table: 0x444659ca4a6bf304 {
-  "C": "150",
-  "F": "100",
-  "V": "200",
-  "X": "50",
-  "Z": "1"
-}
-[07:21:18 AM]   	Cap	325
-[07:21:18 AM]   	Cooldown	table: 0x958c213ce07e919c {
-  "C": "10",
-  "F": "1.25",
-  "V": "15",
-  "X": "8",
-  "Z": "6"
-}
-[07:21:18 AM]   	Cost	table: 0xa90786a0a4a8a148 {
-  "C": "60",
-  "F": "10",
-  "V": "100",
-  "X": "40",
-  "Z": "20"
-}
-[07:21:18 AM] ItemId:	1421	| Value:	table: 0x5d693ce3e2a1e4d6 {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "TAP": "0.8",
-      "V": "14",
-      "X": "8",
-      "Z": "4"
-    },
-    "value": "table: 0xbe5d6ed888266feb"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "TAP": "25",
-      "V": "60",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xc1fefdc7a84c62fb"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "TAP": "1",
-      "V": "110",
-      "X": "1",
-      "Z": "1"
-    },
-    "value": "table: 0x3d74a31454ae3eef"
-  }
-}
-[07:21:18 AM]   	Lvl	table: 0x3d74a31454ae3eef {
-  "C": "80",
-  "TAP": "1",
-  "V": "110",
-  "X": "1",
-  "Z": "1"
-}
-[07:21:19 AM]   	Cap	325
-[07:21:19 AM]   	Cooldown	table: 0xbe5d6ed888266feb {
-  "C": "10",
-  "TAP": "0.8",
-  "V": "14",
-  "X": "8",
-  "Z": "4"
-}
-[07:21:19 AM]   	Cost	table: 0xc1fefdc7a84c62fb {
-  "C": "30",
-  "TAP": "25",
-  "V": "60",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:19 AM] ItemId:	1170	| Value:	table: 0xd37f69f168b82b01 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x0aa03bc4b5fca0f2"
-  },
-  "Cost": {
-    "keys": {
-      "X": "50",
-      "Z": "30"
-    },
-    "value": "table: 0xf7aa09ec9a60064c"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "325",
-      "Z": "150"
-    },
-    "value": "table: 0x826ee85120c9cc77"
-  }
-}
-[07:21:19 AM]   	Lvl	table: 0x826ee85120c9cc77 {
-  "X": "325",
-  "Z": "150"
-}
-[07:21:19 AM]   	Cap	400
-[07:21:19 AM]   	Cooldown	table: 0x0aa03bc4b5fca0f2 {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:19 AM]   	Cost	table: 0xf7aa09ec9a60064c {
-  "X": "50",
-  "Z": "30"
-}
-[07:21:20 AM] ItemId:	1526	| Value:	table: 0x6e331d6195937aa2 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "8",
-      "F": "3",
-      "X": "6",
-      "Z": "2.5"
-    },
-    "value": "table: 0x58edd1aa1c01932d"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "35",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xafcd3ef26ac54faf"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "80",
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0xce57537656bba0ca"
-  }
-}
-[07:21:20 AM]   	Lvl	table: 0xce57537656bba0ca {
-  "C": "50",
-  "F": "80",
-  "X": "20",
-  "Z": "1"
-}
-[07:21:20 AM]   	Cap	200
-[07:21:20 AM]   	Cooldown	table: 0x58edd1aa1c01932d {
-  "C": "8",
-  "F": "3",
-  "X": "6",
-  "Z": "2.5"
-}
-[07:21:20 AM]   	Cost	table: 0xafcd3ef26ac54faf {
-  "C": "35",
-  "F": "35",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:20 AM] ItemId:	470	| Value:	table: 0xccbb7d885b303dc5 {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "TAP": "0.8",
-      "V": "14",
-      "X": "8",
-      "Z": "4"
-    },
-    "value": "table: 0x03b9530c1f893aae"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "TAP": "25",
-      "V": "60",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x1791d3928e5c45e2"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "TAP": "1",
-      "V": "110",
-      "X": "1",
-      "Z": "1"
-    },
-    "value": "table: 0x545832a249420f81"
-  }
-}
-[07:21:20 AM]   	Lvl	table: 0x545832a249420f81 {
-  "C": "80",
-  "TAP": "1",
-  "V": "110",
-  "X": "1",
-  "Z": "1"
-}
-[07:21:20 AM]   	Cap	325
-[07:21:20 AM]   	Cooldown	table: 0x03b9530c1f893aae {
-  "C": "10",
-  "TAP": "0.8",
-  "V": "14",
-  "X": "8",
-  "Z": "4"
-}
-[07:21:21 AM]   	Cost	table: 0x1791d3928e5c45e2 {
-  "C": "30",
-  "TAP": "25",
-  "V": "60",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:21 AM] ItemId:	479	| Value:	table: 0x2937efd256fc6f07 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "12.5",
-      "F": "4.25",
-      "V": "16.5",
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0x13d85ba0931bde3f"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "20",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0xf338207874423371"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0xf082e4fc604ed7e7"
-  }
-}
-[07:21:21 AM]   	Lvl	table: 0xf082e4fc604ed7e7 {
-  "C": "200",
-  "F": "50",
-  "V": "300",
-  "X": "100",
-  "Z": "1"
-}
-[07:21:21 AM]   	Cap	400
-[07:21:21 AM]   	Cooldown	table: 0x13d85ba0931bde3f {
-  "C": "12.5",
-  "F": "4.25",
-  "V": "16.5",
-  "X": "8",
-  "Z": "5"
-}
-[07:21:21 AM]   	Cost	table: 0xf338207874423371 {
-  "C": "80",
-  "F": "20",
-  "V": "100",
-  "X": "60",
-  "Z": "40"
-}
-[07:21:21 AM] ItemId:	220	| Value:	table: 0x83fc52a11389e6b4 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "9.75",
-      "F": "4.75",
-      "TAP": "0",
-      "V": "3.75",
-      "X": "7.75",
-      "Z": "5.75"
-    },
-    "value": "table: 0xb4ad2b663c0ea221"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "F": "25",
-      "TAP": "0",
-      "V": "50",
-      "X": "50",
-      "Z": "25"
-    },
-    "value": "table: 0x267689ad76bb8052"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "TAP": "0",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0xcfcc59a30b149900"
-  }
-}
-[07:21:21 AM]   	Lvl	table: 0xcfcc59a30b149900 {
-  "C": "200",
-  "F": "50",
-  "TAP": "0",
-  "V": "300",
-  "X": "100",
-  "Z": "1"
-}
-[07:21:21 AM]   	Cap	275
-[07:21:21 AM]   	Cooldown	table: 0xb4ad2b663c0ea221 {
-  "C": "9.75",
-  "F": "4.75",
-  "TAP": "0",
-  "V": "3.75",
-  "X": "7.75",
-  "Z": "5.75"
-}
-[07:21:21 AM]   	Cost	table: 0x267689ad76bb8052 {
-  "C": "75",
-  "F": "25",
-  "TAP": "0",
-  "V": "50",
-  "X": "50",
-  "Z": "25"
-}
-[07:21:21 AM] ItemId:	1397	| Value:	table: 0x279440530dc62580 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "7",
-      "F": "0.65",
-      "TAP": "2",
-      "V": "15",
-      "X": "6",
-      "Z": "3"
-    },
-    "value": "table: 0x36f3364896bc79b3"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "F": "25",
-      "TAP": "5",
-      "V": "100",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x442517a351e9f508"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "75",
-      "F": "25",
-      "TAP": "0",
-      "V": "125",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x0d93d16ee4b1e811"
-  }
-}
-[07:21:22 AM]   	Lvl	table: 0x0d93d16ee4b1e811 {
-  "C": "75",
-  "F": "25",
-  "TAP": "0",
-  "V": "125",
-  "X": "50",
-  "Z": "1"
-}
-[07:21:22 AM]   	Cap	200
-[07:21:22 AM]   	Cooldown	table: 0x36f3364896bc79b3 {
-  "C": "7",
-  "F": "0.65",
-  "TAP": "2",
-  "V": "15",
-  "X": "6",
-  "Z": "3"
-}
-[07:21:22 AM]   	Cost	table: 0x442517a351e9f508 {
-  "C": "50",
-  "F": "25",
-  "TAP": "5",
-  "V": "100",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:22 AM] ItemId:	1422	| Value:	table: 0xca02d99a2121b01e {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "9.75",
-      "F": "4.75",
-      "TAP": "0",
-      "V": "3.75",
-      "X": "7.75",
-      "Z": "5.75"
-    },
-    "value": "table: 0x0f35c1de590570e4"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "F": "25",
-      "TAP": "0",
-      "V": "50",
-      "X": "50",
-      "Z": "25"
-    },
-    "value": "table: 0x55d575105f395210"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "TAP": "0",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0xe1ed68d765812aa1"
-  }
-}
-[07:21:22 AM]   	Lvl	table: 0xe1ed68d765812aa1 {
-  "C": "200",
-  "F": "50",
-  "TAP": "0",
-  "V": "300",
-  "X": "100",
-  "Z": "1"
-}
-[07:21:22 AM]   	Cap	275
-[07:21:22 AM]   	Cooldown	table: 0x0f35c1de590570e4 {
-  "C": "9.75",
-  "F": "4.75",
-  "TAP": "0",
-  "V": "3.75",
-  "X": "7.75",
-  "Z": "5.75"
-}
-[07:21:22 AM]   	Cost	table: 0x55d575105f395210 {
-  "C": "75",
-  "F": "25",
-  "TAP": "0",
-  "V": "50",
-  "X": "50",
-  "Z": "25"
-}
-[07:21:22 AM] ItemId:	1161	| Value:	table: 0x85f21bdfb730c7e2 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x6faa1b27dc401d53"
-  },
-  "Cost": {
-    "keys": {
-      "X": "60",
-      "Z": "30"
-    },
-    "value": "table: 0x1f8eda5c626e8a66"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "350",
-      "Z": "150"
-    },
-    "value": "table: 0x3fd430a84e6d5502"
-  }
-}
-[07:21:22 AM]   	Lvl	table: 0x3fd430a84e6d5502 {
-  "X": "350",
-  "Z": "150"
-}
-[07:21:22 AM]   	Cap	200
-[07:21:23 AM]   	Cooldown	table: 0x6faa1b27dc401d53 {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:23 AM]   	Cost	table: 0x1f8eda5c626e8a66 {
-  "X": "60",
-  "Z": "30"
-}
-[07:21:23 AM] ItemId:	492	| Value:	table: 0xfa67492caee30afd {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "12.5",
-      "F": "4.25",
-      "V": "16.5",
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0xe66aaead3e7039bd"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "20",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x72c258b0b370fe83"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x1b2fc6f3fc59f105"
-  }
-}
-[07:21:23 AM]   	Lvl	table: 0x1b2fc6f3fc59f105 {
-  "C": "200",
-  "F": "50",
-  "V": "300",
-  "X": "100",
-  "Z": "1"
-}
-[07:21:23 AM]   	Cap	400
-[07:21:23 AM]   	Cooldown	table: 0xe66aaead3e7039bd {
-  "C": "12.5",
-  "F": "4.25",
-  "V": "16.5",
-  "X": "8",
-  "Z": "5"
-}
-[07:21:23 AM]   	Cost	table: 0x72c258b0b370fe83 {
-  "C": "80",
-  "F": "20",
-  "V": "100",
-  "X": "60",
-  "Z": "40"
-}
-[07:21:23 AM] ItemId:	1134	| Value:	table: 0x4c8e00b9f80fe6a0 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "X": "7",
-      "Z": "4"
-    },
-    "value": "table: 0x053366a1a08f1516"
-  },
-  "Cost": {
-    "keys": {
-      "C": "60",
-      "X": "30",
-      "Z": "25"
-    },
-    "value": "table: 0xce7a1c853a57613f"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "250",
-      "X": "130",
-      "Z": "70"
-    },
-    "value": "table: 0x288e91dbe9d4c2b2"
-  }
-}
-[07:21:23 AM]   	Lvl	table: 0x288e91dbe9d4c2b2 {
-  "C": "250",
-  "X": "130",
-  "Z": "70"
-}
-[07:21:23 AM]   	Cap	400
-[07:21:23 AM]   	Cooldown	table: 0x053366a1a08f1516 {
-  "C": "10",
-  "X": "7",
-  "Z": "4"
-}
-[07:21:24 AM]   	Cost	table: 0xce7a1c853a57613f {
-  "C": "60",
-  "X": "30",
-  "Z": "25"
-}
-[07:21:24 AM] ItemId:	1101	| Value:	table: 0x81c2567e232c5195 {
-  "Cap": "300",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "7"
-    },
-    "value": "table: 0x611c943d65683b22"
-  },
-  "Cost": {
-    "keys": {
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0xbc63c1f30973893f"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "80",
-      "Z": "40"
-    },
-    "value": "table: 0x1518c0fbff56cf8f"
-  }
-}
-[07:21:24 AM]   	Lvl	table: 0x1518c0fbff56cf8f {
-  "X": "80",
-  "Z": "40"
-}
-[07:21:24 AM]   	Cap	300
-[07:21:24 AM]   	Cooldown	table: 0x611c943d65683b22 {
-  "X": "9",
-  "Z": "7"
-}
-[07:21:24 AM]   	Cost	table: 0xbc63c1f30973893f {
-  "X": "40",
-  "Z": "20"
-}
-[07:21:24 AM] ItemId:	1198	| Value:	table: 0xd27328186c65fc7a {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xb2d9bf862aab233d"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "X": "40",
-      "Z": "30"
-    },
-    "value": "table: 0xb94931496dbaaa13"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "330",
-      "X": "220",
-      "Z": "110"
-    },
-    "value": "table: 0x5a05c997233b281a"
-  }
-}
-[07:21:24 AM]   	Lvl	table: 0x5a05c997233b281a {
-  "C": "330",
-  "X": "220",
-  "Z": "110"
-}
-[07:21:24 AM]   	Cap	400
-[07:21:24 AM]   	Cooldown	table: 0xb2d9bf862aab233d {
-  "C": "11",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:24 AM]   	Cost	table: 0xb94931496dbaaa13 {
-  "C": "75",
-  "X": "40",
-  "Z": "30"
-}
-[07:21:24 AM] ItemId:	1194	| Value:	table: 0xa75ea8b4b7ad4244 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "X": "7.5",
-      "Z": "5"
-    },
-    "value": "table: 0x8642eb2d113a64c2"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "X": "40",
-      "Z": "30"
-    },
-    "value": "table: 0xcc7c364cf3abcf5c"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "300",
-      "X": "200",
-      "Z": "100"
-    },
-    "value": "table: 0x5bb5d58545e53c33"
-  }
-}
-[07:21:25 AM]   	Lvl	table: 0x5bb5d58545e53c33 {
-  "C": "300",
-  "X": "200",
-  "Z": "100"
-}
-[07:21:25 AM]   	Cap	400
-[07:21:25 AM]   	Cooldown	table: 0x8642eb2d113a64c2 {
-  "C": "11",
-  "X": "7.5",
-  "Z": "5"
-}
-[07:21:25 AM]   	Cost	table: 0xcc7c364cf3abcf5c {
-  "C": "75",
-  "X": "40",
-  "Z": "30"
-}
-[07:21:25 AM] ItemId:	1403	| Value:	table: 0xb2cbacfdae518677 {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "10",
-          "F": "1.25",
-          "V": "18",
-          "X": "7",
-          "Z": "6"
-        },
-        "value": "table: 0xd406690a9bc5dab3"
-      },
-      "Cost": {
-        "keys": {
-          "C": "60",
-          "F": "50",
-          "V": "80",
-          "X": "40",
-          "Z": "25"
-        },
-        "value": "table: 0x5c034ca54d1ae1b8"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4500",
-          "F": "2500",
-          "V": "6000",
-          "X": "3500",
-          "Z": "800"
-        },
-        "value": "table: 0xc571975f5412a094"
-      }
-    },
-    "value": "table: 0x50d638ad8911d59c"
-  },
-  "Cap": "330",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "5",
-      "V": "16",
-      "X": "7",
-      "Z": "6"
-    },
-    "value": "table: 0xd68cdcdb64e315f9"
-  },
-  "Cost": {
-    "keys": {
-      "C": "70",
-      "F": "50",
-      "V": "100",
-      "X": "50",
-      "Z": "35"
-    },
-    "value": "table: 0xc9359bf19f098c75"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "15",
-      "V": "225",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x6df22c1526abae39"
-  }
-}
-[07:21:25 AM]   	Cap	330
-[07:21:25 AM]   	Cost	table: 0xc9359bf19f098c75 {
-  "C": "70",
-  "F": "50",
-  "V": "100",
-  "X": "50",
-  "Z": "35"
-}
-[07:21:25 AM]   	Awakening	table: 0x50d638ad8911d59c {
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "1.25",
-      "V": "18",
-      "X": "7",
-      "Z": "6"
-    },
-    "value": "table: 0xd406690a9bc5dab3"
-  },
-  "Cost": {
-    "keys": {
-      "C": "60",
-      "F": "50",
-      "V": "80",
-      "X": "40",
-      "Z": "25"
-    },
-    "value": "table: 0x5c034ca54d1ae1b8"
-  },
-  "Fragments": {
-    "keys": {
-      "C": "4500",
-      "F": "2500",
-      "V": "6000",
-      "X": "3500",
-      "Z": "800"
-    },
-    "value": "table: 0xc571975f5412a094"
-  }
-}
-[07:21:25 AM]   	Cooldown	table: 0xd68cdcdb64e315f9 {
-  "C": "10",
-  "F": "5",
-  "V": "16",
-  "X": "7",
-  "Z": "6"
-}
-[07:21:25 AM]   	Lvl	table: 0x6df22c1526abae39 {
-  "C": "100",
-  "F": "15",
-  "V": "225",
-  "X": "50",
-  "Z": "1"
-}
-[07:21:25 AM] ItemId:	1203	| Value:	table: 0x999a2781a1a5eff1 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0xe35949f089387819"
-  },
-  "Cost": {
-    "keys": {
-      "X": "30",
-      "Z": "20"
-    },
-    "value": "table: 0x6ad0a2b3ca95de34"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0x9289ab548d617c7f"
-  }
-}
-[07:21:25 AM]   	Lvl	table: 0x9289ab548d617c7f {
-  "X": "300",
-  "Z": "150"
-}
-[07:21:26 AM]   	Cap	400
-[07:21:26 AM]   	Cooldown	table: 0xe35949f089387819 {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:26 AM]   	Cost	table: 0x6ad0a2b3ca95de34 {
-  "X": "30",
-  "Z": "20"
-}
-[07:21:26 AM] ItemId:	80	| Value:	table: 0x03fcdf03a59958f5 {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "9",
-          "F": "3.75",
-          "V": "16",
-          "X": "7",
-          "Z": "5"
-        },
-        "value": "table: 0x8f515fd3368f6228"
-      },
-      "Cost": {
-        "keys": {
-          "C": "35",
-          "F": "30",
-          "V": "50",
-          "X": "25",
-          "Z": "15"
-        },
-        "value": "table: 0x8b6297475544cc5f"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0x7bed89b6b75bd3b3"
-      }
-    },
-    "value": "table: 0x276f802a9428ae92"
-  },
-  "Cap": "250",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3.75",
-      "V": "16",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x78677ef701531429"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x454102373d6543f5"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "F": "10",
-      "V": "110",
-      "X": "40",
-      "Z": "1"
-    },
-    "value": "table: 0x939bf6cf8488d2d4"
-  }
-}
-[07:21:26 AM]   	Cap	250
-[07:21:26 AM]   	Cost	table: 0x454102373d6543f5 {
-  "C": "35",
-  "F": "30",
-  "V": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:26 AM]   	Awakening	table: 0x276f802a9428ae92 {
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3.75",
-      "V": "16",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x8f515fd3368f6228"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x8b6297475544cc5f"
-  },
-  "Fragments": {
-    "keys": {
-      "C": "4000",
-      "F": "2000",
-      "V": "5000",
-      "X": "3000",
-      "Z": "500"
-    },
-    "value": "table: 0x7bed89b6b75bd3b3"
-  }
-}
-[07:21:26 AM]   	Cooldown	table: 0x78677ef701531429 {
-  "C": "9",
-  "F": "3.75",
-  "V": "16",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:26 AM]   	Lvl	table: 0x939bf6cf8488d2d4 {
-  "C": "80",
-  "F": "10",
-  "V": "110",
-  "X": "40",
-  "Z": "1"
-}
-[07:21:26 AM] ItemId:	1114	| Value:	table: 0xb56621a4fededb35 {
-  "Cap": "350",
-  "Cooldown": {
-    "keys": {
-      "X": "15",
-      "Z": "9"
-    },
-    "value": "table: 0x2571722a0bc849e3"
-  },
-  "Cost": {
-    "keys": {
-      "X": "50",
-      "Z": "30"
-    },
-    "value": "table: 0xdf9ca289e8f5c65e"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "100",
-      "Z": "40"
-    },
-    "value": "table: 0x92de6bb6fef134c0"
-  }
-}
-[07:21:27 AM]   	Lvl	table: 0x92de6bb6fef134c0 {
-  "X": "100",
-  "Z": "40"
-}
-[07:21:27 AM]   	Cap	350
-[07:21:27 AM]   	Cooldown	table: 0x2571722a0bc849e3 {
-  "X": "15",
-  "Z": "9"
-}
-[07:21:27 AM]   	Cost	table: 0xdf9ca289e8f5c65e {
-  "X": "50",
-  "Z": "30"
-}
-[07:21:27 AM] ItemId:	460	| Value:	table: 0xd96dc7e0397be1ca {
-  "Cap": "375",
-  "Cooldown": {
-    "keys": {
-      "C": "12",
-      "F": "0",
-      "TAP": "0.1",
-      "V": "28.5",
-      "X": "8",
-      "Z": "0"
-    },
-    "value": "table: 0xb5b131dfb7c3c35b"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "TAP": "0",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x9f38756cdf27554c"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "30",
-      "TAP": "0",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0xd6c2ce281dc6ebe0"
-  }
-}
-[07:21:27 AM]   	Lvl	table: 0xd6c2ce281dc6ebe0 {
-  "C": "160",
-  "F": "30",
-  "TAP": "0",
-  "V": "250",
-  "X": "90",
-  "Z": "1"
-}
-[07:21:27 AM]   	Cap	375
-[07:21:27 AM]   	Cooldown	table: 0xb5b131dfb7c3c35b {
-  "C": "12",
-  "F": "0",
-  "TAP": "0.1",
-  "V": "28.5",
-  "X": "8",
-  "Z": "0"
-}
-[07:21:27 AM]   	Cost	table: 0x9f38756cdf27554c {
-  "C": "35",
-  "F": "30",
-  "TAP": "0",
-  "V": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:27 AM] ItemId:	1405	| Value:	table: 0x51ee92ec4445583f {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "3.5",
-      "TAP": "0.875",
-      "V": "20",
-      "X": "8.5",
-      "Z": "6"
-    },
-    "value": "table: 0x6628218c7abb5ed0"
-  },
-  "Cost": {
-    "keys": {
-      "C": "90",
-      "F": "25",
-      "TAP": "10",
-      "V": "100",
-      "X": "75",
-      "Z": "50"
-    },
-    "value": "table: 0x186292b01490dd59"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "TAP": "1",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x8e7702f29feaae0c"
-  }
-}
-[07:21:27 AM]   	Lvl	table: 0x8e7702f29feaae0c {
-  "C": "200",
-  "F": "50",
-  "TAP": "1",
-  "V": "300",
-  "X": "100",
-  "Z": "1"
-}
-[07:21:28 AM]   	Cap	400
-[07:21:28 AM]   	Cooldown	table: 0x6628218c7abb5ed0 {
-  "C": "11",
-  "F": "3.5",
-  "TAP": "0.875",
-  "V": "20",
-  "X": "8.5",
-  "Z": "6"
-}
-[07:21:28 AM]   	Cost	table: 0x186292b01490dd59 {
-  "C": "90",
-  "F": "25",
-  "TAP": "10",
-  "V": "100",
-  "X": "75",
-  "Z": "50"
-}
-[07:21:28 AM] ItemId:	1108	| Value:	table: 0x5012a8664ae2618a {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x59034e2e3dd7e5a6"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "X": "35",
-      "Z": "25"
-    },
-    "value": "table: 0x33c2507aacf48a9e"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "350",
-      "X": "250",
-      "Z": "125"
-    },
-    "value": "table: 0x93eee5c83041b019"
-  }
-}
-[07:21:28 AM]   	Lvl	table: 0x93eee5c83041b019 {
-  "C": "350",
-  "X": "250",
-  "Z": "125"
-}
-[07:21:28 AM]   	Cap	275
-[07:21:28 AM]   	Cooldown	table: 0x59034e2e3dd7e5a6 {
-  "C": "11",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:28 AM]   	Cost	table: 0x33c2507aacf48a9e {
-  "C": "75",
-  "X": "35",
-  "Z": "25"
-}
-[07:21:28 AM] ItemId:	469	| Value:	table: 0x972164f8066f37b9 {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "TAP": "0.8",
-      "V": "14",
-      "X": "8",
-      "Z": "4"
-    },
-    "value": "table: 0xe6bc2e3ab97dedde"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "TAP": "25",
-      "V": "60",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xe4b5969a34c8183e"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "TAP": "1",
-      "V": "110",
-      "X": "1",
-      "Z": "1"
-    },
-    "value": "table: 0x9f4b7e0674186373"
-  }
-}
-[07:21:28 AM]   	Lvl	table: 0x9f4b7e0674186373 {
-  "C": "80",
-  "TAP": "1",
-  "V": "110",
-  "X": "1",
-  "Z": "1"
-}
-[07:21:28 AM]   	Cap	325
-[07:21:29 AM]   	Cooldown	table: 0xe6bc2e3ab97dedde {
-  "C": "10",
-  "TAP": "0.8",
-  "V": "14",
-  "X": "8",
-  "Z": "4"
-}
-[07:21:29 AM]   	Cost	table: 0xe4b5969a34c8183e {
-  "C": "30",
-  "TAP": "25",
-  "V": "60",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:29 AM] ItemId:	1435	| Value:	table: 0x2529b5890696888f {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "3.5",
-      "TAP": "0.5",
-      "V": "1",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x99dcbce5b4176895"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "50",
-      "TAP": "0",
-      "V": "10",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x741476762dc14f11"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "250",
-      "F": "75",
-      "TAP": "0",
-      "V": "350",
-      "X": "150",
-      "Z": "1"
-    },
-    "value": "table: 0xfe5dd207a746525f"
-  }
-}
-[07:21:29 AM]   	Lvl	table: 0xfe5dd207a746525f {
-  "C": "250",
-  "F": "75",
-  "TAP": "0",
-  "V": "350",
-  "X": "150",
-  "Z": "1"
-}
-[07:21:29 AM]   	Cap	275
-[07:21:29 AM]   	Cooldown	table: 0x99dcbce5b4176895 {
-  "C": "10",
-  "F": "3.5",
-  "TAP": "0.5",
-  "V": "1",
-  "X": "7",
-  "Z": "5"
-}
-[07:21:29 AM]   	Cost	table: 0x741476762dc14f11 {
-  "C": "100",
-  "F": "50",
-  "TAP": "0",
-  "V": "10",
-  "X": "60",
-  "Z": "40"
-}
-[07:21:29 AM] ItemId:	541	| Value:	table: 0x46be7e2732a2888f {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "12.5",
-      "F": "4.25",
-      "V": "16.5",
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0x0be3931d7cfc5ba6"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "20",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0xd7aeae504c13bd5f"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x6779e60ff12a1841"
-  }
-}
-[07:21:29 AM]   	Lvl	table: 0x6779e60ff12a1841 {
-  "C": "200",
-  "F": "50",
-  "V": "300",
-  "X": "100",
-  "Z": "1"
-}
-[07:21:29 AM]   	Cap	400
-[07:21:29 AM]   	Cooldown	table: 0x0be3931d7cfc5ba6 {
-  "C": "12.5",
-  "F": "4.25",
-  "V": "16.5",
-  "X": "8",
-  "Z": "5"
-}
-[07:21:29 AM]   	Cost	table: 0xd7aeae504c13bd5f {
-  "C": "80",
-  "F": "20",
-  "V": "100",
-  "X": "60",
-  "Z": "40"
-}
-[07:21:30 AM] ItemId:	1413	| Value:	table: 0x01b5bb5295065ff5 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "4.5",
-      "V": "15",
-      "X": "8.5",
-      "Z": "6"
-    },
-    "value": "table: 0xba7c60b1a3684e91"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "40",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x62e2fd378fbc5852"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0xb161e654caa4ba2a"
-  }
-}
-[07:21:30 AM]   	Lvl	table: 0xb161e654caa4ba2a {
-  "C": "200",
-  "F": "50",
-  "V": "300",
-  "X": "100",
-  "Z": "1"
-}
-[07:21:30 AM]   	Cap	275
-[07:21:30 AM]   	Cooldown	table: 0xba7c60b1a3684e91 {
-  "C": "11",
-  "F": "4.5",
-  "V": "15",
-  "X": "8.5",
-  "Z": "6"
-}
-[07:21:30 AM]   	Cost	table: 0x62e2fd378fbc5852 {
-  "C": "80",
-  "F": "40",
-  "V": "100",
-  "X": "60",
-  "Z": "40"
-}
-[07:21:30 AM] ItemId:	1414	| Value:	table: 0xa85cebd1427ad7bf {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "5",
-      "TAP": "2.5",
-      "V": "16",
-      "X": "12.5",
-      "Z": "5"
-    },
-    "value": "table: 0x16e98a46e91ff311"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "25",
-      "TAP": "0",
-      "V": "100",
-      "X": "50",
-      "Z": "15"
-    },
-    "value": "table: 0xa8799878b8cb9b5d"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "100",
-      "TAP": "1",
-      "V": "300",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0xd14ba67281d963e2"
-  }
-}
-[07:21:30 AM]   	Lvl	table: 0xd14ba67281d963e2 {
-  "C": "200",
-  "F": "100",
-  "TAP": "1",
-  "V": "300",
-  "X": "50",
-  "Z": "1"
-}
-[07:21:30 AM]   	Cap	200
-[07:21:30 AM]   	Cooldown	table: 0x16e98a46e91ff311 {
-  "C": "11",
-  "F": "5",
-  "TAP": "2.5",
-  "V": "16",
-  "X": "12.5",
-  "Z": "5"
-}
-[07:21:30 AM]   	Cost	table: 0xa8799878b8cb9b5d {
-  "C": "100",
-  "F": "25",
-  "TAP": "0",
-  "V": "100",
-  "X": "50",
-  "Z": "15"
-}
-[07:21:31 AM] ItemId:	1202	| Value:	table: 0x359bf5af07020f07 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x6ae94c0c0102c0f9"
-  },
-  "Cost": {
-    "keys": {
-      "X": "30",
-      "Z": "20"
-    },
-    "value": "table: 0x459445282bbc5891"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0x2e39b7fce3dbd651"
-  }
-}
-[07:21:31 AM]   	Lvl	table: 0x2e39b7fce3dbd651 {
-  "X": "300",
-  "Z": "150"
-}
-[07:21:31 AM]   	Cap	400
-[07:21:31 AM]   	Cooldown	table: 0x6ae94c0c0102c0f9 {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:31 AM]   	Cost	table: 0x459445282bbc5891 {
-  "X": "30",
-  "Z": "20"
-}
-[07:21:31 AM] ItemId:	1143	| Value:	table: 0xce015bf72336b0fd {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "5"
-    },
-    "value": "table: 0x032c45ac0337cc9b"
-  },
-  "Cost": {
-    "keys": {
-      "X": "30",
-      "Z": "20"
-    },
-    "value": "table: 0x82ef9157c4ddde8d"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "200",
-      "Z": "100"
-    },
-    "value": "table: 0x89a6747d14012b4c"
-  }
-}
-[07:21:31 AM]   	Lvl	table: 0x89a6747d14012b4c {
-  "X": "200",
-  "Z": "100"
-}
-[07:21:31 AM]   	Cap	400
-[07:21:31 AM]   	Cooldown	table: 0x032c45ac0337cc9b {
-  "X": "9",
-  "Z": "5"
-}
-[07:21:32 AM]   	Cost	table: 0x82ef9157c4ddde8d {
-  "X": "30",
-  "Z": "20"
-}
-[07:21:32 AM] ItemId:	1232	| Value:	table: 0x8d7a7f3c52567d7e {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x13523209cbf46a4d"
-  },
-  "Cost": {
-    "keys": {
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0x58808beb716bd42e"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0xcddec924a099de94"
-  }
-}
-[07:21:32 AM]   	Lvl	table: 0xcddec924a099de94 {
-  "X": "300",
-  "Z": "150"
-}
-[07:21:32 AM]   	Cap	275
-[07:21:32 AM]   	Cooldown	table: 0x13523209cbf46a4d {
-  "X": "9",
-  "Z": "6"
-}
-[07:21:32 AM]   	Cost	table: 0x58808beb716bd42e {
-  "X": "40",
-  "Z": "20"
-}
-[07:21:32 AM] ItemId:	170	| Value:	table: 0x0bdec146af12988e {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "5",
-      "TAP": "2.5",
-      "V": "16",
-      "X": "12.5",
-      "Z": "5"
-    },
-    "value": "table: 0x5dee6931cb446ae3"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "25",
-      "TAP": "0",
-      "V": "100",
-      "X": "50",
-      "Z": "15"
-    },
-    "value": "table: 0x4d2f8819e796e7e0"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "100",
-      "TAP": "1",
-      "V": "300",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0xa0bd9d9850d75234"
-  }
-}
-[07:21:32 AM]   	Lvl	table: 0xa0bd9d9850d75234 {
-  "C": "200",
-  "F": "100",
-  "TAP": "1",
-  "V": "300",
-  "X": "50",
-  "Z": "1"
-}
-[07:21:32 AM]   	Cap	200
-[07:21:32 AM]   	Cooldown	table: 0x5dee6931cb446ae3 {
-  "C": "11",
-  "F": "5",
-  "TAP": "2.5",
-  "V": "16",
-  "X": "12.5",
-  "Z": "5"
-}
-[07:21:32 AM]   	Cost	table: 0x4d2f8819e796e7e0 {
-  "C": "100",
-  "F": "25",
-  "TAP": "0",
-  "V": "100",
-  "X": "50",
-  "Z": "15"
-}
-[07:21:33 AM] ItemId:	1400	| Value:	table: 0x1b49ed1ffbb2b885 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3",
-      "X": "6",
-      "Z": "3.5"
-    },
-    "value": "table: 0xb7285d3916d56790"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "F": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xe8422df80cb96fb9"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "10",
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0xbf415f4cfa1b466a"
-  }
-}
-[07:21:33 AM]   	Lvl	table: 0xbf415f4cfa1b466a {
-  "C": "50",
-  "F": "10",
-  "X": "20",
-  "Z": "1"
-}
-[07:21:33 AM]   	Cap	200
-[07:21:33 AM]   	Cooldown	table: 0xb7285d3916d56790 {
-  "C": "9",
-  "F": "3",
-  "X": "6",
-  "Z": "3.5"
-}
-[07:21:33 AM]   	Cost	table: 0xe8422df80cb96fb9 {
-  "C": "50",
-  "F": "50",
-  "X": "25",
-  "Z": "15"
-}
-[07:21:33 AM] 
----	Mastery	---
-[07:21:33 AM] Success:	true
-[07:21:33 AM] ItemId:	1238	| Value:	307
-[07:21:33 AM] ItemId:	1107	| Value:	70
-[07:21:33 AM] ItemId:	1395	| Value:	1
-[07:21:33 AM] ItemId:	1110	| Value:	1
-[07:21:33 AM] ItemId:	511	| Value:	1
-[07:21:33 AM] ItemId:	1099	| Value:	175
-[07:21:34 AM] ItemId:	46	| Value:	1
-[07:21:34 AM] ItemId:	26	| Value:	1
-[07:21:34 AM] ItemId:	1396	| Value:	3
-[07:21:34 AM] ItemId:	1394	| Value:	57
-[07:21:34 AM] ItemId:	1412	| Value:	1
-[07:21:34 AM] ItemId:	25	| Value:	1
-[07:21:34 AM] ItemId:	1456	| Value:	600
-[07:21:34 AM] ItemId:	539	| Value:	1
-[07:21:34 AM] ItemId:	1425	| Value:	1
-[07:21:34 AM] ItemId:	1201	| Value:	300
-[07:21:34 AM] ItemId:	1416	| Value:	1
-[07:21:35 AM] ItemId:	1144	| Value:	600
-[07:21:35 AM] ItemId:	1129	| Value:	600
-[07:21:35 AM] ItemId:	1393	| Value:	1
-[07:21:35 AM] ItemId:	1226	| Value:	600
-[07:21:35 AM] ItemId:	402	| Value:	1
-[07:21:35 AM] ItemId:	1398	| Value:	1
-[07:21:35 AM] ItemId:	502	| Value:	1
-[07:21:35 AM] ItemId:	1239	| Value:	600
-[07:21:35 AM] ItemId:	1253	| Value:	1
-[07:21:35 AM] ItemId:	1210	| Value:	49
-[07:21:35 AM] ItemId:	1399	| Value:	5
-[07:21:36 AM] ItemId:	1109	| Value:	125
-[07:21:36 AM] ItemId:	496	| Value:	1
-[07:21:36 AM] ItemId:	1390	| Value:	1
-[07:21:36 AM] ItemId:	193	| Value:	1
-[07:21:36 AM] ItemId:	14	| Value:	1
-[07:21:36 AM] ItemId:	24	| Value:	3
-[07:21:36 AM] ItemId:	1116	| Value:	75
-[07:21:36 AM] ItemId:	1225	| Value:	600
-[07:21:36 AM] ItemId:	1146	| Value:	303
-[07:21:36 AM] ItemId:	512	| Value:	1
-[07:21:36 AM] ItemId:	1418	| Value:	1
-[07:21:36 AM] ItemId:	128	| Value:	1
-[07:21:37 AM] ItemId:	43	| Value:	1
-[07:21:37 AM] ItemId:	53	| Value:	1
-[07:21:37 AM] ItemId:	20	| Value:	1
-[07:21:37 AM] ItemId:	86	| Value:	1
-[07:21:37 AM] ItemId:	48	| Value:	1
-[07:21:37 AM] ItemId:	468	| Value:	1
-[07:21:37 AM] ItemId:	495	| Value:	1
-[07:21:37 AM] ItemId:	1111	| Value:	81
-[07:21:37 AM] ItemId:	1103	| Value:	1
-[07:21:37 AM] ItemId:	1192	| Value:	350
-[07:21:37 AM] ItemId:	1102	| Value:	82
-[07:21:37 AM] ItemId:	1115	| Value:	101
-[07:21:37 AM] ItemId:	1401	| Value:	1
-[07:21:38 AM] ItemId:	1117	| Value:	100
-[07:21:38 AM] ItemId:	158	| Value:	1
-[07:21:38 AM] ItemId:	1142	| Value:	302
-[07:21:38 AM] ItemId:	1199	| Value:	1
-[07:21:38 AM] ItemId:	1407	| Value:	1
-[07:21:38 AM] ItemId:	1112	| Value:	54
-[07:21:38 AM] ItemId:	498	| Value:	1
-[07:21:38 AM] ItemId:	1402	| Value:	1
-[07:21:38 AM] ItemId:	1141	| Value:	250
-[07:21:38 AM] ItemId:	1389	| Value:	1
-[07:21:38 AM] ItemId:	1159	| Value:	178
-[07:21:39 AM] ItemId:	191	| Value:	1
-[07:21:39 AM] ItemId:	400	| Value:	1
-[07:21:39 AM] ItemId:	491	| Value:	1
-[07:21:39 AM] ItemId:	1128	| Value:	121
-[07:21:39 AM] ItemId:	18	| Value:	57
-[07:21:39 AM] ItemId:	1113	| Value:	48
-[07:21:39 AM] ItemId:	508	| Value:	1
-[07:21:39 AM] ItemId:	57	| Value:	1
-[07:21:39 AM] ItemId:	1411	| Value:	1
-[07:21:39 AM] ItemId:	32	| Value:	1
-[07:21:39 AM] ItemId:	1204	| Value:	300
-[07:21:39 AM] ItemId:	1184	| Value:	600
-[07:21:40 AM] ItemId:	1145	| Value:	393
-[07:21:40 AM] ItemId:	1419	| Value:	1
-[07:21:40 AM] ItemId:	1240	| Value:	600
-[07:21:40 AM] ItemId:	1406	| Value:	1
-[07:21:40 AM] ItemId:	1157	| Value:	439
-[07:21:40 AM] ItemId:	1233	| Value:	545
-[07:21:40 AM] ItemId:	184	| Value:	1
-[07:21:40 AM] ItemId:	1100	| Value:	483
-[07:21:40 AM] ItemId:	1105	| Value:	60
-[07:21:40 AM] ItemId:	1524	| Value:	1
-[07:21:40 AM] ItemId:	1169	| Value:	300
-[07:21:40 AM] ItemId:	471	| Value:	1
-[07:21:41 AM] ItemId:	208	| Value:	1
-[07:21:41 AM] ItemId:	1132	| Value:	181
-[07:21:41 AM] ItemId:	1426	| Value:	1
-[07:21:41 AM] ItemId:	3	| Value:	1
-[07:21:41 AM] ItemId:	4	| Value:	1
-[07:21:41 AM] ItemId:	1162	| Value:	600
-[07:21:41 AM] ItemId:	1252	| Value:	353
-[07:21:41 AM] ItemId:	1185	| Value:	350
-[07:21:41 AM] ItemId:	1106	| Value:	192
-[07:21:41 AM] ItemId:	31	| Value:	5
-[07:21:41 AM] ItemId:	1177	| Value:	325
-[07:21:41 AM] ItemId:	1224	| Value:	600
-[07:21:41 AM] ItemId:	1404	| Value:	1
-[07:21:42 AM] ItemId:	1408	| Value:	1
-[07:21:42 AM] ItemId:	1421	| Value:	1
-[07:21:42 AM] ItemId:	1170	| Value:	325
-[07:21:42 AM] ItemId:	1526	| Value:	5
-[07:21:42 AM] ItemId:	470	| Value:	1
-[07:21:42 AM] ItemId:	479	| Value:	1
-[07:21:42 AM] ItemId:	1397	| Value:	1
-[07:21:42 AM] ItemId:	1161	| Value:	600
-[07:21:42 AM] ItemId:	492	| Value:	1
-[07:21:42 AM] ItemId:	1134	| Value:	600
-[07:21:42 AM] ItemId:	1101	| Value:	1
-[07:21:42 AM] ItemId:	1198	| Value:	600
-[07:21:42 AM] ItemId:	1194	| Value:	600
-[07:21:43 AM] ItemId:	1403	| Value:	1
-[07:21:43 AM] ItemId:	1203	| Value:	600
-[07:21:43 AM] ItemId:	80	| Value:	1
-[07:21:43 AM] ItemId:	1114	| Value:	1
-[07:21:43 AM] ItemId:	1108	| Value:	600
-[07:21:43 AM] ItemId:	469	| Value:	1
-[07:21:43 AM] ItemId:	541	| Value:	1
-[07:21:43 AM] ItemId:	1202	| Value:	600
-[07:21:43 AM] ItemId:	1143	| Value:	200
-[07:21:43 AM] ItemId:	1232	| Value:	305
-[07:21:43 AM] ItemId:	1400	| Value:	1
-[07:21:43 AM] ItemId:	1430	| Value:	50
-[07:21:43 AM] ItemId:	833	| Value:	50
+[07:24:52 AM] --- RECORD	3	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1395
+[07:24:52 AM] --- RECORD	4	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1110
+[07:24:52 AM] --- RECORD	5	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	511
+[07:24:52 AM] --- RECORD	6	---
+[07:24:52 AM] Value	=	number	175
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1099
+[07:24:52 AM] --- RECORD	7	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	46
+[07:24:52 AM] --- RECORD	8	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	26
+[07:24:52 AM] --- RECORD	9	---
+[07:24:52 AM] Value	=	number	3
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1396
+[07:24:52 AM] --- RECORD	10	---
+[07:24:52 AM] Value	=	number	57
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1394
+[07:24:52 AM] --- RECORD	11	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1412
+[07:24:52 AM] --- RECORD	12	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	25
+[07:24:52 AM] --- RECORD	13	---
+[07:24:52 AM] Value	=	number	600
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1456
+[07:24:52 AM] --- RECORD	14	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	539
+[07:24:52 AM] --- RECORD	15	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1425
+[07:24:52 AM] --- RECORD	16	---
+[07:24:52 AM] Value	=	number	300
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1201
+[07:24:52 AM] --- RECORD	17	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1416
+[07:24:52 AM] --- RECORD	18	---
+[07:24:52 AM] Value	=	number	600
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1144
+[07:24:52 AM] --- RECORD	19	---
+[07:24:52 AM] Value	=	number	600
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1129
+[07:24:52 AM] --- RECORD	20	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1393
+[07:24:52 AM] --- RECORD	21	---
+[07:24:52 AM] Value	=	number	600
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1226
+[07:24:52 AM] --- RECORD	22	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	402
+[07:24:52 AM] --- RECORD	23	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1398
+[07:24:52 AM] --- RECORD	24	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	502
+[07:24:52 AM] --- RECORD	25	---
+[07:24:52 AM] Value	=	number	600
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1239
+[07:24:52 AM] --- RECORD	26	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1253
+[07:24:52 AM] --- RECORD	27	---
+[07:24:52 AM] Value	=	number	49
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1210
+[07:24:52 AM] --- RECORD	28	---
+[07:24:52 AM] Value	=	number	5
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1399
+[07:24:52 AM] --- RECORD	29	---
+[07:24:52 AM] Value	=	number	125
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1109
+[07:24:52 AM] --- RECORD	30	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	496
+[07:24:52 AM] --- RECORD	31	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1390
+[07:24:52 AM] --- RECORD	32	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	193
+[07:24:52 AM] --- RECORD	33	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	14
+[07:24:52 AM] --- RECORD	34	---
+[07:24:52 AM] Value	=	number	3
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	24
+[07:24:52 AM] --- RECORD	35	---
+[07:24:52 AM] Value	=	number	75
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1116
+[07:24:52 AM] --- RECORD	36	---
+[07:24:52 AM] Value	=	number	600
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1225
+[07:24:52 AM] --- RECORD	37	---
+[07:24:52 AM] Value	=	number	303
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1146
+[07:24:52 AM] --- RECORD	38	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	512
+[07:24:52 AM] --- RECORD	39	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	1418
+[07:24:52 AM] --- RECORD	40	---
+[07:24:52 AM] Value	=	number	1
+[07:24:52 AM] Key	=	string	Mastery
+[07:24:52 AM] ItemId	=	number	128
+[07:24:53 AM] --- RECORD	41	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	43
+[07:24:53 AM] --- RECORD	42	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	53
+[07:24:53 AM] --- RECORD	43	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	20
+[07:24:53 AM] --- RECORD	44	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	86
+[07:24:53 AM] --- RECORD	45	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	48
+[07:24:53 AM] --- RECORD	46	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	468
+[07:24:53 AM] --- RECORD	47	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	495
+[07:24:53 AM] --- RECORD	48	---
+[07:24:53 AM] Value	=	number	81
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1111
+[07:24:53 AM] --- RECORD	49	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1103
+[07:24:53 AM] --- RECORD	50	---
+[07:24:53 AM] Value	=	number	350
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1192
+[07:24:53 AM] --- RECORD	51	---
+[07:24:53 AM] Value	=	number	82
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1102
+[07:24:53 AM] --- RECORD	52	---
+[07:24:53 AM] Value	=	number	101
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1115
+[07:24:53 AM] --- RECORD	53	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1401
+[07:24:53 AM] --- RECORD	54	---
+[07:24:53 AM] Value	=	number	100
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1117
+[07:24:53 AM] --- RECORD	55	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	158
+[07:24:53 AM] --- RECORD	56	---
+[07:24:53 AM] Value	=	number	302
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1142
+[07:24:53 AM] --- RECORD	57	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1199
+[07:24:53 AM] --- RECORD	58	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1407
+[07:24:53 AM] --- RECORD	59	---
+[07:24:53 AM] Value	=	number	54
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1112
+[07:24:53 AM] --- RECORD	60	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	498
+[07:24:53 AM] --- RECORD	61	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1402
+[07:24:53 AM] --- RECORD	62	---
+[07:24:53 AM] Value	=	number	250
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1141
+[07:24:53 AM] --- RECORD	63	---
+[07:24:53 AM] Value	=	number	1
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1389
+[07:24:53 AM] --- RECORD	64	---
+[07:24:53 AM] Value	=	number	178
+[07:24:53 AM] Key	=	string	Mastery
+[07:24:53 AM] ItemId	=	number	1159
+[07:24:54 AM] --- RECORD	65	---
+[07:24:54 AM] Value	=	number	1
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	191
+[07:24:54 AM] --- RECORD	66	---
+[07:24:54 AM] Value	=	number	1
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	400
+[07:24:54 AM] --- RECORD	67	---
+[07:24:54 AM] Value	=	number	1
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	491
+[07:24:54 AM] --- RECORD	68	---
+[07:24:54 AM] Value	=	number	121
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	1128
+[07:24:54 AM] --- RECORD	69	---
+[07:24:54 AM] Value	=	number	57
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	18
+[07:24:54 AM] --- RECORD	70	---
+[07:24:54 AM] Value	=	number	48
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	1113
+[07:24:54 AM] --- RECORD	71	---
+[07:24:54 AM] Value	=	number	1
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	508
+[07:24:54 AM] --- RECORD	72	---
+[07:24:54 AM] Value	=	number	1
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	57
+[07:24:54 AM] --- RECORD	73	---
+[07:24:54 AM] Value	=	number	1
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	1411
+[07:24:54 AM] --- RECORD	74	---
+[07:24:54 AM] Value	=	number	1
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	32
+[07:24:54 AM] --- RECORD	75	---
+[07:24:54 AM] Value	=	number	300
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	1204
+[07:24:54 AM] --- RECORD	76	---
+[07:24:54 AM] Value	=	number	600
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	1184
+[07:24:54 AM] --- RECORD	77	---
+[07:24:54 AM] Value	=	number	393
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	1145
+[07:24:54 AM] --- RECORD	78	---
+[07:24:54 AM] Value	=	number	1
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	1419
+[07:24:54 AM] --- RECORD	79	---
+[07:24:54 AM] Value	=	number	600
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	1240
+[07:24:54 AM] --- RECORD	80	---
+[07:24:54 AM] Value	=	number	1
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	1406
+[07:24:54 AM] --- RECORD	81	---
+[07:24:54 AM] Value	=	number	439
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	1157
+[07:24:54 AM] --- RECORD	82	---
+[07:24:54 AM] Value	=	number	545
+[07:24:54 AM] Key	=	string	Mastery
+[07:24:54 AM] ItemId	=	number	1233
+[07:24:54 AM] --- RECORD	83	---
+[07:24:55 AM] Value	=	number	1
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	184
+[07:24:55 AM] --- RECORD	84	---
+[07:24:55 AM] Value	=	number	483
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	1100
+[07:24:55 AM] --- RECORD	85	---
+[07:24:55 AM] Value	=	number	60
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	1105
+[07:24:55 AM] --- RECORD	86	---
+[07:24:55 AM] Value	=	number	1
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	1524
+[07:24:55 AM] --- RECORD	87	---
+[07:24:55 AM] Value	=	number	300
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	1169
+[07:24:55 AM] --- RECORD	88	---
+[07:24:55 AM] Value	=	number	1
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	471
+[07:24:55 AM] --- RECORD	89	---
+[07:24:55 AM] Value	=	number	1
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	208
+[07:24:55 AM] --- RECORD	90	---
+[07:24:55 AM] Value	=	number	181
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	1132
+[07:24:55 AM] --- RECORD	91	---
+[07:24:55 AM] Value	=	number	1
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	1426
+[07:24:55 AM] --- RECORD	92	---
+[07:24:55 AM] Value	=	number	1
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	3
+[07:24:55 AM] --- RECORD	93	---
+[07:24:55 AM] Value	=	number	1
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	4
+[07:24:55 AM] --- RECORD	94	---
+[07:24:55 AM] Value	=	number	600
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	1162
+[07:24:55 AM] --- RECORD	95	---
+[07:24:55 AM] Value	=	number	353
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	1252
+[07:24:55 AM] --- RECORD	96	---
+[07:24:55 AM] Value	=	number	350
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:55 AM] ItemId	=	number	1185
+[07:24:55 AM] --- RECORD	97	---
+[07:24:55 AM] Value	=	number	192
+[07:24:55 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	1106
+[07:24:56 AM] --- RECORD	98	---
+[07:24:56 AM] Value	=	number	5
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	31
+[07:24:56 AM] --- RECORD	99	---
+[07:24:56 AM] Value	=	number	325
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	1177
+[07:24:56 AM] --- RECORD	100	---
+[07:24:56 AM] Value	=	number	600
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	1224
+[07:24:56 AM] --- RECORD	101	---
+[07:24:56 AM] Value	=	number	1
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	1404
+[07:24:56 AM] --- RECORD	102	---
+[07:24:56 AM] Value	=	number	1
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	1408
+[07:24:56 AM] --- RECORD	103	---
+[07:24:56 AM] Value	=	number	1
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	1421
+[07:24:56 AM] --- RECORD	104	---
+[07:24:56 AM] Value	=	number	325
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	1170
+[07:24:56 AM] --- RECORD	105	---
+[07:24:56 AM] Value	=	number	5
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	1526
+[07:24:56 AM] --- RECORD	106	---
+[07:24:56 AM] Value	=	number	1
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	470
+[07:24:56 AM] --- RECORD	107	---
+[07:24:56 AM] Value	=	number	1
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	479
+[07:24:56 AM] --- RECORD	108	---
+[07:24:56 AM] Value	=	number	1
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	1397
+[07:24:56 AM] --- RECORD	109	---
+[07:24:56 AM] Value	=	number	600
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:56 AM] ItemId	=	number	1161
+[07:24:56 AM] --- RECORD	110	---
+[07:24:56 AM] Value	=	number	1
+[07:24:56 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	492
+[07:24:57 AM] --- RECORD	111	---
+[07:24:57 AM] Value	=	number	600
+[07:24:57 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	1134
+[07:24:57 AM] --- RECORD	112	---
+[07:24:57 AM] Value	=	number	1
+[07:24:57 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	1101
+[07:24:57 AM] --- RECORD	113	---
+[07:24:57 AM] Value	=	number	600
+[07:24:57 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	1198
+[07:24:57 AM] --- RECORD	114	---
+[07:24:57 AM] Value	=	number	600
+[07:24:57 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	1194
+[07:24:57 AM] --- RECORD	115	---
+[07:24:57 AM] Value	=	number	1
+[07:24:57 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	1403
+[07:24:57 AM] --- RECORD	116	---
+[07:24:57 AM] Value	=	number	600
+[07:24:57 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	1203
+[07:24:57 AM] --- RECORD	117	---
+[07:24:57 AM] Value	=	number	1
+[07:24:57 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	80
+[07:24:57 AM] --- RECORD	118	---
+[07:24:57 AM] Value	=	number	1
+[07:24:57 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	1114
+[07:24:57 AM] --- RECORD	119	---
+[07:24:57 AM] Value	=	number	600
+[07:24:57 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	1108
+[07:24:57 AM] --- RECORD	120	---
+[07:24:57 AM] Value	=	number	1
+[07:24:57 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	469
+[07:24:57 AM] --- RECORD	121	---
+[07:24:57 AM] Value	=	number	1
+[07:24:57 AM] Key	=	string	Mastery
+[07:24:57 AM] ItemId	=	number	541
+[07:24:58 AM] --- RECORD	122	---
+[07:24:58 AM] Value	=	number	600
+[07:24:58 AM] Key	=	string	Mastery
+[07:24:58 AM] ItemId	=	number	1202
+[07:24:58 AM] --- RECORD	123	---
+[07:24:58 AM] Value	=	number	200
+[07:24:58 AM] Key	=	string	Mastery
+[07:24:58 AM] ItemId	=	number	1143
+[07:24:58 AM] --- RECORD	124	---
+[07:24:58 AM] Value	=	number	305
+[07:24:58 AM] Key	=	string	Mastery
+[07:24:58 AM] ItemId	=	number	1232
+[07:24:58 AM] --- RECORD	125	---
+[07:24:58 AM] Value	=	number	1
+[07:24:58 AM] Key	=	string	Mastery
+[07:24:58 AM] ItemId	=	number	1400
+[07:24:58 AM] --- RECORD	126	---
+[07:24:58 AM] Value	=	number	50
+[07:24:58 AM] Key	=	string	Mastery
+[07:24:58 AM] ItemId	=	number	1430
+[07:24:58 AM] --- RECORD	127	---
+[07:24:58 AM] Value	=	number	50
+[07:24:58 AM] Key	=	string	Mastery
+[07:24:58 AM] ItemId	=	number	833
