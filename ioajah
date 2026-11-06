@@ -1,3542 +1,500 @@
-[07:45:35 AM]   KEY:	IsOwned_1389_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:35 AM]   KEY:	IsEquipped_270_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:35 AM]   KEY:	IsOwned_1140_cf4c8c65b7774c53a6f64b7a11f9e4dd	| TYPE:	boolean	| VALUE:	true
-[07:45:35 AM]   KEY:	Awakenings_53_nil	| TYPE:	string	| VALUE:	
-[07:45:35 AM]   >>> AWAKENING RECORD FOUND
-[07:45:35 AM]   KEY:	CombatData_1141_nil	| TYPE:	table	| VALUE:	table: 0x0d75bb4e20ec0578 {
-  "Cap": "375",
-  "Cooldown": {
-    "keys": {
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xf1b22919771cd5be"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x5a8b634549a4af06"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "250",
-      "Z": "125"
-    },
-    "value": "table: 0xd98fb12232b4fb0f"
-  }
-}
-[07:45:35 AM]   KEY:	Mastery_128_nil	| TYPE:	number	| VALUE:	1
-[07:45:35 AM]   KEY:	Quantity_636_nil	| TYPE:	number	| VALUE:	1
-[07:45:35 AM]   KEY:	Quantity_1254_09e73b05bb9e4d5ba64687409184f534	| TYPE:	number	| VALUE:	1
-[07:45:35 AM]   KEY:	Quantity_1446_nil	| TYPE:	number	| VALUE:	1
-[07:45:35 AM]   KEY:	IsOwned_280_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:35 AM]   KEY:	Quantity_595_nil	| TYPE:	number	| VALUE:	25
-[07:45:35 AM]   KEY:	IsOwned_1403_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:35 AM]   KEY:	Quantity_288_nil	| TYPE:	number	| VALUE:	1
-[07:45:35 AM]   KEY:	AccessoryType_1136_ce70d358561b411ea2329b181420569e	| TYPE:	string	| VALUE:	Super
-[07:45:35 AM]   KEY:	CombatData_1407_nil	| TYPE:	table	| VALUE:	table: 0x70377ab015e284ea {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "9",
-          "F": "3.75",
-          "V": "16",
-          "X": "7",
-          "Z": "5"
-        },
-        "value": "table: 0x35a0521679ec2f1d"
-      },
-      "Cost": {
-        "keys": {
-          "C": "35",
-          "F": "30",
-          "V": "50",
-          "X": "25",
-          "Z": "15"
-        },
-        "value": "table: 0xfc76a04647a1d6ca"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0x729ee1abb78764aa"
-      }
-    },
-    "value": "table: 0x91c8aa3448a23c1a"
-  },
-  "Cap": "250",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3.75",
-      "V": "16",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x0a5434d905b829a0"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x56586ea04260a70d"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "F": "10",
-      "V": "110",
-      "X": "40",
-      "Z": "1"
-    },
-    "value": "table: 0xf9241a19a1630bf1"
-  }
-}
-[07:45:35 AM]   KEY:	Quantity_806_nil	| TYPE:	number	| VALUE:	1
-[07:45:35 AM]   KEY:	Mastery_86_nil	| TYPE:	number	| VALUE:	1
-[07:45:36 AM]   KEY:	IsOwned_1252_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:36 AM]   KEY:	CombatData_1113_nil	| TYPE:	table	| VALUE:	table: 0xa227189fb259c5cf {
-  "Cap": "100",
-  "Cooldown": {
-    "keys": {
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0x46a4840641a68303"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xf047bf88f7ac81ad"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0x031911d9ed888016"
-  }
-}
-[07:45:36 AM]   KEY:	Quantity_572_nil	| TYPE:	number	| VALUE:	1950
-[07:45:36 AM]   KEY:	CombatData_1524_nil	| TYPE:	table	| VALUE:	table: 0x0e2efd2775265a07 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "2.5",
-      "V": "15",
-      "X": "7.5",
-      "Z": "5"
-    },
-    "value": "table: 0xeebaaaa372f397af"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "50",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x3e2fa6e38ef91a3b"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "75",
-      "V": "150",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x2560ac85b5d30755"
-  }
-}
-[07:45:36 AM]   KEY:	CombatData_450_nil	| TYPE:	table	| VALUE:	table: 0xc77779b6869d574f {
-  "Cap": "375",
-  "Cooldown": {
-    "keys": {
-      "C": "12",
-      "F": "0",
-      "TAP": "0.1",
-      "V": "28.5",
-      "X": "8",
-      "Z": "0"
-    },
-    "value": "table: 0xa2db056594b83238"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "TAP": "0",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x01ccc406f34a8dfc"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "30",
-      "TAP": "0",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0xc7e5232ad0d96694"
-  }
-}
-[07:45:36 AM]   KEY:	IsOwned_578_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:36 AM]   KEY:	CombatData_462_nil	| TYPE:	table	| VALUE:	table: 0xec1d23b539f1f0fc {
-  "Cap": "375",
-  "Cooldown": {
-    "keys": {
-      "C": "12",
-      "F": "0",
-      "TAP": "0.1",
-      "V": "28.5",
-      "X": "8",
-      "Z": "0"
-    },
-    "value": "table: 0x03ad42e21cfbafec"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "TAP": "0",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x2d18124887c22635"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "30",
-      "TAP": "0",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0x6cca2ea295755f9a"
-  }
-}
-[07:45:36 AM]   KEY:	IsEquipped_276_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:36 AM]   KEY:	IsOwned_1202_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:36 AM]   KEY:	IsOwned_598_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:36 AM]   KEY:	CombatData_163_nil	| TYPE:	table	| VALUE:	table: 0x4c6b7bfd613cd0e2 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "4.5",
-      "V": "15",
-      "X": "8.5",
-      "Z": "6"
-    },
-    "value": "table: 0x15b4c05d326016dd"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "40",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x190cafe3bf29cc36"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x1ee12628194700d6"
-  }
-}
-[07:45:36 AM]   KEY:	AccessoryType_1217_c93650b92299408b8cfd222b974116d5	| TYPE:	string	| VALUE:	Super
-[07:45:36 AM]   KEY:	CombatData_1397_nil	| TYPE:	table	| VALUE:	table: 0x279440530dc62580 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "7",
-      "F": "0.65",
-      "TAP": "2",
-      "V": "15",
-      "X": "6",
-      "Z": "3"
-    },
-    "value": "table: 0x36f3364896bc79b3"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "F": "25",
-      "TAP": "5",
-      "V": "100",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x442517a351e9f508"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "75",
-      "F": "25",
-      "TAP": "0",
-      "V": "125",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x0d93d16ee4b1e811"
-  }
-}
-[07:45:36 AM]   KEY:	Quantity_763_nil	| TYPE:	number	| VALUE:	1
-[07:45:36 AM]   KEY:	CombatData_1185_nil	| TYPE:	table	| VALUE:	table: 0x8e8362807235902f {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0xe37d0a8c7f146aea"
-  },
-  "Cost": {
-    "keys": {
-      "X": "30",
-      "Z": "20"
-    },
-    "value": "table: 0xf3702f1071d37ab1"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "350",
-      "Z": "150"
-    },
-    "value": "table: 0xf6c24b87fe8f8e93"
-  }
-}
-[07:45:36 AM]   KEY:	IsOwned_1215_7060abea8f3243dbbef27448c09dadd5	| TYPE:	boolean	| VALUE:	true
-[07:45:36 AM]   KEY:	Mastery_1401_nil	| TYPE:	number	| VALUE:	1
-[07:45:36 AM]   KEY:	Quantity_1226_nil	| TYPE:	number	| VALUE:	1
-[07:45:36 AM]   KEY:	CombatData_1394_nil	| TYPE:	table	| VALUE:	table: 0x770c0a4381102c25 {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "10",
-          "F": "6.4",
-          "V": "18",
-          "X": "7",
-          "Z": "5"
-        },
-        "value": "table: 0x1c13d8330e06dd91"
-      },
-      "Cost": {
-        "keys": {
-          "C": "35",
-          "F": "100",
-          "V": "50",
-          "X": "25",
-          "Z": "15"
-        },
-        "value": "table: 0xc65a6290eda13385"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0xc8ecf9f8a67ef21d"
-      }
-    },
-    "value": "table: 0xefbe80a7b0b9190f"
-  },
-  "Cap": "225",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "10",
-      "V": "18",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x2c96662175d58415"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "100",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xb96abe9304eb32a5"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "10",
-      "V": "100",
-      "X": "25",
-      "Z": "1"
-    },
-    "value": "table: 0xd390cfed0870e48b"
-  }
-}
-[07:45:36 AM]   KEY:	Mastery_1418_nil	| TYPE:	number	| VALUE:	1
-[07:45:36 AM]   KEY:	Mastery_1397_nil	| TYPE:	number	| VALUE:	1
-[07:45:36 AM]   KEY:	IsOwned_1139_2abad3903ce9406c872292c7644b86ad	| TYPE:	boolean	| VALUE:	true
-[07:45:37 AM]   KEY:	Quantity_756_nil	| TYPE:	number	| VALUE:	1
-[07:45:37 AM]   KEY:	Mastery_496_nil	| TYPE:	number	| VALUE:	1
-[07:45:37 AM]   KEY:	Mastery_402_nil	| TYPE:	number	| VALUE:	1
-[07:45:37 AM]   KEY:	CombatData_1402_nil	| TYPE:	table	| VALUE:	table: 0x090de0bb95ccabc5 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "4",
-      "V": "13",
-      "X": "6",
-      "Z": "4"
-    },
-    "value": "table: 0x9c784a7c2cf13e0c"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "35",
-      "V": "65",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x01b0a223761cf457"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "75",
-      "V": "125",
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0x15cfa71b819f4b51"
-  }
-}
-[07:45:37 AM]   KEY:	Mastery_1170_nil	| TYPE:	number	| VALUE:	325
-[07:45:37 AM]   KEY:	IsOwned_1229_e4372431cab24d548cf7f67910745746	| TYPE:	boolean	| VALUE:	true
-[07:45:37 AM]   KEY:	IsOwned_1400_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:37 AM]   KEY:	CombatData_8_nil	| TYPE:	table	| VALUE:	table: 0x41606edc1e40e65a {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "9",
-          "F": "4",
-          "V": "16",
-          "X": "7",
-          "Z": "5"
-        },
-        "value": "table: 0x3b9c617901cc46d2"
-      },
-      "Cost": {
-        "keys": {
-          "C": "35",
-          "F": "75",
-          "V": "50",
-          "X": "25",
-          "Z": "15"
-        },
-        "value": "table: 0x4c8ee7108319f706"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0xe86ad295b3ea851c"
-      }
-    },
-    "value": "table: 0x2a3c7693fe59709c"
-  },
-  "Cap": "300",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "4",
-      "V": "16",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xd68f9ae5ac5e6a22"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "75",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x7fb564eebab3a12b"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "95",
-      "F": "10",
-      "V": "140",
-      "X": "45",
-      "Z": "1"
-    },
-    "value": "table: 0x66f59b5f0c32cdb3"
-  }
-}
-[07:45:37 AM]   KEY:	IsOwned_1390_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:37 AM]   KEY:	Quantity_574_nil	| TYPE:	number	| VALUE:	3
-[07:45:37 AM]   KEY:	Quantity_696_nil	| TYPE:	number	| VALUE:	1
-[07:45:37 AM]   KEY:	CombatData_1430_nil	| TYPE:	table	| VALUE:	table: 0xa4cdf002b48abdc1 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "15",
-      "F": "9",
-      "V": "4.5",
-      "X": "12",
-      "Z": "9"
-    },
-    "value": "table: 0x3d6adc2fa99f6109"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "60",
-      "V": "20",
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0xec4b2252fb744255"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "200",
-      "V": "300",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x9cb53ad14a0795a3"
-  }
-}
-[07:45:37 AM]   KEY:	Mastery_1103_nil	| TYPE:	number	| VALUE:	1
-[07:45:37 AM]   KEY:	IsEquipped_279_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:37 AM]   KEY:	CombatData_402_nil	| TYPE:	table	| VALUE:	table: 0x2301e71f77b9006f {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "0.75",
-      "TAP": "2",
-      "V": "16",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x1c4c9d40204f3686"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "5",
-      "TAP": "10",
-      "V": "70",
-      "X": "25",
-      "Z": "25"
-    },
-    "value": "table: 0xaf97d85a4d786fd7"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "90",
-      "F": "10",
-      "TAP": "1",
-      "V": "130",
-      "X": "45",
-      "Z": "1"
-    },
-    "value": "table: 0x6f547474c42a4124"
-  }
-}
-[07:45:37 AM]   KEY:	Mastery_471_nil	| TYPE:	number	| VALUE:	1
-[07:45:37 AM]   KEY:	Mastery_1159_nil	| TYPE:	number	| VALUE:	178
-[07:45:37 AM]   KEY:	IsOwned_1138_240714254db94127999cbb8f87e9d0a8	| TYPE:	boolean	| VALUE:	true
-[07:45:37 AM]   KEY:	IsOwned_1421_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:37 AM]   KEY:	CombatData_1417_nil	| TYPE:	table	| VALUE:	table: 0xd1e9bae1b9ea1df1 {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "11",
-          "F": "4.5",
-          "TAP": "0.5",
-          "V": "15",
-          "X": "8.5",
-          "Z": "6"
-        },
-        "value": "table: 0xb2ebb66acc080677"
-      },
-      "Cost": {
-        "keys": {
-          "C": "80",
-          "F": "25",
-          "TAP": "40",
-          "V": "90",
-          "X": "60",
-          "Z": "40"
-        },
-        "value": "table: 0x8eb6ca5521f6a62d"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "TAP": "4000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0x831b9d089bd8d55f"
-      }
-    },
-    "value": "table: 0xcefe2fcc9fd8bac0"
-  },
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "4.5",
-      "V": "15",
-      "X": "8.5",
-      "Z": "6"
-    },
-    "value": "table: 0xc4a80f1ba90e67c9"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "25",
-      "V": "90",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x22cc1765226094f6"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "TAP": "1",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x8a319e0b2434add3"
-  }
-}
-[07:45:37 AM]   KEY:	Quantity_1198_nil	| TYPE:	number	| VALUE:	1
-[07:45:38 AM]   KEY:	Mastery_1412_nil	| TYPE:	number	| VALUE:	1
-[07:45:38 AM]   KEY:	Awakenings_1404_nil	| TYPE:	string	| VALUE:	
-[07:45:38 AM]   >>> AWAKENING RECORD FOUND
-[07:45:38 AM]   KEY:	IsOwned_555_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:38 AM]   KEY:	Quantity_722_nil	| TYPE:	number	| VALUE:	1
-[07:45:38 AM]   KEY:	Quantity_1109_nil	| TYPE:	number	| VALUE:	1
-[07:45:38 AM]   KEY:	Mastery_1233_nil	| TYPE:	number	| VALUE:	545
-[07:45:38 AM]   KEY:	CombatData_498_nil	| TYPE:	table	| VALUE:	table: 0xaca6cf3efd5be1ff {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "12.5",
-      "F": "4.25",
-      "V": "16.5",
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0x3479ecec659ba3fa"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "20",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0xa3002ab7f90405c5"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0xd9f4bad6107e1e87"
-  }
-}
-[07:45:38 AM]   KEY:	CombatData_254_nil	| TYPE:	table	| VALUE:	table: 0xd93169eaa35ac20d {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "3.5",
-      "TAP": "0.5",
-      "V": "1",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xf34fd2b34fb899d1"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "50",
-      "TAP": "0",
-      "V": "10",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0xd220e77610ac7c7b"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "250",
-      "F": "75",
-      "TAP": "0",
-      "V": "350",
-      "X": "150",
-      "Z": "1"
-    },
-    "value": "table: 0x5bbbaadc22b86940"
-  }
-}
-[07:45:38 AM]   KEY:	Quantity_767_nil	| TYPE:	number	| VALUE:	1
-[07:45:38 AM]   KEY:	AccessoryModifiers_1147_b099895551c74ba2b4686a5de1d09243	| TYPE:	string	| VALUE:	
-[07:45:38 AM]   KEY:	Quantity_1411_nil	| TYPE:	number	| VALUE:	1
-[07:45:38 AM]   KEY:	IsOwned_597_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:38 AM]   KEY:	AccessoryType_1139_2abad3903ce9406c872292c7644b86ad	| TYPE:	string	| VALUE:	Super
-[07:45:38 AM]   KEY:	Quantity_773_nil	| TYPE:	number	| VALUE:	1
-[07:45:38 AM]   KEY:	AccessoryType_1269_a7d8ffc5a4b3419c9032db324305488f	| TYPE:	string	| VALUE:	Super
-[07:45:38 AM]   KEY:	AccessoryModifiers_1222_7271ae03c8574271bde981accd036e21	| TYPE:	string	| VALUE:	
-[07:45:38 AM]   KEY:	IsOwned_1201_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:38 AM]   KEY:	IsOwned_789_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:38 AM]   KEY:	AccessoryType_1218_120b99945ab143079903b28e8a9c3181	| TYPE:	string	| VALUE:	Super
-[07:45:38 AM]   KEY:	Quantity_654_nil	| TYPE:	number	| VALUE:	1
-[07:45:38 AM]   KEY:	Quantity_1134_nil	| TYPE:	number	| VALUE:	1
-[07:45:39 AM]   KEY:	CombatData_1112_nil	| TYPE:	table	| VALUE:	table: 0xe48df667e0a8055a {
-  "Cap": "50",
-  "Cooldown": {
-    "keys": {
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x799df78489b5e429"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x29938ffe74cdae5d"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0xf1b08003a951fdb4"
-  }
-}
-[07:45:39 AM]   KEY:	Quantity_1184_nil	| TYPE:	number	| VALUE:	1
-[07:45:39 AM]   KEY:	CombatData_1421_nil	| TYPE:	table	| VALUE:	table: 0x5d693ce3e2a1e4d6 {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "TAP": "0.8",
-      "V": "14",
-      "X": "8",
-      "Z": "4"
-    },
-    "value": "table: 0xbe5d6ed888266feb"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "TAP": "25",
-      "V": "60",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xc1fefdc7a84c62fb"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "TAP": "1",
-      "V": "110",
-      "X": "1",
-      "Z": "1"
-    },
-    "value": "table: 0x3d74a31454ae3eef"
-  }
-}
-[07:45:39 AM]   KEY:	AccessoryModifiers_1216_250eeb7e14fc463382e3aa70be249858	| TYPE:	string	| VALUE:	
-[07:45:39 AM]   KEY:	IsOwned_1226_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:39 AM]   KEY:	CombatData_1412_nil	| TYPE:	table	| VALUE:	table: 0x91f2b270d2385c0a {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "2.5",
-      "V": "15",
-      "X": "7.5",
-      "Z": "5"
-    },
-    "value": "table: 0x2451123dc649bd03"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "50",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x88471895222f1cd3"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "75",
-      "V": "150",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x9a14cb9a55c07dde"
-  }
-}
-[07:45:39 AM]   KEY:	Mastery_26_nil	| TYPE:	number	| VALUE:	1
-[07:45:39 AM]   KEY:	IsOwned_773_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:39 AM]   KEY:	Mastery_80_nil	| TYPE:	number	| VALUE:	1
-[07:45:39 AM]   KEY:	Quantity_730_nil	| TYPE:	number	| VALUE:	1
-[07:45:39 AM]   KEY:	IsOwned_1128_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:39 AM]   KEY:	AccessoryType_1271_700fac2431ee41ac99c8996627169006	| TYPE:	string	| VALUE:	Super
-[07:45:39 AM]   KEY:	IsAdvancedStocked_1425_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:39 AM]   KEY:	IsOwned_735_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:39 AM]   KEY:	IsOwned_756_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:39 AM]   KEY:	Quantity_556_nil	| TYPE:	number	| VALUE:	99
-[07:45:39 AM]   KEY:	Quantity_650_nil	| TYPE:	number	| VALUE:	1
-[07:45:39 AM]   KEY:	Quantity_794_nil	| TYPE:	number	| VALUE:	1
-[07:45:39 AM]   KEY:	IsOwned_724_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:39 AM]   KEY:	IsOwned_832_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:39 AM]   KEY:	IsOwned_1233_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:39 AM]   KEY:	AccessoryModifiers_1218_120b99945ab143079903b28e8a9c3181	| TYPE:	string	| VALUE:	
-[07:45:39 AM]   KEY:	IsAdvancedStocked_1402_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:40 AM]   KEY:	IsOwned_566_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:40 AM]   KEY:	CombatData_1100_nil	| TYPE:	table	| VALUE:	table: 0x2f6d836a1dde97eb {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0x4a1642898292f670"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xadb056ef9ec972fc"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "60",
-      "Z": "20"
-    },
-    "value": "table: 0xeed5be1f9d0313fd"
-  }
-}
-[07:45:40 AM]   KEY:	IsEquipped_284_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:40 AM]   KEY:	Quantity_594_nil	| TYPE:	number	| VALUE:	24
-[07:45:40 AM]   KEY:	Awakenings_48_nil	| TYPE:	string	| VALUE:	
-[07:45:40 AM]   >>> AWAKENING RECORD FOUND
-[07:45:40 AM]   KEY:	IsOwned_806_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:40 AM]   KEY:	CombatData_1192_nil	| TYPE:	table	| VALUE:	table: 0xf838d47d10c2bfce {
-  "Cap": "300",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x35ed66f968abe146"
-  },
-  "Cost": {
-    "keys": {
-      "X": "60",
-      "Z": "30"
-    },
-    "value": "table: 0x66afa4230fbb2040"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "350",
-      "Z": "150"
-    },
-    "value": "table: 0xf034b9797fa1df9d"
-  }
-}
-[07:45:40 AM]   KEY:	Quantity_643_nil	| TYPE:	number	| VALUE:	1
-[07:45:40 AM]   KEY:	Quantity_653_nil	| TYPE:	number	| VALUE:	1
-[07:45:40 AM]   KEY:	CombatData_95_nil	| TYPE:	table	| VALUE:	table: 0x846f9a09c58ad7f5 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "5",
-      "TAP": "0.875",
-      "V": "20",
-      "X": "10",
-      "Z": "1"
-    },
-    "value": "table: 0x56755555a84bf60e"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "50",
-      "TAP": "0",
-      "V": "10",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x23ecfffcb6a0e959"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "250",
-      "F": "75",
-      "TAP": "0",
-      "V": "350",
-      "X": "150",
-      "Z": "1"
-    },
-    "value": "table: 0xa5200d23d521e98c"
-  }
-}
-[07:45:40 AM]   KEY:	Quantity_1171_221b700a325c4346abfbf894a2900d74	| TYPE:	number	| VALUE:	1
-[07:45:40 AM]   KEY:	Mastery_1404_nil	| TYPE:	number	| VALUE:	1
-[07:45:40 AM]   KEY:	Quantity_714_nil	| TYPE:	number	| VALUE:	1
-[07:45:40 AM]   KEY:	Quantity_857_nil	| TYPE:	number	| VALUE:	2
-[07:45:40 AM]   KEY:	Evolution_1464_nil	| TYPE:	number	| VALUE:	4
-[07:45:40 AM]   KEY:	Quantity_1223_a71c11a5151a4dd2be62b2491387c7e7	| TYPE:	number	| VALUE:	1
-[07:45:40 AM]   KEY:	IsOwned_1240_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:40 AM]   KEY:	IsEquipped_780_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:40 AM]   KEY:	IsEquipped_1217_c93650b92299408b8cfd222b974116d5	| TYPE:	boolean	| VALUE:	true
-[07:45:40 AM]   KEY:	Quantity_550_nil	| TYPE:	number	| VALUE:	1
-[07:45:40 AM]   KEY:	IsEquipped_1102_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:40 AM]   KEY:	IsEquipped_1239_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:41 AM]   KEY:	Mastery_469_nil	| TYPE:	number	| VALUE:	1
-[07:45:41 AM]   KEY:	Quantity_1239_nil	| TYPE:	number	| VALUE:	1
-[07:45:41 AM]   KEY:	Mastery_1406_nil	| TYPE:	number	| VALUE:	1
-[07:45:41 AM]   KEY:	IsEquipped_833_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:41 AM]   KEY:	AccessoryType_1140_cf4c8c65b7774c53a6f64b7a11f9e4dd	| TYPE:	string	| VALUE:	Super
-[07:45:41 AM]   KEY:	Quantity_632_nil	| TYPE:	number	| VALUE:	1
-[07:45:41 AM]   KEY:	IsOwned_570_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:41 AM]   KEY:	Quantity_1269_a7d8ffc5a4b3419c9032db324305488f	| TYPE:	number	| VALUE:	1
-[07:45:41 AM]   KEY:	Quantity_570_nil	| TYPE:	number	| VALUE:	2
-[07:45:41 AM]   KEY:	CombatData_32_nil	| TYPE:	table	| VALUE:	table: 0x2889ee7ec695746a {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3",
-      "X": "6",
-      "Z": "3.5"
-    },
-    "value": "table: 0x16d450c8e10cf750"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "F": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xbc4a06ba447a5530"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "10",
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0x70ee9e9ec5d4124f"
-  }
-}
-[07:45:41 AM]   KEY:	IsEquipped_1225_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:41 AM]   KEY:	CombatData_1400_nil	| TYPE:	table	| VALUE:	table: 0x1b49ed1ffbb2b885 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3",
-      "X": "6",
-      "Z": "3.5"
-    },
-    "value": "table: 0xb7285d3916d56790"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "F": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xe8422df80cb96fb9"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "10",
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0xbf415f4cfa1b466a"
-  }
-}
-[07:45:41 AM]   KEY:	CombatData_1225_nil	| TYPE:	table	| VALUE:	table: 0xd649d8c786b20301 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x903a91658e7f5209"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "X": "40",
-      "Z": "30"
-    },
-    "value": "table: 0x441391c7131746b8"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "350",
-      "X": "250",
-      "Z": "125"
-    },
-    "value": "table: 0xbf476f0899c82448"
-  }
-}
-[07:45:41 AM]   KEY:	Mastery_1144_nil	| TYPE:	number	| VALUE:	600
-[07:45:41 AM]   KEY:	Quantity_702_nil	| TYPE:	number	| VALUE:	1
-[07:45:41 AM]   KEY:	AccessoryType_1220_087f081d9e9845d7a27421ed705bbce6	| TYPE:	string	| VALUE:	Super
-[07:45:41 AM]   KEY:	CombatData_502_nil	| TYPE:	table	| VALUE:	table: 0xcda6e914daa1f925 {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3",
-      "TAP": "0.1",
-      "V": "14",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x195e85992d67ecc4"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "F": "80",
-      "TAP": "10",
-      "V": "60",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x7b2f562bf6ff328a"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "F": "150",
-      "TAP": "1",
-      "V": "110",
-      "X": "35",
-      "Z": "1"
-    },
-    "value": "table: 0x877f5e6d66ff81ea"
-  }
-}
-[07:45:41 AM]   KEY:	Quantity_1136_ce70d358561b411ea2329b181420569e	| TYPE:	number	| VALUE:	1
-[07:45:41 AM]   KEY:	IsOwned_857_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:41 AM]   KEY:	AccessoryModifiers_1138_240714254db94127999cbb8f87e9d0a8	| TYPE:	string	| VALUE:	
-[07:45:41 AM]   KEY:	Quantity_633_nil	| TYPE:	number	| VALUE:	1
-[07:45:41 AM]   KEY:	CombatData_1142_nil	| TYPE:	table	| VALUE:	table: 0x2ac39ef8aa5ddb06 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x45c30f4a04b8cb71"
-  },
-  "Cost": {
-    "keys": {
-      "X": "30",
-      "Z": "20"
-    },
-    "value": "table: 0xe3efba0ef18ec94d"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0x7d9ad88b1a5c8958"
-  }
-}
-[07:45:42 AM]   KEY:	Mastery_1402_nil	| TYPE:	number	| VALUE:	1
-[07:45:42 AM]   KEY:	AccessoryType_1255_08f68f33e27c427e819de6035c48cd65	| TYPE:	string	| VALUE:	Super
-[07:45:42 AM]   KEY:	Quantity_782_nil	| TYPE:	number	| VALUE:	1
-[07:45:42 AM]   KEY:	Mastery_1400_nil	| TYPE:	number	| VALUE:	1
-[07:45:42 AM]   KEY:	Quantity_1124_67f3e2a569fb4e65992bdd38f3448eca	| TYPE:	number	| VALUE:	1
-[07:45:42 AM]   KEY:	AccessoryType_1257_339807d49be841fc8008fbcc492f3b7b	| TYPE:	string	| VALUE:	Super
-[07:45:42 AM]   KEY:	IsOwned_1159_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:42 AM]   KEY:	Quantity_787_nil	| TYPE:	number	| VALUE:	1
-[07:45:42 AM]   KEY:	IsOwned_1231_4753d7b0259b4fdb840b8ff0a424fe58	| TYPE:	boolean	| VALUE:	true
-[07:45:42 AM]   KEY:	Quantity_1233_nil	| TYPE:	number	| VALUE:	1
-[07:45:42 AM]   KEY:	IsOwned_787_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:42 AM]   KEY:	Quantity_758_nil	| TYPE:	number	| VALUE:	1
-[07:45:42 AM]   KEY:	IsOwned_758_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:42 AM]   KEY:	CombatData_1111_nil	| TYPE:	table	| VALUE:	table: 0x087621df59b04bd1 {
-  "Cap": "90",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "5"
-    },
-    "value": "table: 0xe202915338b779ef"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x59141f74612c76cf"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "30",
-      "Z": "1"
-    },
-    "value": "table: 0x869c96902a2dbde3"
-  }
-}
-[07:45:42 AM]   KEY:	Mastery_1430_nil	| TYPE:	number	| VALUE:	50
-[07:45:42 AM]   KEY:	AccessoryModifiers_1231_4753d7b0259b4fdb840b8ff0a424fe58	| TYPE:	string	| VALUE:	
-[07:45:42 AM]   KEY:	Quantity_1426_nil	| TYPE:	number	| VALUE:	1
-[07:45:42 AM]   KEY:	Quantity_704_nil	| TYPE:	number	| VALUE:	1
-[07:45:42 AM]   KEY:	IsOwned_729_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:42 AM]   KEY:	CombatData_1401_nil	| TYPE:	table	| VALUE:	table: 0xb48038360c68392b {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "6",
-          "F": "4",
-          "TAP": "2",
-          "V": "3",
-          "X": "8",
-          "Z": "6"
-        },
-        "value": "table: 0x800bac6bae417633"
-      },
-      "Cost": {
-        "keys": {
-          "C": "40",
-          "F": "30",
-          "TAP": "40",
-          "V": "10",
-          "X": "50",
-          "Z": "60"
-        },
-        "value": "table: 0xe1d93b439a104fb7"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "TAP": "4000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0x6f1b0eaf8025742a"
-      }
-    },
-    "value": "table: 0xeb713654bf598827"
-  },
-  "Cap": "350",
-  "Cooldown": {
-    "keys": {
-      "C": "3.5",
-      "F": "4",
-      "V": "3",
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0x795d9cdf46a4d9e4"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "100",
-      "V": "10",
-      "X": "50",
-      "Z": "60"
-    },
-    "value": "table: 0xd8525790bfcf1529"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "30",
-      "TAP": "1",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0x42fb4c1cc637b716"
-  }
-}
-[07:45:42 AM]   KEY:	IsOwned_287_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:42 AM]   KEY:	CombatData_1413_nil	| TYPE:	table	| VALUE:	table: 0x01b5bb5295065ff5 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "4.5",
-      "V": "15",
-      "X": "8.5",
-      "Z": "6"
-    },
-    "value": "table: 0xba7c60b1a3684e91"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "40",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x62e2fd378fbc5852"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0xb161e654caa4ba2a"
-  }
-}
-[07:45:43 AM]   KEY:	Quantity_1220_087f081d9e9845d7a27421ed705bbce6	| TYPE:	number	| VALUE:	1
-[07:45:43 AM]   KEY:	CombatData_1232_nil	| TYPE:	table	| VALUE:	table: 0x8d7a7f3c52567d7e {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x13523209cbf46a4d"
-  },
-  "Cost": {
-    "keys": {
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0x58808beb716bd42e"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0xcddec924a099de94"
-  }
-}
-[07:45:43 AM]   KEY:	IsOwned_1463_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:43 AM]   KEY:	Quantity_1232_nil	| TYPE:	number	| VALUE:	1
-[07:45:43 AM]   KEY:	IsStackLeader_285_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:43 AM]   KEY:	IsOwned_783_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:43 AM]   KEY:	Mastery_1232_nil	| TYPE:	number	| VALUE:	305
-[07:45:43 AM]   KEY:	Quantity_1210_nil	| TYPE:	number	| VALUE:	1
-[07:45:43 AM]   KEY:	AccessoryType_1137_9803ea1d269b43079c4abd1a6bfc7a42	| TYPE:	string	| VALUE:	Super
-[07:45:43 AM]   KEY:	Quantity_769_nil	| TYPE:	number	| VALUE:	1
-[07:45:43 AM]   KEY:	Mastery_1185_nil	| TYPE:	number	| VALUE:	350
-[07:45:43 AM]   KEY:	AccessoryModifiers_1126_fa3ddca83d0840fa8ae0a1676b423928	| TYPE:	string	| VALUE:	
-[07:45:43 AM]   KEY:	Quantity_1257_339807d49be841fc8008fbcc492f3b7b	| TYPE:	number	| VALUE:	1
-[07:45:43 AM]   KEY:	IsOwned_765_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:43 AM]   KEY:	Mastery_1100_nil	| TYPE:	number	| VALUE:	483
-[07:45:43 AM]   KEY:	Quantity_1143_nil	| TYPE:	number	| VALUE:	1
-[07:45:43 AM]   KEY:	IsOwned_1142_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:43 AM]   KEY:	Quantity_775_nil	| TYPE:	number	| VALUE:	1
-[07:45:43 AM]   KEY:	Quantity_1162_nil	| TYPE:	number	| VALUE:	1
-[07:45:43 AM]   KEY:	IsOwned_1143_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:43 AM]   KEY:	Quantity_776_nil	| TYPE:	number	| VALUE:	1
-[07:45:43 AM]   KEY:	IsOwned_574_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:44 AM]   KEY:	CombatData_1447_nil	| TYPE:	table	| VALUE:	table: 0x6b7f43706db8df33 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "3.5",
-      "TAP": "0.5",
-      "V": "1",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xffe29c4efb9b8cd9"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "50",
-      "TAP": "0",
-      "V": "10",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x32c1b9d0cff41d3a"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "250",
-      "F": "75",
-      "TAP": "0",
-      "V": "350",
-      "X": "150",
-      "Z": "1"
-    },
-    "value": "table: 0x3d80dacf1b82dfd9"
-  }
-}
-[07:45:44 AM]   KEY:	IsOwned_650_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:44 AM]   KEY:	IsOwned_1459_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:44 AM]   KEY:	Mastery_1396_nil	| TYPE:	number	| VALUE:	3
-[07:45:44 AM]   KEY:	Quantity_296_nil	| TYPE:	number	| VALUE:	1
-[07:45:44 AM]   KEY:	IsOwned_1426_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:44 AM]   KEY:	Quantity_735_nil	| TYPE:	number	| VALUE:	1
-[07:45:44 AM]   KEY:	Quantity_670_nil	| TYPE:	number	| VALUE:	1
-[07:45:44 AM]   KEY:	CombatData_1523_nil	| TYPE:	table	| VALUE:	table: 0x43be938f86b57e55 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "3.5",
-      "TAP": "0.875",
-      "V": "20",
-      "X": "8.5",
-      "Z": "6"
-    },
-    "value": "table: 0x684c82a3c91b7c47"
-  },
-  "Cost": {
-    "keys": {
-      "C": "90",
-      "F": "25",
-      "TAP": "10",
-      "V": "100",
-      "X": "75",
-      "Z": "50"
-    },
-    "value": "table: 0x4985729af3a3afb0"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "TAP": "1",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0xe5a1c03bfc653da3"
-  }
-}
-[07:45:44 AM]   KEY:	CombatData_1115_nil	| TYPE:	table	| VALUE:	table: 0x1163ad3155541418 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "X": "10",
-      "Z": "6"
-    },
-    "value": "table: 0x644a77328dff2925"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x9323e8e38ab3ce3b"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "80",
-      "Z": "35"
-    },
-    "value": "table: 0xa21158d9b2a2fed1"
-  }
-}
-[07:45:44 AM]   KEY:	AccessoryModifiers_1230_06e2244dff324b01bc0447fa951645f6	| TYPE:	string	| VALUE:	
-[07:45:44 AM]   KEY:	Mastery_14_nil	| TYPE:	number	| VALUE:	1
-[07:45:44 AM]   KEY:	Quantity_270_nil	| TYPE:	number	| VALUE:	1
-[07:45:44 AM]   KEY:	IsOwned_1456_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:44 AM]   KEY:	Quantity_708_nil	| TYPE:	number	| VALUE:	1
-[07:45:44 AM]   KEY:	IsOwned_1111_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:44 AM]   KEY:	IsOwned_634_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:44 AM]   KEY:	Quantity_1103_nil	| TYPE:	number	| VALUE:	1
-[07:45:44 AM]   KEY:	Quantity_1503_nil	| TYPE:	number	| VALUE:	1
-[07:45:44 AM]   KEY:	IsOwned_560_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:44 AM]   KEY:	Quantity_816_nil	| TYPE:	number	| VALUE:	1
-[07:45:44 AM]   KEY:	CombatData_24_nil	| TYPE:	table	| VALUE:	table: 0x9984be35c5961725 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "4",
-      "TAP": "1",
-      "V": "11",
-      "X": "6",
-      "Z": "5"
-    },
-    "value": "table: 0x548eee5cd98a2584"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "F": "50",
-      "TAP": "15",
-      "V": "100",
-      "X": "35",
-      "Z": "25"
-    },
-    "value": "table: 0x88052e21064a591b"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "125",
-      "F": "80",
-      "TAP": "1",
-      "V": "225",
-      "X": "50",
-      "Z": "25"
-    },
-    "value": "table: 0x315f9372849ab5e7"
-  }
-}
-[07:45:45 AM]   KEY:	IsOwned_816_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:45 AM]   KEY:	CombatData_541_nil	| TYPE:	table	| VALUE:	table: 0x46be7e2732a2888f {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "12.5",
-      "F": "4.25",
-      "V": "16.5",
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0x0be3931d7cfc5ba6"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "20",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0xd7aeae504c13bd5f"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x6779e60ff12a1841"
-  }
-}
-[07:45:45 AM]   KEY:	IsOwned_1464_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:45 AM]   KEY:	IsOwned_741_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:45 AM]   KEY:	Quantity_797_nil	| TYPE:	number	| VALUE:	1
-[07:45:45 AM]   KEY:	AccessoryModifiers_1160_e9c4868262cc4c159acc2aa629db43af	| TYPE:	string	| VALUE:	
-[07:45:45 AM]   KEY:	IsOwned_586_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:45 AM]   KEY:	IsAdvancedStocked_1394_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:45 AM]   KEY:	IsOwned_552_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:45 AM]   KEY:	IsStocked_1411_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:45 AM]   KEY:	Quantity_1460_nil	| TYPE:	number	| VALUE:	1
-[07:45:45 AM]   KEY:	Mastery_502_nil	| TYPE:	number	| VALUE:	1
-[07:45:45 AM]   KEY:	CombatData_479_nil	| TYPE:	table	| VALUE:	table: 0x2937efd256fc6f07 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "12.5",
-      "F": "4.25",
-      "V": "16.5",
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0x13d85ba0931bde3f"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "20",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0xf338207874423371"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0xf082e4fc604ed7e7"
-  }
-}
-[07:45:45 AM]   KEY:	EquippedSkin_1445_nil	| TYPE:	number	| VALUE:	285
-[07:45:45 AM]   KEY:	CombatData_1389_nil	| TYPE:	table	| VALUE:	table: 0x2a1f023fb7f8ea7f {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "11.5",
-          "V": "19",
-          "X": "8.5",
-          "Z": "6.66"
-        },
-        "value": "table: 0xf01aaa81dee5b958"
-      },
-      "Cost": {
-        "keys": {
-          "C": "35",
-          "V": "50",
-          "X": "25",
-          "Z": "15"
-        },
-        "value": "table: 0x5c3605f2840ce31b"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "5000",
-          "V": "8000",
-          "X": "3000",
-          "Z": "1000"
-        },
-        "value": "table: 0x8e4a4ab16e84e6a6"
-      }
-    },
-    "value": "table: 0x56a631063a9433fa"
-  },
-  "Cap": "300",
-  "Cooldown": {
-    "keys": {
-      "C": "12",
-      "V": "21",
-      "X": "9",
-      "Z": "7"
-    },
-    "value": "table: 0x2274b9e15f2a1dd6"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x18b26b878b3e0d64"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "V": "150",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x480dcfc59a6f2301"
-  }
-}
-[07:45:45 AM]   KEY:	Quantity_1445_nil	| TYPE:	number	| VALUE:	1
-[07:45:45 AM]   KEY:	AccessoryType_1231_4753d7b0259b4fdb840b8ff0a424fe58	| TYPE:	string	| VALUE:	Super
-[07:45:45 AM]   KEY:	IsOwned_1445_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:45 AM]   KEY:	Quantity_703_nil	| TYPE:	number	| VALUE:	1
-[07:45:45 AM]   KEY:	IsOwned_561_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:45 AM]   KEY:	CombatData_1161_nil	| TYPE:	table	| VALUE:	table: 0x85f21bdfb730c7e2 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0x6faa1b27dc401d53"
-  },
-  "Cost": {
-    "keys": {
-      "X": "60",
-      "Z": "30"
-    },
-    "value": "table: 0x1f8eda5c626e8a66"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "350",
-      "Z": "150"
-    },
-    "value": "table: 0x3fd430a84e6d5502"
-  }
-}
-[07:45:45 AM]   KEY:	Quantity_1113_nil	| TYPE:	number	| VALUE:	1
-[07:45:46 AM]   KEY:	IsOwned_1206_37065640b4864365aef8fbe577ee9b6b	| TYPE:	boolean	| VALUE:	true
-[07:45:46 AM]   KEY:	IsOwned_562_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:46 AM]   KEY:	Quantity_1253_nil	| TYPE:	number	| VALUE:	1
-[07:45:46 AM]   KEY:	IsOwned_277_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:46 AM]   KEY:	Quantity_802_nil	| TYPE:	number	| VALUE:	1
-[07:45:46 AM]   KEY:	Quantity_783_nil	| TYPE:	number	| VALUE:	1
-[07:45:46 AM]   KEY:	Quantity_856_nil	| TYPE:	number	| VALUE:	11
-[07:45:46 AM]   KEY:	IsOwned_807_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:46 AM]   KEY:	Quantity_1330_nil	| TYPE:	number	| VALUE:	1
-[07:45:46 AM]   KEY:	IsOwned_1412_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:46 AM]   KEY:	Mastery_1108_nil	| TYPE:	number	| VALUE:	600
-[07:45:46 AM]   KEY:	IsOwned_1170_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:46 AM]   KEY:	Quantity_1108_nil	| TYPE:	number	| VALUE:	1
-[07:45:46 AM]   KEY:	Awakenings_20_nil	| TYPE:	string	| VALUE:	
-[07:45:46 AM]   >>> AWAKENING RECORD FOUND
-[07:45:46 AM]   KEY:	IsOwned_1108_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:46 AM]   KEY:	IsOwned_723_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:46 AM]   KEY:	IsOwned_736_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:46 AM]   KEY:	IsOwned_1218_120b99945ab143079903b28e8a9c3181	| TYPE:	boolean	| VALUE:	true
-[07:45:46 AM]   KEY:	Quantity_640_nil	| TYPE:	number	| VALUE:	1
-[07:45:46 AM]   KEY:	IsOwned_698_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:47 AM]   KEY:	CombatData_1114_nil	| TYPE:	table	| VALUE:	table: 0xb56621a4fededb35 {
-  "Cap": "350",
-  "Cooldown": {
-    "keys": {
-      "X": "15",
-      "Z": "9"
-    },
-    "value": "table: 0x2571722a0bc849e3"
-  },
-  "Cost": {
-    "keys": {
-      "X": "50",
-      "Z": "30"
-    },
-    "value": "table: 0xdf9ca289e8f5c65e"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "100",
-      "Z": "40"
-    },
-    "value": "table: 0x92de6bb6fef134c0"
-  }
-}
-[07:45:47 AM]   KEY:	IsOwned_1121_01fae5f551824ddf80ed84e3735f74c1	| TYPE:	boolean	| VALUE:	true
-[07:45:47 AM]   KEY:	Mastery_1114_nil	| TYPE:	number	| VALUE:	1
-[07:45:47 AM]   KEY:	CombatData_181_nil	| TYPE:	table	| VALUE:	table: 0x186549ff0c141142 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3",
-      "TAP": "0.33333",
-      "V": "17",
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0xd532c770f8af046a"
-  },
-  "Cost": {
-    "keys": {
-      "C": "60",
-      "F": "50",
-      "TAP": "0",
-      "V": "100",
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0xc80b5f4c35a05b0b"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "250",
-      "F": "75",
-      "TAP": "0",
-      "V": "350",
-      "X": "150",
-      "Z": "1"
-    },
-    "value": "table: 0x62e5a88f38e489ad"
-  }
-}
-[07:45:47 AM]   KEY:	Quantity_1404_nil	| TYPE:	number	| VALUE:	1
-[07:45:47 AM]   KEY:	AccessoryModifiers_1214_afc8b74c7b454b2b96974d168a61c958	| TYPE:	string	| VALUE:	
-[07:45:47 AM]   KEY:	Quantity_1146_nil	| TYPE:	number	| VALUE:	1
-[07:45:47 AM]   KEY:	Mastery_18_nil	| TYPE:	number	| VALUE:	57
-[07:45:47 AM]   KEY:	CombatData_496_nil	| TYPE:	table	| VALUE:	table: 0x25a2e16cc92e71bb {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3",
-      "TAP": "0.1",
-      "V": "14",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x07db91fdda20f03d"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "F": "80",
-      "TAP": "10",
-      "V": "60",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x2a15adfddb839b8a"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "F": "150",
-      "TAP": "1",
-      "V": "110",
-      "X": "35",
-      "Z": "1"
-    },
-    "value": "table: 0x29c29d539b4b09cf"
-  }
-}
-[07:45:47 AM]   KEY:	Quantity_764_nil	| TYPE:	number	| VALUE:	1
-[07:45:47 AM]   KEY:	Quantity_1177_nil	| TYPE:	number	| VALUE:	1
-[07:45:47 AM]   KEY:	IsOwned_1253_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:47 AM]   KEY:	Awakenings_80_nil	| TYPE:	string	| VALUE:	
-[07:45:47 AM]   >>> AWAKENING RECORD FOUND
-[07:45:47 AM]   KEY:	CombatData_1525_nil	| TYPE:	table	| VALUE:	table: 0xe9cb99396f4c076f {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "13",
-      "F": "8",
-      "V": "5",
-      "X": "9",
-      "Z": "6.5"
-    },
-    "value": "table: 0x8dd179aaf3b95cb9"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "50",
-      "V": "10",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0xa217a9beb2614454"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "225",
-      "F": "75",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0xeae5bb0a896f7894"
-  }
-}
-[07:45:47 AM]   KEY:	IsOwned_1234_30cc7d22c9dd4b30a8e8ede214297a53	| TYPE:	boolean	| VALUE:	true
-[07:45:47 AM]   KEY:	CombatData_1415_nil	| TYPE:	table	| VALUE:	table: 0x025622773efea633 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3",
-      "TAP": "0.33333",
-      "V": "17",
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0xadef6224da386452"
-  },
-  "Cost": {
-    "keys": {
-      "C": "60",
-      "F": "50",
-      "TAP": "0",
-      "V": "100",
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0x78763b4baa97b364"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "250",
-      "F": "75",
-      "TAP": "0",
-      "V": "350",
-      "X": "150",
-      "Z": "1"
-    },
-    "value": "table: 0xd88fa605c53bb9fd"
-  }
-}
-[07:45:47 AM]   KEY:	AccessoryModifiers_1217_c93650b92299408b8cfd222b974116d5	| TYPE:	string	| VALUE:	
-[07:45:47 AM]   KEY:	Mastery_1239_nil	| TYPE:	number	| VALUE:	600
-[07:45:47 AM]   KEY:	Quantity_260_nil	| TYPE:	number	| VALUE:	1
-[07:45:47 AM]   KEY:	Mastery_1403_nil	| TYPE:	number	| VALUE:	1
-[07:45:47 AM]   KEY:	IsOwned_594_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:48 AM]   KEY:	Quantity_1206_37065640b4864365aef8fbe577ee9b6b	| TYPE:	number	| VALUE:	1
-[07:45:48 AM]   KEY:	IsStocked_1394_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:48 AM]   KEY:	CombatData_1199_nil	| TYPE:	table	| VALUE:	table: 0x43204fca357bf44b {
-  "Cap": "100",
-  "Cooldown": {
-    "keys": {
-      "X": "18",
-      "Z": "6.25"
-    },
-    "value": "table: 0x64f48bbfab9b93d9"
-  },
-  "Cost": {
-    "keys": {
-      "X": "60",
-      "Z": "30"
-    },
-    "value": "table: 0xf8c4f37187ac6ee9"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0xf4798069552a0d14"
-  }
-}
-[07:45:48 AM]   KEY:	Mastery_498_nil	| TYPE:	number	| VALUE:	1
-[07:45:48 AM]   KEY:	CombatData_1425_nil	| TYPE:	table	| VALUE:	table: 0x29893020337b0c12 {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3",
-      "TAP": "0.1",
-      "V": "14",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x9ca4d015891f1b97"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "F": "80",
-      "TAP": "10",
-      "V": "60",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xf257ae30408981bb"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "F": "150",
-      "TAP": "1",
-      "V": "110",
-      "X": "35",
-      "Z": "1"
-    },
-    "value": "table: 0xe6067ef4541c9c99"
-  }
-}
-[07:45:48 AM]   KEY:	Mastery_1194_nil	| TYPE:	number	| VALUE:	600
-[07:45:48 AM]   KEY:	AccessoryModifiers_1229_e4372431cab24d548cf7f67910745746	| TYPE:	string	| VALUE:	
-[07:45:48 AM]   KEY:	Quantity_699_nil	| TYPE:	number	| VALUE:	1
-[07:45:48 AM]   KEY:	IsOwned_1462_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:48 AM]   KEY:	Quantity_1403_nil	| TYPE:	number	| VALUE:	1
-[07:45:48 AM]   KEY:	Quantity_807_nil	| TYPE:	number	| VALUE:	1
-[07:45:48 AM]   KEY:	IsOwned_675_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:48 AM]   KEY:	CombatData_26_nil	| TYPE:	table	| VALUE:	table: 0x45f8907355d2898a {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "V": "8",
-      "X": "7",
-      "Z": "4"
-    },
-    "value": "table: 0x8b3ff038e259adf2"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "V": "40",
-      "X": "35",
-      "Z": "20"
-    },
-    "value": "table: 0xe43ece4cef616501"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "V": "75",
-      "X": "25",
-      "Z": "1"
-    },
-    "value": "table: 0xd2f243d59e7d4d6e"
-  }
-}
-[07:45:48 AM]   KEY:	Quantity_772_nil	| TYPE:	number	| VALUE:	1
-[07:45:48 AM]   KEY:	IsOwned_265_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:48 AM]   KEY:	IsOwned_636_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:48 AM]   KEY:	IsOwned_1198_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:48 AM]   KEY:	CombatData_508_nil	| TYPE:	table	| VALUE:	table: 0xb2ed0e908313aa5d {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "7",
-      "F": "0.65",
-      "TAP": "2",
-      "V": "15",
-      "X": "6",
-      "Z": "3"
-    },
-    "value": "table: 0x83c3f376d6f7e931"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "F": "25",
-      "TAP": "5",
-      "V": "100",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x925ed7702b725828"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "75",
-      "F": "25",
-      "TAP": "0",
-      "V": "125",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0xa33eb624f04819e8"
-  }
-}
-[07:45:48 AM]   KEY:	IsAdvancedStocked_1397_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:49 AM]   KEY:	Quantity_1255_08f68f33e27c427e819de6035c48cd65	| TYPE:	number	| VALUE:	1
-[07:45:49 AM]   KEY:	Quantity_1101_nil	| TYPE:	number	| VALUE:	1
-[07:45:49 AM]   KEY:	CombatData_1410_nil	| TYPE:	table	| VALUE:	table: 0xb6b634ac697c3a5f {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "3.5",
-      "V": "1",
-      "X": "6.25",
-      "Z": "5"
-    },
-    "value": "table: 0xd14e73c20705ad17"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "25",
-      "V": "80",
-      "X": "50",
-      "Z": "40"
-    },
-    "value": "table: 0xbe8b051c4f0b0861"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x0d989cd3ffb4568b"
-  }
-}
-[07:45:49 AM]   KEY:	CombatData_512_nil	| TYPE:	table	| VALUE:	table: 0xf975b67ec7979d87 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "7",
-      "F": "0.65",
-      "TAP": "2",
-      "V": "15",
-      "X": "6",
-      "Z": "3"
-    },
-    "value": "table: 0xba141bb646dd62d2"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "F": "25",
-      "TAP": "5",
-      "V": "100",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x48e0c35b13fe6628"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "75",
-      "F": "25",
-      "TAP": "0",
-      "V": "125",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0xafa7c0457ea2dd28"
-  }
-}
-[07:45:49 AM]   KEY:	Quantity_760_nil	| TYPE:	number	| VALUE:	1
-[07:45:49 AM]   KEY:	IsOwned_760_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:49 AM]   KEY:	IsOwned_660_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:49 AM]   KEY:	IsOwned_1134_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:49 AM]   KEY:	IsOwned_671_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:49 AM]   KEY:	IsEquipped_292_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:49 AM]   KEY:	IsOwned_292_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:49 AM]   KEY:	Quantity_552_nil	| TYPE:	number	| VALUE:	22
-[07:45:49 AM]   KEY:	CombatData_1162_nil	| TYPE:	table	| VALUE:	table: 0xa4035556f98db98f {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xb6ab898e38d9f964"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "X": "35",
-      "Z": "25"
-    },
-    "value": "table: 0xa0882cfe1379e1f6"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "330",
-      "X": "220",
-      "Z": "110"
-    },
-    "value": "table: 0x2a24f431fbbd599b"
-  }
-}
-[07:45:49 AM]   KEY:	Quantity_1116_nil	| TYPE:	number	| VALUE:	1
-[07:45:49 AM]   KEY:	AccessoryType_1256_5ccceb0b3aca429ca2e3ef731638db15	| TYPE:	string	| VALUE:	Super
-[07:45:49 AM]   KEY:	Mastery_1161_nil	| TYPE:	number	| VALUE:	600
-[07:45:49 AM]   KEY:	Mastery_193_nil	| TYPE:	number	| VALUE:	1
-[07:45:49 AM]   KEY:	IsOwned_699_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:49 AM]   KEY:	CombatData_1422_nil	| TYPE:	table	| VALUE:	table: 0xca02d99a2121b01e {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "9.75",
-      "F": "4.75",
-      "TAP": "0",
-      "V": "3.75",
-      "X": "7.75",
-      "Z": "5.75"
-    },
-    "value": "table: 0x0f35c1de590570e4"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "F": "25",
-      "TAP": "0",
-      "V": "50",
-      "X": "50",
-      "Z": "25"
-    },
-    "value": "table: 0x55d575105f395210"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "TAP": "0",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0xe1ed68d765812aa1"
-  }
-}
-[07:45:49 AM]   KEY:	Quantity_1329_nil	| TYPE:	number	| VALUE:	1
-[07:45:49 AM]   KEY:	Mastery_1456_nil	| TYPE:	number	| VALUE:	600
-[07:45:49 AM]   KEY:	Quantity_1608_nil	| TYPE:	number	| VALUE:	3
-[07:45:49 AM]   KEY:	Quantity_652_nil	| TYPE:	number	| VALUE:	1
-[07:45:50 AM]   KEY:	IsOwned_1418_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:50 AM]   KEY:	IsAdvancedStocked_1411_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:50 AM]   KEY:	Quantity_679_nil	| TYPE:	number	| VALUE:	1
-[07:45:50 AM]   KEY:	Mastery_1419_nil	| TYPE:	number	| VALUE:	1
-[07:45:50 AM]   KEY:	IsOwned_1607_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:50 AM]   KEY:	Mastery_25_nil	| TYPE:	number	| VALUE:	1
-[07:45:50 AM]   KEY:	Mastery_1238_nil	| TYPE:	number	| VALUE:	307
-[07:45:50 AM]   KEY:	CombatData_495_nil	| TYPE:	table	| VALUE:	table: 0x5ebc746d8bbf3e6b {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "3",
-      "TAP": "0.1",
-      "V": "14",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xa6079da566bf8df1"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "F": "80",
-      "TAP": "10",
-      "V": "60",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x8805c3e8a96cd5c8"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "F": "150",
-      "TAP": "1",
-      "V": "110",
-      "X": "35",
-      "Z": "1"
-    },
-    "value": "table: 0xca04095ba99cff37"
-  }
-}
-[07:45:50 AM]   KEY:	Quantity_276_nil	| TYPE:	number	| VALUE:	1
-[07:45:50 AM]   KEY:	IsOwned_276_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:50 AM]   KEY:	CombatData_1526_nil	| TYPE:	table	| VALUE:	table: 0x6e331d6195937aa2 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "8",
-      "F": "3",
-      "X": "6",
-      "Z": "2.5"
-    },
-    "value": "table: 0x58edd1aa1c01932d"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "35",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xafcd3ef26ac54faf"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "80",
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0xce57537656bba0ca"
-  }
-}
-[07:45:50 AM]   KEY:	IsOwned_738_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:50 AM]   KEY:	Mastery_1526_nil	| TYPE:	number	| VALUE:	5
-[07:45:50 AM]   KEY:	IsOwned_1256_5ccceb0b3aca429ca2e3ef731638db15	| TYPE:	boolean	| VALUE:	true
-[07:45:50 AM]   KEY:	IsOwned_775_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:50 AM]   KEY:	Quantity_750_nil	| TYPE:	number	| VALUE:	1
-[07:45:50 AM]   KEY:	AccessoryType_1178_c638eab0548a49f2ba7279682feca43a	| TYPE:	string	| VALUE:	Super
-[07:45:50 AM]   KEY:	Quantity_743_nil	| TYPE:	number	| VALUE:	1
-[07:45:50 AM]   KEY:	Quantity_634_nil	| TYPE:	number	| VALUE:	1
-[07:45:50 AM]   KEY:	CombatData_1169_nil	| TYPE:	table	| VALUE:	table: 0x70e46ab40d056f9a {
-  "Cap": "350",
-  "Cooldown": {
-    "keys": {
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0x9098488e5c7f5011"
-  },
-  "Cost": {
-    "keys": {
-      "X": "60",
-      "Z": "30"
-    },
-    "value": "table: 0x29bd404f54f80abc"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0x8a24371e478c48b0"
-  }
-}
-[07:45:50 AM]   KEY:	CombatData_1395_nil	| TYPE:	table	| VALUE:	table: 0x4d33f85bbbd05380 {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "10",
-          "F": "4",
-          "V": "18",
-          "X": "7",
-          "Z": "5"
-        },
-        "value": "table: 0xe7485362c47e4e9a"
-      },
-      "Cost": {
-        "keys": {
-          "C": "35",
-          "F": "30",
-          "V": "50",
-          "X": "25",
-          "Z": "15"
-        },
-        "value": "table: 0x9859b83add82a141"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0x6fb3d1554818d0d0"
-      }
-    },
-    "value": "table: 0xfe5fac5d03b7206c"
-  },
-  "Cap": "250",
-  "Cooldown": {
-    "keys": {
-      "C": "14",
-      "V": "18",
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0x3c16e43ad6bacce5"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x86465cc8ced34b6e"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "F": "0",
-      "V": "110",
-      "X": "40",
-      "Z": "1"
-    },
-    "value": "table: 0x4ccb78dad271c7ca"
-  }
-}
-[07:45:50 AM]   KEY:	Quantity_1331_nil	| TYPE:	number	| VALUE:	1
-[07:45:51 AM]   KEY:	Mastery_512_nil	| TYPE:	number	| VALUE:	1
-[07:45:51 AM]   KEY:	Mastery_1421_nil	| TYPE:	number	| VALUE:	1
-[07:45:51 AM]   KEY:	IsOwned_1161_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:51 AM]   KEY:	IsOwned_275_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:51 AM]   KEY:	IsOwned_796_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:51 AM]   KEY:	CombatData_1408_nil	| TYPE:	table	| VALUE:	table: 0x013d2f2bd5e75d19 {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "1.25",
-      "V": "15",
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0x958c213ce07e919c"
-  },
-  "Cost": {
-    "keys": {
-      "C": "60",
-      "F": "10",
-      "V": "100",
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0xa90786a0a4a8a148"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "150",
-      "F": "100",
-      "V": "200",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x444659ca4a6bf304"
-  }
-}
-[07:45:51 AM]   KEY:	IsOwned_1395_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:51 AM]   KEY:	Mastery_400_nil	| TYPE:	number	| VALUE:	1
-[07:45:51 AM]   KEY:	Mastery_1390_nil	| TYPE:	number	| VALUE:	1
-[07:45:51 AM]   KEY:	Mastery_48_nil	| TYPE:	number	| VALUE:	1
-[07:45:51 AM]   KEY:	CombatData_1403_nil	| TYPE:	table	| VALUE:	table: 0xb2cbacfdae518677 {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "10",
-          "F": "1.25",
-          "V": "18",
-          "X": "7",
-          "Z": "6"
-        },
-        "value": "table: 0xd406690a9bc5dab3"
-      },
-      "Cost": {
-        "keys": {
-          "C": "60",
-          "F": "50",
-          "V": "80",
-          "X": "40",
-          "Z": "25"
-        },
-        "value": "table: 0x5c034ca54d1ae1b8"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4500",
-          "F": "2500",
-          "V": "6000",
-          "X": "3500",
-          "Z": "800"
-        },
-        "value": "table: 0xc571975f5412a094"
-      }
-    },
-    "value": "table: 0x50d638ad8911d59c"
-  },
-  "Cap": "330",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "5",
-      "V": "16",
-      "X": "7",
-      "Z": "6"
-    },
-    "value": "table: 0xd68cdcdb64e315f9"
-  },
-  "Cost": {
-    "keys": {
-      "C": "70",
-      "F": "50",
-      "V": "100",
-      "X": "50",
-      "Z": "35"
-    },
-    "value": "table: 0xc9359bf19f098c75"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "15",
-      "V": "225",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x6df22c1526abae39"
-  }
-}
-[07:45:51 AM]   KEY:	AccessoryType_1147_b099895551c74ba2b4686a5de1d09243	| TYPE:	string	| VALUE:	Super
-[07:45:51 AM]   KEY:	Quantity_1458_nil	| TYPE:	number	| VALUE:	1
-[07:45:51 AM]   KEY:	Mastery_1113_nil	| TYPE:	number	| VALUE:	48
-[07:45:51 AM]   KEY:	IsOwned_1230_06e2244dff324b01bc0447fa951645f6	| TYPE:	boolean	| VALUE:	true
-[07:45:51 AM]   KEY:	IsOwned_567_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:51 AM]   KEY:	Quantity_751_nil	| TYPE:	number	| VALUE:	1
-[07:45:51 AM]   KEY:	IsOwned_654_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:51 AM]   KEY:	Quantity_798_nil	| TYPE:	number	| VALUE:	1
-[07:45:51 AM]   KEY:	IsOwned_722_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:51 AM]   KEY:	Quantity_1511_nil	| TYPE:	number	| VALUE:	1
-[07:45:51 AM]   KEY:	Quantity_1229_e4372431cab24d548cf7f67910745746	| TYPE:	number	| VALUE:	1
-[07:45:51 AM]   KEY:	Mastery_1115_nil	| TYPE:	number	| VALUE:	101
-[07:45:52 AM]   KEY:	IsOwned_730_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:52 AM]   KEY:	Mastery_24_nil	| TYPE:	number	| VALUE:	3
-[07:45:52 AM]   KEY:	IsOwned_571_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:52 AM]   KEY:	IsOwned_1185_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:52 AM]   KEY:	CombatData_158_nil	| TYPE:	table	| VALUE:	table: 0x35043a3433d3df0e {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "2.5",
-      "V": "15",
-      "X": "7.5",
-      "Z": "5"
-    },
-    "value": "table: 0x2f3d4cf0535be082"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "50",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x253645f985ac1b96"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "75",
-      "V": "150",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x6e6d858d2a3bc552"
-  }
-}
-[07:45:52 AM]   KEY:	AccessoryModifiers_1234_30cc7d22c9dd4b30a8e8ede214297a53	| TYPE:	string	| VALUE:	
-[07:45:52 AM]   KEY:	CombatData_1106_nil	| TYPE:	table	| VALUE:	table: 0xc551e12658005754 {
-  "Cap": "50",
-  "Cooldown": {
-    "keys": {
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xb2e7971f722780fb"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x2818a6aa07b8de7e"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0x277ffa3a45f931c2"
-  }
-}
-[07:45:52 AM]   KEY:	IsOwned_262_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:52 AM]   KEY:	CombatData_18_nil	| TYPE:	table	| VALUE:	table: 0x800925fe7be1d150 {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "10",
-          "F": "6.4",
-          "V": "18",
-          "X": "7",
-          "Z": "5"
-        },
-        "value": "table: 0x59f68b6cb07b88ad"
-      },
-      "Cost": {
-        "keys": {
-          "C": "35",
-          "F": "100",
-          "V": "50",
-          "X": "25",
-          "Z": "15"
-        },
-        "value": "table: 0xe5872f842b5ec7cb"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0xee6ab11ebb606718"
-      }
-    },
-    "value": "table: 0x8629a0d8f55776e9"
-  },
-  "Cap": "225",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "10",
-      "V": "18",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x3bd8335e47f63731"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "100",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x4ab37e0bdc64a357"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "10",
-      "V": "100",
-      "X": "25",
-      "Z": "1"
-    },
-    "value": "table: 0x89e12e25595995c5"
-  }
-}
-[07:45:52 AM]   KEY:	Quantity_1106_nil	| TYPE:	number	| VALUE:	1
-[07:45:52 AM]   KEY:	Quantity_1107_nil	| TYPE:	number	| VALUE:	1
-[07:45:52 AM]   KEY:	IsOwned_742_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:52 AM]   KEY:	AccessoryModifiers_1269_a7d8ffc5a4b3419c9032db324305488f	| TYPE:	string	| VALUE:	
-[07:45:52 AM]   KEY:	Quantity_1102_nil	| TYPE:	number	| VALUE:	1
-[07:45:52 AM]   KEY:	Quantity_752_nil	| TYPE:	number	| VALUE:	1
-[07:45:52 AM]   KEY:	Quantity_791_nil	| TYPE:	number	| VALUE:	1
-[07:45:52 AM]   KEY:	Quantity_1185_nil	| TYPE:	number	| VALUE:	1
-[07:45:52 AM]   KEY:	CombatData_511_nil	| TYPE:	table	| VALUE:	table: 0x995999d2ce5ac1bb {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "7",
-      "F": "0.65",
-      "TAP": "2",
-      "V": "15",
-      "X": "6",
-      "Z": "3"
-    },
-    "value": "table: 0x22eddc77c53f5abf"
-  },
-  "Cost": {
-    "keys": {
-      "C": "50",
-      "F": "25",
-      "TAP": "5",
-      "V": "100",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x3259e2565ff8918b"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "75",
-      "F": "25",
-      "TAP": "0",
-      "V": "125",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0xe4adaf29eaa82396"
-  }
-}
-[07:45:52 AM]   KEY:	IsOwned_793_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:52 AM]   KEY:	Mastery_184_nil	| TYPE:	number	| VALUE:	1
-[07:45:52 AM]   KEY:	IsOwned_1162_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:52 AM]   KEY:	Quantity_566_nil	| TYPE:	number	| VALUE:	11
-[07:45:53 AM]   KEY:	Quantity_1221_3ff46c1d54e04eea863f886f5041a0ab	| TYPE:	number	| VALUE:	1
-[07:45:53 AM]   KEY:	CombatData_448_nil	| TYPE:	table	| VALUE:	table: 0x41309e2f7498450c {
-  "Cap": "375",
-  "Cooldown": {
-    "keys": {
-      "C": "12",
-      "F": "0",
-      "TAP": "0.1",
-      "V": "28.5",
-      "X": "8",
-      "Z": "0"
-    },
-    "value": "table: 0x75f64c7694faf447"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "TAP": "0",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x9e43e3c9d4fa841c"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "30",
-      "TAP": "0",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0x8f0742aafbb92e4c"
-  }
-}
-[07:45:53 AM]   KEY:	Mastery_1393_nil	| TYPE:	number	| VALUE:	1
-[07:45:53 AM]   KEY:	IsOwned_288_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:53 AM]   KEY:	Quantity_1398_nil	| TYPE:	number	| VALUE:	1
-[07:45:53 AM]   KEY:	Evolution_1466_nil	| TYPE:	number	| VALUE:	4
-[07:45:53 AM]   KEY:	IsOwned_734_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:53 AM]   KEY:	AccessoryType_1229_e4372431cab24d548cf7f67910745746	| TYPE:	string	| VALUE:	Super
-[07:45:53 AM]   KEY:	Quantity_581_nil	| TYPE:	number	| VALUE:	4
-[07:45:53 AM]   KEY:	IsEquipped_288_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:53 AM]   KEY:	Mastery_1198_nil	| TYPE:	number	| VALUE:	600
-[07:45:53 AM]   KEY:	IsOwned_639_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:53 AM]   KEY:	Evolution_1463_nil	| TYPE:	number	| VALUE:	4
-[07:45:53 AM]   KEY:	Quantity_748_nil	| TYPE:	number	| VALUE:	1
-[07:45:53 AM]   KEY:	CombatData_1132_nil	| TYPE:	table	| VALUE:	table: 0x70bacd592aad39fd {
-  "Cap": "350",
-  "Cooldown": {
-    "keys": {
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xae3b10e57fb22d87"
-  },
-  "Cost": {
-    "keys": {
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x100c93e6530d5622"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "180",
-      "Z": "80"
-    },
-    "value": "table: 0xd320b38138492b74"
-  }
-}
-[07:45:53 AM]   KEY:	IsOwned_1132_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:53 AM]   KEY:	CombatData_884_nil	| TYPE:	table	| VALUE:	table: 0x4aea68de3ae8b743 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "3.5",
-      "TAP": "0.5",
-      "V": "1",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0xb0f8e1c8d2fa302b"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "50",
-      "TAP": "0",
-      "V": "10",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x3a467eecf7985981"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "250",
-      "F": "75",
-      "TAP": "0",
-      "V": "350",
-      "X": "150",
-      "Z": "1"
-    },
-    "value": "table: 0x2198e8195194d0a7"
-  }
-}
-[07:45:53 AM]   KEY:	IsOwned_1219_f31e5ce361ef454ea4088a6bae09a78f	| TYPE:	boolean	| VALUE:	true
-[07:45:53 AM]   KEY:	IsOwned_1446_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:53 AM]   KEY:	IsOwned_1177_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:53 AM]   KEY:	Quantity_1192_nil	| TYPE:	number	| VALUE:	1
-[07:45:53 AM]   KEY:	Quantity_1230_06e2244dff324b01bc0447fa951645f6	| TYPE:	number	| VALUE:	1
-[07:45:54 AM]   KEY:	IsOwned_1105_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:54 AM]   KEY:	Mastery_1129_nil	| TYPE:	number	| VALUE:	600
-[07:45:54 AM]   KEY:	IsOwned_718_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:54 AM]   KEY:	CombatData_1099_nil	| TYPE:	table	| VALUE:	table: 0x5509b3f4e7a63c5b {
-  "Cap": "350",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "6"
-    },
-    "value": "table: 0xb4cfd0fcc3c6b5f5"
-  },
-  "Cost": {
-    "keys": {
-      "X": "30",
-      "Z": "20"
-    },
-    "value": "table: 0xa71f9e9b78c10a01"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "150",
-      "Z": "50"
-    },
-    "value": "table: 0x52bf4a1e032ba546"
-  }
-}
-[07:45:54 AM]   KEY:	Mastery_53_nil	| TYPE:	number	| VALUE:	1
-[07:45:54 AM]   KEY:	IsOwned_855_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:54 AM]   KEY:	IsOwned_1416_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:54 AM]   KEY:	Mastery_1117_nil	| TYPE:	number	| VALUE:	100
-[07:45:54 AM]   KEY:	Mastery_468_nil	| TYPE:	number	| VALUE:	1
-[07:45:54 AM]   KEY:	Quantity_759_nil	| TYPE:	number	| VALUE:	1
-[07:45:54 AM]   KEY:	CombatData_20_nil	| TYPE:	table	| VALUE:	table: 0x94b2057bbea48177 {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "10",
-          "F": "4",
-          "V": "18",
-          "X": "7",
-          "Z": "5"
-        },
-        "value": "table: 0xca14c38fde3489fd"
-      },
-      "Cost": {
-        "keys": {
-          "C": "35",
-          "F": "30",
-          "V": "50",
-          "X": "25",
-          "Z": "15"
-        },
-        "value": "table: 0xe9f69f56b0d8dc72"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0x0545e4d334ab192a"
-      }
-    },
-    "value": "table: 0xf4072434d0905fae"
-  },
-  "Cap": "250",
-  "Cooldown": {
-    "keys": {
-      "C": "14",
-      "V": "18",
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0x204f87b8d2614e03"
-  },
-  "Cost": {
-    "keys": {
-      "C": "30",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x1d8b9d60c1651377"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "80",
-      "F": "0",
-      "V": "110",
-      "X": "40",
-      "Z": "1"
-    },
-    "value": "table: 0xf5c6ddefd769c5e6"
-  }
-}
-[07:45:54 AM]   KEY:	Quantity_559_nil	| TYPE:	number	| VALUE:	12
-[07:45:54 AM]   KEY:	Quantity_1222_7271ae03c8574271bde981accd036e21	| TYPE:	number	| VALUE:	1
-[07:45:54 AM]   KEY:	Quantity_1100_nil	| TYPE:	number	| VALUE:	1
-[07:45:54 AM]   KEY:	IsOwned_1116_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:54 AM]   KEY:	CombatData_1427_nil	| TYPE:	table	| VALUE:	table: 0x2c5abdb71358459a {
-  "Cap": "375",
-  "Cooldown": {
-    "keys": {
-      "C": "12",
-      "F": "0",
-      "TAP": "0.1",
-      "V": "28.5",
-      "X": "8",
-      "Z": "0"
-    },
-    "value": "table: 0x77acc78e5fd7c56b"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "30",
-      "TAP": "0",
-      "V": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0xbc83817547ddd01a"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "30",
-      "TAP": "0",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0x49548c7e2a5925e9"
-  }
-}
-[07:45:54 AM]   KEY:	Quantity_705_nil	| TYPE:	number	| VALUE:	1
-[07:45:54 AM]   KEY:	IsOwned_761_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:54 AM]   KEY:	CombatData_191_nil	| TYPE:	table	| VALUE:	table: 0x9665e286f290991a {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "5",
-      "V": "4",
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0x24bdb2d2bd7f7467"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "F": "50",
-      "V": "50",
-      "X": "50",
-      "Z": "25"
-    },
-    "value": "table: 0xb92474e9f838a575"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "200",
-      "V": "300",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0xefac704fa4bb19d1"
-  }
-}
-[07:45:54 AM]   KEY:	AccessoryModifiers_1171_221b700a325c4346abfbf894a2900d74	| TYPE:	string	| VALUE:	
-[07:45:54 AM]   KEY:	IsOwned_296_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:54 AM]   KEY:	CombatData_1238_nil	| TYPE:	table	| VALUE:	table: 0x9276702c1106505b {
-  "Cap": "300",
-  "Cooldown": {
-    "keys": {
-      "TAP": "1",
-      "X": "9",
-      "Z": "7"
-    },
-    "value": "table: 0x47525da714849247"
-  },
-  "Cost": {
-    "keys": {
-      "TAP": "20",
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0x89ca95c3486a0dea"
-  },
-  "Lvl": {
-    "keys": {
-      "TAP": "1",
-      "X": "300",
-      "Z": "150"
-    },
-    "value": "table: 0xb959ae03caa637f7"
-  }
-}
-[07:45:55 AM]   KEY:	Quantity_738_nil	| TYPE:	number	| VALUE:	1
-[07:45:55 AM]   KEY:	CombatData_1157_nil	| TYPE:	table	| VALUE:	table: 0xd48a09918f7eb026 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "X": "10.5",
-      "Z": "6.5"
-    },
-    "value": "table: 0x87cd3ab2dd4c3c61"
-  },
-  "Cost": {
-    "keys": {
-      "X": "60",
-      "Z": "30"
-    },
-    "value": "table: 0xabf70535397b0732"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "200",
-      "Z": "100"
-    },
-    "value": "table: 0x9401a6fff02efe23"
-  }
-}
-[07:45:55 AM]   KEY:	CombatData_127_nil	| TYPE:	table	| VALUE:	table: 0xe6e42913671d003a {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "3.5",
-      "V": "1",
-      "X": "6.25",
-      "Z": "5"
-    },
-    "value": "table: 0xcd04ec903f485c7b"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "25",
-      "V": "80",
-      "X": "50",
-      "Z": "40"
-    },
-    "value": "table: 0x73bfde576c65a035"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x5fcd8b9961a03cdd"
-  }
-}
-[07:45:55 AM]   KEY:	IsEquipped_296_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:55 AM]   KEY:	IsOwned_1204_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:55 AM]   KEY:	Quantity_1406_nil	| TYPE:	number	| VALUE:	1
-[07:45:55 AM]   KEY:	Quantity_1466_nil	| TYPE:	number	| VALUE:	1
-[07:45:55 AM]   KEY:	CombatData_1406_nil	| TYPE:	table	| VALUE:	table: 0x4ae896eb72ed6204 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "12.5",
-      "F": "4.25",
-      "V": "16.5",
-      "X": "8",
-      "Z": "5"
-    },
-    "value": "table: 0xcd26da27e0047e7b"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "20",
-      "V": "100",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x25e4650fa155cb21"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x1292cf88d6202c41"
-  }
-}
-[07:45:55 AM]   KEY:	IsOwned_1221_3ff46c1d54e04eea863f886f5041a0ab	| TYPE:	boolean	| VALUE:	true
-[07:45:55 AM]   KEY:	Quantity_719_nil	| TYPE:	number	| VALUE:	1
-[07:45:55 AM]   KEY:	Quantity_1125_6ce0b4ecac434fccb7004a928daa22e8	| TYPE:	number	| VALUE:	1
-[07:45:55 AM]   KEY:	CombatData_229_nil	| TYPE:	table	| VALUE:	table: 0x1e900aed64c36390 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "6",
-      "V": "3",
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0x515b5b0ca27d3a99"
-  },
-  "Cost": {
-    "keys": {
-      "C": "80",
-      "F": "60",
-      "V": "20",
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0x3fa983c80390af58"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "200",
-      "V": "300",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x35609536a172b14b"
-  }
-}
-[07:45:55 AM]   KEY:	Quantity_1137_9803ea1d269b43079c4abd1a6bfc7a42	| TYPE:	number	| VALUE:	1
-[07:45:55 AM]   KEY:	Quantity_1114_nil	| TYPE:	number	| VALUE:	1
-[07:45:55 AM]   KEY:	CombatData_86_nil	| TYPE:	table	| VALUE:	table: 0xdcdfee7ed2f3874e {
-  "Cap": "325",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "1.25",
-      "V": "15",
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0x84e9ed2377c6881a"
-  },
-  "Cost": {
-    "keys": {
-      "C": "60",
-      "F": "10",
-      "V": "100",
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0x252f996b6ebe7e59"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "150",
-      "F": "100",
-      "V": "200",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x757d7ddf44f4d7ea"
-  }
-}
-[07:45:55 AM]   KEY:	CombatData_463_nil	| TYPE:	table	| VALUE:	table: 0x1ae16d85b6ff6132 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "5",
-      "TAP": "2.5",
-      "V": "16",
-      "X": "12.5",
-      "Z": "5"
-    },
-    "value": "table: 0xaec271e3778e25d5"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "25",
-      "TAP": "0",
-      "V": "100",
-      "X": "50",
-      "Z": "15"
-    },
-    "value": "table: 0xac7503adbe9e09e4"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "100",
-      "TAP": "1",
-      "V": "300",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x85d14fd966e3290d"
-  }
-}
-[07:45:55 AM]   KEY:	AccessoryType_1221_3ff46c1d54e04eea863f886f5041a0ab	| TYPE:	string	| VALUE:	Super
-[07:45:55 AM]   KEY:	IsOwned_702_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:55 AM]   KEY:	IsOwned_285_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:55 AM]   KEY:	Quantity_1419_nil	| TYPE:	number	| VALUE:	1
-[07:45:55 AM]   KEY:	Quantity_1145_nil	| TYPE:	number	| VALUE:	1
-[07:45:56 AM]   KEY:	IsOwned_1223_a71c11a5151a4dd2be62b2491387c7e7	| TYPE:	boolean	| VALUE:	true
-[07:45:56 AM]   KEY:	Quantity_1129_nil	| TYPE:	number	| VALUE:	1
-[07:45:56 AM]   KEY:	CombatData_1515_nil	| TYPE:	table	| VALUE:	table: 0xee974468eb79ebb4 {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "13",
-      "F": "8",
-      "V": "5",
-      "X": "9",
-      "Z": "6.5"
-    },
-    "value": "table: 0xd27d033f565b532e"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "50",
-      "V": "10",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0xe9806854dc376a2d"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "225",
-      "F": "75",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x1acc4d678a2a0c87"
-  }
-}
-[07:45:56 AM]   KEY:	IsOwned_1255_08f68f33e27c427e819de6035c48cd65	| TYPE:	boolean	| VALUE:	true
-[07:45:56 AM]   KEY:	CombatData_1411_nil	| TYPE:	table	| VALUE:	table: 0x612b28b889fd8a4d {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "9.5",
-      "F": "5",
-      "X": "7.25",
-      "Z": "5.5"
-    },
-    "value": "table: 0x153cc6d384f68dc5"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "50",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x2a26c443473d9e88"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "90",
-      "F": "25",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x10c3c7c88965269d"
-  }
-}
-[07:45:56 AM]   KEY:	CombatData_43_nil	| TYPE:	table	| VALUE:	table: 0xc7928a16348d86a6 {
-  "Awakening": {
-    "keys": {
-      "Cooldown": {
-        "keys": {
-          "C": "6",
-          "F": "4",
-          "TAP": "2",
-          "V": "3",
-          "X": "8",
-          "Z": "6"
-        },
-        "value": "table: 0x1e9699416252763a"
-      },
-      "Cost": {
-        "keys": {
-          "C": "40",
-          "F": "30",
-          "TAP": "40",
-          "V": "10",
-          "X": "50",
-          "Z": "60"
-        },
-        "value": "table: 0x8afe19778f4ce8c1"
-      },
-      "Fragments": {
-        "keys": {
-          "C": "4000",
-          "F": "2000",
-          "TAP": "4000",
-          "V": "5000",
-          "X": "3000",
-          "Z": "500"
-        },
-        "value": "table: 0x4e084c9751056de6"
-      }
-    },
-    "value": "table: 0x5c20530adb6dbca6"
-  },
-  "Cap": "350",
-  "Cooldown": {
-    "keys": {
-      "C": "3.5",
-      "F": "4",
-      "V": "3",
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0xf0ac957df5366894"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "100",
-      "V": "10",
-      "X": "50",
-      "Z": "60"
-    },
-    "value": "table: 0x68261ad8a5a288aa"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "160",
-      "F": "30",
-      "TAP": "1",
-      "V": "250",
-      "X": "90",
-      "Z": "1"
-    },
-    "value": "table: 0xc34151f440ad9a51"
-  }
-}
-[07:45:56 AM]   KEY:	Quantity_747_nil	| TYPE:	number	| VALUE:	1
-[07:45:56 AM]   KEY:	IsOwned_573_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:56 AM]   KEY:	IsOwned_599_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:56 AM]   KEY:	Quantity_1111_nil	| TYPE:	number	| VALUE:	1
-[07:45:56 AM]   KEY:	CombatData_1436_nil	| TYPE:	table	| VALUE:	table: 0xdfe3104154684d17 {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "3.5",
-      "TAP": "0.5",
-      "V": "1",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x440b6401e6577924"
-  },
-  "Cost": {
-    "keys": {
-      "C": "100",
-      "F": "50",
-      "TAP": "0",
-      "V": "10",
-      "X": "60",
-      "Z": "40"
-    },
-    "value": "table: 0x7440b3fdd6a574f3"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "250",
-      "F": "75",
-      "TAP": "0",
-      "V": "350",
-      "X": "150",
-      "Z": "1"
-    },
-    "value": "table: 0x989d330dacce2e28"
-  }
-}
-[07:45:56 AM]   KEY:	Quantity_641_nil	| TYPE:	number	| VALUE:	1
-[07:45:56 AM]   KEY:	IsOwned_1329_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:56 AM]   KEY:	Quantity_1147_b099895551c74ba2b4686a5de1d09243	| TYPE:	number	| VALUE:	1
-[07:45:56 AM]   KEY:	AccessoryType_1125_6ce0b4ecac434fccb7004a928daa22e8	| TYPE:	string	| VALUE:	Super
-[07:45:56 AM]   KEY:	Quantity_855_nil	| TYPE:	number	| VALUE:	10
-[07:45:56 AM]   KEY:	AccessoryType_1230_06e2244dff324b01bc0447fa951645f6	| TYPE:	string	| VALUE:	Super
-[07:45:56 AM]   KEY:	Awakenings_14_nil	| TYPE:	string	| VALUE:	
-[07:45:56 AM]   >>> AWAKENING RECORD FOUND
-[07:45:56 AM]   KEY:	CombatData_1420_nil	| TYPE:	table	| VALUE:	table: 0x37a5bd616845226f {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "9.75",
-      "F": "4.75",
-      "TAP": "0",
-      "V": "3.75",
-      "X": "7.75",
-      "Z": "5.75"
-    },
-    "value": "table: 0x5e6022070a5e9b38"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "F": "50",
-      "TAP": "0",
-      "V": "50",
-      "X": "50",
-      "Z": "25"
-    },
-    "value": "table: 0x045aeadb0f75916d"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "200",
-      "TAP": "0",
-      "V": "300",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x84081c349ea85a66"
-  }
-}
-[07:45:56 AM]   KEY:	Quantity_1157_nil	| TYPE:	number	| VALUE:	1
-[07:45:57 AM]   KEY:	Quantity_736_nil	| TYPE:	number	| VALUE:	1
-[07:45:57 AM]   KEY:	IsOwned_632_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:57 AM]   KEY:	CombatData_46_nil	| TYPE:	table	| VALUE:	table: 0xd04fba84ef1a8309 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "9",
-      "F": "4",
-      "V": "13",
-      "X": "6",
-      "Z": "4"
-    },
-    "value": "table: 0x36031f4cb34f1cdd"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "35",
-      "V": "65",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x72eaa44426e0e1ee"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "75",
-      "V": "125",
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0xe44c44236d99bf14"
-  }
-}
-[07:45:57 AM]   KEY:	Awakenings_1407_nil	| TYPE:	string	| VALUE:	
-[07:45:57 AM]   >>> AWAKENING RECORD FOUND
-[07:45:57 AM]   KEY:	Quantity_562_nil	| TYPE:	number	| VALUE:	1
-[07:45:57 AM]   KEY:	Mastery_1157_nil	| TYPE:	number	| VALUE:	439
-[07:45:57 AM]   KEY:	Quantity_280_nil	| TYPE:	number	| VALUE:	1
-[07:45:57 AM]   KEY:	Mastery_158_nil	| TYPE:	number	| VALUE:	1
-[07:45:57 AM]   KEY:	Mastery_1524_nil	| TYPE:	number	| VALUE:	1
-[07:45:57 AM]   KEY:	IsOwned_1225_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:57 AM]   KEY:	AccessoryType_1171_221b700a325c4346abfbf894a2900d74	| TYPE:	string	| VALUE:	Super
-[07:45:57 AM]   KEY:	CombatData_54_nil	| TYPE:	table	| VALUE:	table: 0xfdf7edc40250cb8f {
-  "Cap": "400",
-  "Cooldown": {
-    "keys": {
-      "C": "11",
-      "F": "3.5",
-      "TAP": "0.875",
-      "V": "20",
-      "X": "8.5",
-      "Z": "6"
-    },
-    "value": "table: 0x218e4444d57284d9"
-  },
-  "Cost": {
-    "keys": {
-      "C": "90",
-      "F": "25",
-      "TAP": "10",
-      "V": "100",
-      "X": "75",
-      "Z": "50"
-    },
-    "value": "table: 0xc9e4271d7869d0db"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "200",
-      "F": "50",
-      "TAP": "1",
-      "V": "300",
-      "X": "100",
-      "Z": "1"
-    },
-    "value": "table: 0x1dd579a498dd4f62"
-  }
-}
-[07:45:57 AM]   KEY:	IsOwned_1232_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:57 AM]   KEY:	AccessoryType_1234_30cc7d22c9dd4b30a8e8ede214297a53	| TYPE:	string	| VALUE:	Super
-[07:45:57 AM]   KEY:	AccessoryType_1121_01fae5f551824ddf80ed84e3735f74c1	| TYPE:	string	| VALUE:	Super
-[07:45:57 AM]   KEY:	Quantity_1456_nil	| TYPE:	number	| VALUE:	1
-[07:45:57 AM]   KEY:	CombatData_1418_nil	| TYPE:	table	| VALUE:	table: 0x49512a15e5466cba {
-  "Cap": "275",
-  "Cooldown": {
-    "keys": {
-      "C": "10",
-      "F": "5",
-      "V": "4",
-      "X": "8",
-      "Z": "6"
-    },
-    "value": "table: 0xbc1c43482670a854"
-  },
-  "Cost": {
-    "keys": {
-      "C": "75",
-      "F": "50",
-      "V": "50",
-      "X": "50",
-      "Z": "25"
-    },
-    "value": "table: 0x45f0e0a592fbe4c1"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "100",
-      "F": "200",
-      "V": "300",
-      "X": "50",
-      "Z": "1"
-    },
-    "value": "table: 0x8f9cb6fc53b60805"
-  }
-}
-[07:45:57 AM]   KEY:	IsOwned_748_nil	| TYPE:	boolean	| VALUE:	true
-[07:45:57 AM]   KEY:	CombatData_1390_nil	| TYPE:	table	| VALUE:	table: 0xcb6619cf8f8a2614 {
-  "Cap": "200",
-  "Cooldown": {
-    "keys": {
-      "C": "9.5",
-      "F": "5",
-      "X": "7",
-      "Z": "5"
-    },
-    "value": "table: 0x8a3f8816c787df4c"
-  },
-  "Cost": {
-    "keys": {
-      "C": "35",
-      "F": "35",
-      "X": "25",
-      "Z": "15"
-    },
-    "value": "table: 0x2045797d48004d47"
-  },
-  "Lvl": {
-    "keys": {
-      "C": "50",
-      "F": "75",
-      "X": "20",
-      "Z": "1"
-    },
-    "value": "table: 0x9699c5cb66a07eee"
-  }
-}
-[07:45:57 AM]   KEY:	CombatData_1253_nil	| TYPE:	table	| VALUE:	table: 0xfea13e3c4e2b4638 {
-  "Cap": "50",
-  "Cooldown": {
-    "keys": {
-      "X": "9",
-      "Z": "7"
-    },
-    "value": "table: 0x6ab7b3318596b771"
-  },
-  "Cost": {
-    "keys": {
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0xf5a564502ca09235"
-  },
-  "Lvl": {
-    "keys": {
-      "X": "40",
-      "Z": "20"
-    },
-    "value": "table: 0xb07cd9f51f6c9e3f"
-  }
-}
-[07:45:58 AM]   KEY:	Quantity_1218_120b99945ab143079903b28e8a9c3181	| TYPE:	number	| VALUE:	1
-[07:45:58 AM]   KEY:	IsOwned_1136_ce70d358561b411ea2329b181420569e	| TYPE:	boolean	| VALUE:	true
+[08:47:31 AM] 194	    ) then
+[08:47:31 AM] 195	        local t_5 = {}
+[08:47:31 AM] 196	        local AwakenedMoves = u3:FindFirstChild("AwakenedMoves")
+[08:47:31 AM] 197	        local v10 = AwakenedMoves
+[08:47:31 AM] 198	
+[08:47:31 AM] 199	        if v10 then
+[08:47:31 AM] 200	            v10 = AwakenedMoves:FindFirstChild(s2)
+[08:47:31 AM] 201	        end
+[08:47:31 AM] 202	
+[08:47:31 AM] 203	        if table.find({ "Magma-Magma" }, u3.Name) then
+[08:47:31 AM] 204	            if v10 then
+[08:47:31 AM] 205	                return true, "<Color=Red>You can't use this skill while holding the Target Egg!<Color=/>"
+[08:47:31 AM] 206	            end
+[08:47:31 AM] 207	        elseif table.find(t_5, u3.Name) then
+[08:47:31 AM] 208	            if not v10 then
+[08:47:31 AM] 209	                return true, "<Color=Red>You can't use this skill while holding the Target Egg!<Color=/>"
+[08:47:31 AM] 210	            end
+[08:47:31 AM] 211	        else
+[08:47:31 AM] 212	            return true, "<Color=Red>You can't use this skill while holding the Target Egg!<Color=/>"
+[08:47:31 AM] 213	        end
+[08:47:31 AM] 214	    end
+[08:47:31 AM] 215	
+[08:47:31 AM] 216	    return false
+[08:47:31 AM] 217	end
+[08:47:31 AM] 218	
+[08:47:31 AM] 219	return t_3
+[08:47:31 AM] 220	
+[08:47:31 AM] ===== FRUIT SKILL UTIL =====
+[08:47:31 AM] 1	local RunService = game:GetService("RunService")
+[08:47:31 AM] 2	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+[08:47:31 AM] 3	local ServerStorage = game:GetService("ServerStorage")
+[08:47:31 AM] 4	local TableUtil_m = require(ReplicatedStorage:WaitForChild("Modules"):WaitForChild("TableUtil"))
+[08:47:31 AM] 5	local GlobalUtil_m = require(game.ReplicatedStorage.GlobalUtil)
+[08:47:31 AM] 6	local t = { ["Blox Fruit"] = true, Gun = true, Melee = true, Sword = true }
+[08:47:31 AM] 7	local t_1 = {
+[08:47:31 AM] 8	    "Light-Light",
+[08:47:31 AM] 9	    "Sand-Sand",
+[08:47:31 AM] 10	    "Magma-Magma",
+[08:47:31 AM] 11	    "Flame-Flame",
+[08:47:31 AM] 12	    "Eagle-Eagle",
+[08:47:31 AM] 13	    "Phoenix-Phoenix",
+[08:47:31 AM] 14	    "Dragon-Dragon",
+[08:47:31 AM] 15	    "Love-Love",
+[08:47:31 AM] 16	    "Spider-Spider",
+[08:47:31 AM] 17	    "Ghost-Ghost",
+[08:47:31 AM] 18	    "Smoke-Smoke",
+[08:47:31 AM] 19	    "Spin-Spin",
+[08:47:31 AM] 20	    "Blade-Blade",
+[08:47:31 AM] 21	    "Gravity-Gravity",
+[08:47:31 AM] 22	    "Shadow-Shadow",
+[08:47:32 AM] 23	    "Venom-Venom",
+[08:47:32 AM] 24	    "Spirit-Spirit",
+[08:47:32 AM] 25	    "Blizzard-Blizzard",
+[08:47:32 AM] 26	    "Sound-Sound",
+[08:47:32 AM] 27	    "Gas-Gas",
+[08:47:32 AM] 28	    "Rocket-Rocket"
+[08:47:32 AM] 29	}
+[08:47:32 AM] 30	
+[08:47:32 AM] 31	function getItemsFolder() -- line: 56
+[08:47:32 AM] 32	    -- upvalues:
+[08:47:32 AM] 33	    --  [1] RunService (copy)
+[08:47:32 AM] 34	    --  [2] GlobalUtil_m (copy)
+[08:47:32 AM] 35	    --  [3] ServerStorage (copy)
+[08:47:32 AM] 36	
+[08:47:32 AM] 37	    if RunService:IsRunning() and (not GlobalUtil_m.FFlags.IsUnitTest and not GlobalUtil_m.FFlags.IsSandboxed) then
+[08:47:32 AM] 38	        if RunService:IsServer() then
+[08:47:32 AM] 39	            return ServerStorage:WaitForChild("Items")
+[08:47:32 AM] 40	        end
+[08:47:32 AM] 41	
+[08:47:32 AM] 42	        return nil
+[08:47:32 AM] 43	    end
+[08:47:32 AM] 44	
+[08:47:32 AM] 45	    return ServerStorage:WaitForChild("Items")
+[08:47:32 AM] 46	end
+[08:47:32 AM] 47	
+[08:47:32 AM] 48	function assembleServerData() -- line: 68
+[08:47:32 AM] 49	    -- upvalues:
+[08:47:32 AM] 50	    --  [1] t (copy)
+[08:47:32 AM] 51	    --  [2] TableUtil_m (copy)
+[08:47:32 AM] 52	
+[08:47:32 AM] 53	    local v2 = getItemsFolder()
+[08:47:32 AM] 54	
+[08:47:32 AM] 55	    if not v2 then
+[08:47:32 AM] 56	        error("bad folder")
+[08:47:32 AM] 57	    end
+[08:47:32 AM] 58	
+[08:47:32 AM] 59	    local t_2 = {}
+[08:47:32 AM] 60	    local Movesets_m = require(game.ServerScriptService.Movesets)
+[08:47:32 AM] 61	
+[08:47:32 AM] 62	    for _, child in ipairs(v2:GetChildren()) do
+[08:47:32 AM] 63	        if child:IsA("Tool") and t[child.ToolTip] then
+[08:47:32 AM] 64	            local v5 = TableUtil_m.deepCopy((Movesets_m.getLegacyData(child.Name)))
+[08:47:32 AM] 65	            TableUtil_m.deepFreeze(v5)
+[08:47:32 AM] 66	            t_2[child.Name] = v5
+[08:47:32 AM] 67	        end
+[08:47:32 AM] 68	    end
+[08:47:33 AM] 69	
+[08:47:33 AM] 70	    table.freeze(t_2)
+[08:47:33 AM] 71	
+[08:47:33 AM] 72	    return t_2
+[08:47:33 AM] 73	end
+[08:47:33 AM] 74	
+[08:47:33 AM] 75	local t_3 = {
+[08:47:33 AM] 76	    getFruitDataAsync = function() --[[ getFruitDataAsync ]] -- line: 91
+[08:47:33 AM] 77	        -- upvalues:
+[08:47:33 AM] 78	        --  [1] RunService (copy)
+[08:47:33 AM] 79	        --  [2] GlobalUtil_m (copy)
+[08:47:33 AM] 80	        --  [3] ReplicatedStorage (copy)
+[08:47:33 AM] 81	
+[08:47:33 AM] 82	        if RunService:IsRunning() and (not GlobalUtil_m.FFlags.IsUnitTest and not GlobalUtil_m.FFlags.IsSandboxed) then
+[08:47:33 AM] 83	            if RunService:IsServer() then
+[08:47:33 AM] 84	                return assembleServerData()
+[08:47:33 AM] 85	            end
+[08:47:33 AM] 86	
+[08:47:33 AM] 87	            local GetFruitData = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild(
+[08:47:33 AM] 88	                "GetFruitData"
+[08:47:33 AM] 89	            )
+[08:47:33 AM] 90	            assert(GetFruitData:IsA("RemoteFunction"))
+[08:47:33 AM] 91	
+[08:47:33 AM] 92	            return GetFruitData:InvokeServer()
+[08:47:33 AM] 93	        end
+[08:47:33 AM] 94	
+[08:47:33 AM] 95	        return assembleServerData()
+[08:47:33 AM] 96	    end,
+[08:47:33 AM] 97	    MobileM1ButtonActivated = function(arg1) --[[ MobileM1ButtonActivated ]] -- line: 106
+[08:47:33 AM] 98	        local HeldTool = arg1.HeldTool
+[08:47:33 AM] 99	        local InputObject = arg1.InputObject
+[08:47:33 AM] 100	        local TapHoldButton = arg1.TapHoldButton
+[08:47:33 AM] 101	
+[08:47:33 AM] 102	        if HeldTool.Name == "Dragon-Dragon" then
+[08:47:33 AM] 103	            require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[08:47:33 AM] 104	            local v6 = nil
+[08:47:33 AM] 105	            v6 = InputObject.Changed:Connect(function(arg2) -- line: 114
+[08:47:33 AM] 106	                -- upvalues:
+[08:47:33 AM] 107	                --  [1] InputObject (copy)
+[08:47:33 AM] 108	                --  [2] v6 (ref)
+[08:47:33 AM] 109	                --  [3] HeldTool (copy)
+[08:47:33 AM] 110	                --  [4] TapHoldButton (copy)
+[08:47:33 AM] 111	
+[08:47:33 AM] 112	                if arg2 == "UserInputState" and InputObject.UserInputState == Enum.UserInputState.End then
+[08:47:33 AM] 113	                    v6:Disconnect()
+[08:47:33 AM] 114	                    HeldTool:Deactivate()
+[08:47:33 AM] 115	
+[08:47:33 AM] 116	                    if TapHoldButton and require(game.ReplicatedStorage.Global).mobileSelectionFrame == TapHoldButton then
+[08:47:33 AM] 117	                        require(game.ReplicatedStorage.Global).mobileSelectionFrame.BackgroundColor3 = Color3.new()
+[08:47:33 AM] 118	                        require(game.ReplicatedStorage.Global).mobileSelectionFrame = nil
+[08:47:33 AM] 119	                        require(game.ReplicatedStorage.Global).mobileSelection = nil
+[08:47:33 AM] 120	                    end
+[08:47:33 AM] 121	
+[08:47:34 AM] 122	                    task.defer(function() -- line: 123
+[08:47:34 AM] 123	                        require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[08:47:34 AM] 124	                    end)
+[08:47:34 AM] 125	                end
+[08:47:34 AM] 126	            end)
+[08:47:34 AM] 127	            HeldTool:Activate()
+[08:47:34 AM] 128	
+[08:47:34 AM] 129	            return
+[08:47:34 AM] 130	        end
+[08:47:34 AM] 131	
+[08:47:34 AM] 132	        require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = InputObject
+[08:47:34 AM] 133	        require(game.ReplicatedStorage.Global).updateMouseWrapper(InputObject)
+[08:47:34 AM] 134	        InputObject.KeyCode = Enum.KeyCode.G
+[08:47:34 AM] 135	        local v7 = nil
+[08:47:34 AM] 136	        v7 = InputObject.Changed:Connect(function(arg3) -- line: 135
+[08:47:34 AM] 137	            -- upvalues:
+[08:47:34 AM] 138	            --  [1] InputObject (copy)
+[08:47:34 AM] 139	            --  [2] v7 (ref)
+[08:47:34 AM] 140	            --  [3] TapHoldButton (copy)
+[08:47:34 AM] 141	
+[08:47:34 AM] 142	            if arg3 == "UserInputState" and InputObject.UserInputState == Enum.UserInputState.End then
+[08:47:34 AM] 143	                v7:Disconnect()
+[08:47:34 AM] 144	
+[08:47:34 AM] 145	                if TapHoldButton and require(game.ReplicatedStorage.Global).mobileSelectionFrame == TapHoldButton then
+[08:47:34 AM] 146	                    require(game.ReplicatedStorage.Global).mobileSelectionFrame.BackgroundColor3 = Color3.new()
+[08:47:34 AM] 147	                    require(game.ReplicatedStorage.Global).mobileSelectionFrame = nil
+[08:47:34 AM] 148	                    require(game.ReplicatedStorage.Global).mobileSelection = nil
+[08:47:34 AM] 149	                end
+[08:47:34 AM] 150	
+[08:47:34 AM] 151	                InputObject.KeyCode = Enum.KeyCode.G
+[08:47:34 AM] 152	                require(game.ReplicatedStorage.Global).TestGamePrint("end from here")
+[08:47:34 AM] 153	                require(game.ReplicatedStorage.Global).casFunc(
+[08:47:34 AM] 154	                    "DevilFruit",
+[08:47:34 AM] 155	                    Enum.UserInputState.End,
+[08:47:34 AM] 156	                    InputObject,
+[08:47:34 AM] 157	                    Enum.KeyCode.G
+[08:47:34 AM] 158	                )
+[08:47:34 AM] 159	                task.defer(function() -- line: 151
+[08:47:34 AM] 160	                    require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[08:47:34 AM] 161	                end)
+[08:47:34 AM] 162	            end
+[08:47:34 AM] 163	        end)
+[08:47:34 AM] 164	        task.defer(function() -- line: 158
+[08:47:34 AM] 165	            -- upvalues:
+[08:47:34 AM] 166	            --  [1] InputObject (copy)
+[08:47:34 AM] 167	
+[08:47:34 AM] 168	            require(game.ReplicatedStorage.Global).TestGamePrint("cast from here")
+[08:47:34 AM] 169	            require(game.ReplicatedStorage.Global).casFunc(
+[08:47:34 AM] 170	                "DevilFruit",
+[08:47:34 AM] 171	                Enum.UserInputState.Begin,
+[08:47:35 AM] 172	                InputObject,
+[08:47:35 AM] 173	                Enum.KeyCode.G
+[08:47:35 AM] 174	            )
+[08:47:35 AM] 175	        end)
+[08:47:35 AM] 176	    end,
+[08:47:35 AM] 177	    isToolSkillDisabled = function(u1: userdata, s1: string) --[[ isToolSkillDisabled ]] -- line: 169
+[08:47:35 AM] 178	        return if u1:GetAttribute("DisabledSkill" .. s1) ~= true then false else true
+[08:47:35 AM] 179	    end
+[08:47:35 AM] 180	}
+[08:47:35 AM] 181	
+[08:47:35 AM] 182	function t_3.IsSkillBlocked(u2: userdata, u3: userdata, s2: string) -- line: 173
+[08:47:35 AM] 183	    -- upvalues:
+[08:47:35 AM] 184	    --  [1] t_3 (copy)
+[08:47:35 AM] 185	    --  [2] t_1 (copy)
+[08:47:35 AM] 186	
+[08:47:35 AM] 187	    if t_3.isToolSkillDisabled(u3, s2) then
+[08:47:35 AM] 188	        return true
+[08:47:35 AM] 189	    end
+[08:47:35 AM] 190	
+[08:47:35 AM] 191	    if s2 == "F" and u2.Character and u2.Character:HasTag("TargetEggOwner") and table.find(
+[08:47:35 AM] 192	        t_1,
+[08:47:35 AM] 193	        u3.Name
+[08:47:35 AM] 194	    ) then
+[08:47:35 AM] 195	        local t_5 = {}
+[08:47:35 AM] 196	        local AwakenedMoves = u3:FindFirstChild("AwakenedMoves")
+[08:47:35 AM] 197	        local v10 = AwakenedMoves
+[08:47:35 AM] 198	
+[08:47:35 AM] 199	        if v10 then
+[08:47:35 AM] 200	            v10 = AwakenedMoves:FindFirstChild(s2)
+[08:47:35 AM] 201	        end
+[08:47:35 AM] 202	
+[08:47:35 AM] 203	        if table.find({ "Magma-Magma" }, u3.Name) then
+[08:47:35 AM] 204	            if v10 then
+[08:47:35 AM] 205	                return true, "<Color=Red>You can't use this skill while holding the Target Egg!<Color=/>"
+[08:47:35 AM] 206	            end
+[08:47:35 AM] 207	        elseif table.find(t_5, u3.Name) then
+[08:47:35 AM] 208	            if not v10 then
+[08:47:35 AM] 209	                return true, "<Color=Red>You can't use this skill while holding the Target Egg!<Color=/>"
+[08:47:35 AM] 210	            end
+[08:47:35 AM] 211	        else
+[08:47:35 AM] 212	            return true, "<Color=Red>You can't use this skill while holding the Target Egg!<Color=/>"
+[08:47:35 AM] 213	        end
+[08:47:35 AM] 214	    end
+[08:47:35 AM] 215	
+[08:47:35 AM] 216	    return false
+[08:47:35 AM] 217	end
+[08:47:35 AM] 218	
+[08:47:35 AM] 219	return t_3
+[08:47:35 AM] 220	
+[08:47:35 AM] ===== SOURCE AROUND LINE	91	=====
+[08:47:35 AM] 76:     getFruitDataAsync = function() --[[ getFruitDataAsync ]] -- line: 91
+[08:47:35 AM] 77:         -- upvalues:
+[08:47:35 AM] 78:         --  [1] RunService (copy)
+[08:47:35 AM] 79:         --  [2] GlobalUtil_m (copy)
+[08:47:35 AM] 80:         --  [3] ReplicatedStorage (copy)
+[08:47:35 AM] 81: 
+[08:47:36 AM] 82:         if RunService:IsRunning() and (not GlobalUtil_m.FFlags.IsUnitTest and not GlobalUtil_m.FFlags.IsSandboxed) then
+[08:47:36 AM] 83:             if RunService:IsServer() then
+[08:47:36 AM] 84:                 return assembleServerData()
+[08:47:36 AM] 85:             end
+[08:47:36 AM] 86: 
+[08:47:36 AM] 87:             local GetFruitData = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild(
+[08:47:36 AM] 88:                 "GetFruitData"
+[08:47:36 AM] 89:             )
+[08:47:36 AM] 90:             assert(GetFruitData:IsA("RemoteFunction"))
+[08:47:36 AM] 91: 
+[08:47:36 AM] 92:             return GetFruitData:InvokeServer()
+[08:47:36 AM] 93:         end
+[08:47:36 AM] 94: 
+[08:47:36 AM] 95:         return assembleServerData()
+[08:47:36 AM] 96:     end,
+[08:47:36 AM] 97:     MobileM1ButtonActivated = function(arg1) --[[ MobileM1ButtonActivated ]] -- line: 106
+[08:47:36 AM] 98:         local HeldTool = arg1.HeldTool
+[08:47:36 AM] 99:         local InputObject = arg1.InputObject
+[08:47:36 AM] 100:         local TapHoldButton = arg1.TapHoldButton
+[08:47:36 AM] 101: 
+[08:47:36 AM] 102:         if HeldTool.Name == "Dragon-Dragon" then
+[08:47:36 AM] 103:             require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[08:47:36 AM] 104:             local v6 = nil
+[08:47:36 AM] 105:             v6 = InputObject.Changed:Connect(function(arg2) -- line: 114
+[08:47:36 AM] 106:                 -- upvalues:
+[08:47:36 AM] 107:                 --  [1] InputObject (copy)
+[08:47:36 AM] 108:                 --  [2] v6 (ref)
+[08:47:36 AM] 109:                 --  [3] HeldTool (copy)
+[08:47:36 AM] 110:                 --  [4] TapHoldButton (copy)
+[08:47:36 AM] 111: 
+[08:47:36 AM] 112:                 if arg2 == "UserInputState" and InputObject.UserInputState == Enum.UserInputState.End then
+[08:47:36 AM] 113:                     v6:Disconnect()
+[08:47:36 AM] 114:                     HeldTool:Deactivate()
+[08:47:36 AM] 115: 
+[08:47:36 AM] 116:                     if TapHoldButton and require(game.ReplicatedStorage.Global).mobileSelectionFrame == TapHoldButton then
+[08:47:36 AM] ===== SOURCE AROUND LINE	173	=====
+[08:47:36 AM] 158:                 )
+[08:47:36 AM] 159:                 task.defer(function() -- line: 151
+[08:47:36 AM] 160:                     require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[08:47:36 AM] 161:                 end)
+[08:47:36 AM] 162:             end
+[08:47:36 AM] 163:         end)
+[08:47:36 AM] 164:         task.defer(function() -- line: 158
+[08:47:36 AM] 165:             -- upvalues:
+[08:47:36 AM] 166:             --  [1] InputObject (copy)
+[08:47:36 AM] 167: 
+[08:47:36 AM] 168:             require(game.ReplicatedStorage.Global).TestGamePrint("cast from here")
+[08:47:37 AM] 169:             require(game.ReplicatedStorage.Global).casFunc(
+[08:47:37 AM] 170:                 "DevilFruit",
+[08:47:37 AM] 171:                 Enum.UserInputState.Begin,
+[08:47:37 AM] 172:                 InputObject,
+[08:47:37 AM] 173:                 Enum.KeyCode.G
+[08:47:37 AM] 174:             )
+[08:47:37 AM] 175:         end)
+[08:47:37 AM] 176:     end,
+[08:47:37 AM] 177:     isToolSkillDisabled = function(u1: userdata, s1: string) --[[ isToolSkillDisabled ]] -- line: 169
+[08:47:37 AM] 178:         return if u1:GetAttribute("DisabledSkill" .. s1) ~= true then false else true
+[08:47:37 AM] 179:     end
+[08:47:37 AM] 180: }
+[08:47:37 AM] 181: 
+[08:47:37 AM] 182: function t_3.IsSkillBlocked(u2: userdata, u3: userdata, s2: string) -- line: 173
+[08:47:37 AM] 183:     -- upvalues:
+[08:47:37 AM] 184:     --  [1] t_3 (copy)
+[08:47:37 AM] 185:     --  [2] t_1 (copy)
+[08:47:37 AM] 186: 
+[08:47:37 AM] 187:     if t_3.isToolSkillDisabled(u3, s2) then
+[08:47:37 AM] 188:         return true
+[08:47:37 AM] 189:     end
+[08:47:37 AM] 190: 
+[08:47:37 AM] 191:     if s2 == "F" and u2.Character and u2.Character:HasTag("TargetEggOwner") and table.find(
+[08:47:37 AM] 192:         t_1,
+[08:47:37 AM] 193:         u3.Name
+[08:47:37 AM] 194:     ) then
+[08:47:37 AM] 195:         local t_5 = {}
+[08:47:37 AM] 196:         local AwakenedMoves = u3:FindFirstChild("AwakenedMoves")
+[08:47:37 AM] 197:         local v10 = AwakenedMoves
+[08:47:37 AM] 198: 
+[08:47:37 AM] ===== SOURCE AROUND LINE	91	=====
+[08:47:37 AM] 76:     getFruitDataAsync = function() --[[ getFruitDataAsync ]] -- line: 91
+[08:47:37 AM] 77:         -- upvalues:
+[08:47:37 AM] 78:         --  [1] RunService (copy)
+[08:47:37 AM] 79:         --  [2] GlobalUtil_m (copy)
+[08:47:37 AM] 80:         --  [3] ReplicatedStorage (copy)
+[08:47:37 AM] 81: 
+[08:47:37 AM] 82:         if RunService:IsRunning() and (not GlobalUtil_m.FFlags.IsUnitTest and not GlobalUtil_m.FFlags.IsSandboxed) then
+[08:47:37 AM] 83:             if RunService:IsServer() then
+[08:47:37 AM] 84:                 return assembleServerData()
+[08:47:37 AM] 85:             end
+[08:47:37 AM] 86: 
+[08:47:37 AM] 87:             local GetFruitData = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild(
+[08:47:37 AM] 88:                 "GetFruitData"
+[08:47:38 AM] 89:             )
+[08:47:38 AM] 90:             assert(GetFruitData:IsA("RemoteFunction"))
+[08:47:38 AM] 91: 
+[08:47:38 AM] 92:             return GetFruitData:InvokeServer()
+[08:47:38 AM] 93:         end
+[08:47:38 AM] 94: 
+[08:47:38 AM] 95:         return assembleServerData()
+[08:47:38 AM] 96:     end,
+[08:47:38 AM] 97:     MobileM1ButtonActivated = function(arg1) --[[ MobileM1ButtonActivated ]] -- line: 106
+[08:47:38 AM] 98:         local HeldTool = arg1.HeldTool
+[08:47:38 AM] 99:         local InputObject = arg1.InputObject
+[08:47:38 AM] 100:         local TapHoldButton = arg1.TapHoldButton
+[08:47:38 AM] 101: 
+[08:47:38 AM] 102:         if HeldTool.Name == "Dragon-Dragon" then
+[08:47:38 AM] 103:             require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[08:47:38 AM] 104:             local v6 = nil
+[08:47:38 AM] 105:             v6 = InputObject.Changed:Connect(function(arg2) -- line: 114
+[08:47:38 AM] 106:                 -- upvalues:
+[08:47:38 AM] 107:                 --  [1] InputObject (copy)
+[08:47:38 AM] 108:                 --  [2] v6 (ref)
+[08:47:38 AM] 109:                 --  [3] HeldTool (copy)
+[08:47:38 AM] 110:                 --  [4] TapHoldButton (copy)
+[08:47:38 AM] 111: 
+[08:47:38 AM] 112:                 if arg2 == "UserInputState" and InputObject.UserInputState == Enum.UserInputState.End then
+[08:47:38 AM] 113:                     v6:Disconnect()
+[08:47:38 AM] 114:                     HeldTool:Deactivate()
+[08:47:38 AM] 115: 
+[08:47:38 AM] 116:                     if TapHoldButton and require(game.ReplicatedStorage.Global).mobileSelectionFrame == TapHoldButton then
+[08:47:38 AM] ===== SOURCE AROUND LINE	173	=====
+[08:47:38 AM] 158:                 )
+[08:47:38 AM] 159:                 task.defer(function() -- line: 151
+[08:47:38 AM] 160:                     require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[08:47:38 AM] 161:                 end)
+[08:47:38 AM] 162:             end
+[08:47:38 AM] 163:         end)
+[08:47:38 AM] 164:         task.defer(function() -- line: 158
+[08:47:38 AM] 165:             -- upvalues:
+[08:47:38 AM] 166:             --  [1] InputObject (copy)
+[08:47:38 AM] 167: 
+[08:47:39 AM] 168:             require(game.ReplicatedStorage.Global).TestGamePrint("cast from here")
+[08:47:39 AM] 169:             require(game.ReplicatedStorage.Global).casFunc(
+[08:47:39 AM] 170:                 "DevilFruit",
+[08:47:39 AM] 171:                 Enum.UserInputState.Begin,
+[08:47:39 AM] 172:                 InputObject,
+[08:47:39 AM] 173:                 Enum.KeyCode.G
+[08:47:39 AM] 174:             )
+[08:47:39 AM] 175:         end)
+[08:47:39 AM] 176:     end,
+[08:47:39 AM] 177:     isToolSkillDisabled = function(u1: userdata, s1: string) --[[ isToolSkillDisabled ]] -- line: 169
+[08:47:39 AM] 178:         return if u1:GetAttribute("DisabledSkill" .. s1) ~= true then false else true
+[08:47:39 AM] 179:     end
+[08:47:39 AM] 180: }
+[08:47:39 AM] 181: 
+[08:47:39 AM] 182: function t_3.IsSkillBlocked(u2: userdata, u3: userdata, s2: string) -- line: 173
+[08:47:39 AM] 183:     -- upvalues:
+[08:47:39 AM] 184:     --  [1] t_3 (copy)
+[08:47:39 AM] 185:     --  [2] t_1 (copy)
+[08:47:39 AM] 186: 
+[08:47:39 AM] 187:     if t_3.isToolSkillDisabled(u3, s2) then
+[08:47:39 AM] 188:         return true
+[08:47:39 AM] 189:     end
+[08:47:39 AM] 190: 
+[08:47:39 AM] 191:     if s2 == "F" and u2.Character and u2.Character:HasTag("TargetEggOwner") and table.find(
+[08:47:39 AM] 192:         t_1,
+[08:47:39 AM] 193:         u3.Name
+[08:47:39 AM] 194:     ) then
+[08:47:39 AM] 195:         local t_5 = {}
+[08:47:39 AM] 196:         local AwakenedMoves = u3:FindFirstChild("AwakenedMoves")
+[08:47:39 AM] 197:         local v10 = AwakenedMoves
+[08:47:39 AM] 198: 
+[08:47:39 AM] ===== SOURCE AROUND LINE	91	=====
+[08:47:39 AM] 76:     getFruitDataAsync = function() --[[ getFruitDataAsync ]] -- line: 91
+[08:47:39 AM] 77:         -- upvalues:
+[08:47:39 AM] 78:         --  [1] RunService (copy)
+[08:47:39 AM] 79:         --  [2] GlobalUtil_m (copy)
+[08:47:39 AM] 80:         --  [3] ReplicatedStorage (copy)
+[08:47:39 AM] 81: 
+[08:47:39 AM] 82:         if RunService:IsRunning() and (not GlobalUtil_m.FFlags.IsUnitTest and not GlobalUtil_m.FFlags.IsSandboxed) then
+[08:47:39 AM] 83:             if RunService:IsServer() then
+[08:47:39 AM] 84:                 return assembleServerData()
+[08:47:39 AM] 85:             end
+[08:47:39 AM] 86: 
+[08:47:39 AM] 87:             local GetFruitData = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild(
+[08:47:40 AM] 88:                 "GetFruitData"
+[08:47:40 AM] 89:             )
+[08:47:40 AM] 90:             assert(GetFruitData:IsA("RemoteFunction"))
+[08:47:40 AM] 91: 
+[08:47:40 AM] 92:             return GetFruitData:InvokeServer()
+[08:47:40 AM] 93:         end
+[08:47:40 AM] 94: 
+[08:47:40 AM] 95:         return assembleServerData()
+[08:47:40 AM] 96:     end,
+[08:47:40 AM] 97:     MobileM1ButtonActivated = function(arg1) --[[ MobileM1ButtonActivated ]] -- line: 106
+[08:47:40 AM] 98:         local HeldTool = arg1.HeldTool
+[08:47:40 AM] 99:         local InputObject = arg1.InputObject
+[08:47:40 AM] 100:         local TapHoldButton = arg1.TapHoldButton
+[08:47:40 AM] 101: 
+[08:47:40 AM] 102:         if HeldTool.Name == "Dragon-Dragon" then
+[08:47:40 AM] 103:             require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[08:47:40 AM] 104:             local v6 = nil
+[08:47:40 AM] 105:             v6 = InputObject.Changed:Connect(function(arg2) -- line: 114
+[08:47:40 AM] 106:                 -- upvalues:
+[08:47:40 AM] 107:                 --  [1] InputObject (copy)
+[08:47:40 AM] 108:                 --  [2] v6 (ref)
+[08:47:40 AM] 109:                 --  [3] HeldTool (copy)
+[08:47:40 AM] 110:                 --  [4] TapHoldButton (copy)
+[08:47:40 AM] 111: 
+[08:47:40 AM] 112:                 if arg2 == "UserInputState" and InputObject.UserInputState == Enum.UserInputState.End then
+[08:47:40 AM] 113:                     v6:Disconnect()
+[08:47:40 AM] 114:                     HeldTool:Deactivate()
+[08:47:40 AM] 115: 
+[08:47:40 AM] 116:                     if TapHoldButton and require(game.ReplicatedStorage.Global).mobileSelectionFrame == TapHoldButton then
+[08:47:40 AM] ===== SOURCE AROUND LINE	173	=====
+[08:47:40 AM] 158:                 )
+[08:47:40 AM] 159:                 task.defer(function() -- line: 151
+[08:47:40 AM] 160:                     require(game.ReplicatedStorage.Global).CurrentTouchObjectForMouse = nil
+[08:47:40 AM] 161:                 end)
+[08:47:40 AM] 162:             end
+[08:47:40 AM] 163:         end)
+[08:47:40 AM] 164:         task.defer(function() -- line: 158
+[08:47:40 AM] 165:             -- upvalues:
+[08:47:40 AM] 166:             --  [1] InputObject (copy)
+[08:47:40 AM] 167: 
+[08:47:40 AM] 168:             require(game.ReplicatedStorage.Global).TestGamePrint("cast from here")
+[08:47:40 AM] 169:             require(game.ReplicatedStorage.Global).casFunc(
+[08:47:41 AM] 170:                 "DevilFruit",
+[08:47:41 AM] 171:                 Enum.UserInputState.Begin,
+[08:47:41 AM] 172:                 InputObject,
+[08:47:41 AM] 173:                 Enum.KeyCode.G
+[08:47:41 AM] 174:             )
+[08:47:41 AM] 175:         end)
+[08:47:41 AM] 176:     end,
+[08:47:41 AM] 177:     isToolSkillDisabled = function(u1: userdata, s1: string) --[[ isToolSkillDisabled ]] -- line: 169
+[08:47:41 AM] 178:         return if u1:GetAttribute("DisabledSkill" .. s1) ~= true then false else true
+[08:47:41 AM] 179:     end
+[08:47:41 AM] 180: }
+[08:47:41 AM] 181: 
+[08:47:41 AM] 182: function t_3.IsSkillBlocked(u2: userdata, u3: userdata, s2: string) -- line: 173
+[08:47:41 AM] 183:     -- upvalues:
+[08:47:41 AM] 184:     --  [1] t_3 (copy)
+[08:47:41 AM] 185:     --  [2] t_1 (copy)
+[08:47:41 AM] 186: 
+[08:47:41 AM] 187:     if t_3.isToolSkillDisabled(u3, s2) then
+[08:47:41 AM] 188:         return true
+[08:47:41 AM] 189:     end
+[08:47:41 AM] 190: 
+[08:47:41 AM] 191:     if s2 == "F" and u2.Character and u2.Character:HasTag("TargetEggOwner") and table.find(
+[08:47:41 AM] 192:         t_1,
+[08:47:41 AM] 193:         u3.Name
+[08:47:41 AM] 194:     ) then
+[08:47:41 AM] 195:         local t_5 = {}
+[08:47:41 AM] 196:         local AwakenedMoves = u3:FindFirstChild("AwakenedMoves")
+[08:47:41 AM] 197:         local v10 = AwakenedMoves
+[08:47:41 AM] 198: 
