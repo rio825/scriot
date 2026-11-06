@@ -1,1194 +1,4153 @@
-00:11:41 -- ===== DUMP ITEMS TEST =====
-00:11:41 -- SUCCESS:	true
-00:11:41 -- RESULT TYPE:	table
-00:11:41 -- KEY:	1	| TYPE:	table
-00:11:41 -- KEY:	2	| TYPE:	table
-00:11:41 -- KEY:	3	| TYPE:	table
-00:11:41 -- KEY:	4	| TYPE:	table
-00:11:41 -- KEY:	5	| TYPE:	table
-00:11:41 -- KEY:	6	| TYPE:	table
-00:11:41 -- KEY:	7	| TYPE:	table
-00:11:41 -- KEY:	8	| TYPE:	table
-00:11:41 -- KEY:	9	| TYPE:	table
-00:11:41 -- KEY:	10	| TYPE:	table
-00:11:41 -- KEY:	11	| TYPE:	table
-00:11:41 -- KEY:	12	| TYPE:	table
-00:11:41 -- KEY:	13	| TYPE:	table
-00:11:41 -- KEY:	14	| TYPE:	table
-00:11:41 -- KEY:	15	| TYPE:	table
-00:11:41 -- KEY:	16	| TYPE:	table
-00:11:41 -- KEY:	17	| TYPE:	table
-00:11:41 -- KEY:	18	| TYPE:	table
-00:11:41 -- KEY:	19	| TYPE:	table
-00:11:41 -- KEY:	20	| TYPE:	table
-00:11:41 -- KEY:	21	| TYPE:	table
-00:11:41 -- KEY:	22	| TYPE:	table
-00:11:41 -- KEY:	23	| TYPE:	table
-00:11:41 -- KEY:	24	| TYPE:	table
-00:11:41 -- KEY:	25	| TYPE:	table
-00:11:41 -- KEY:	26	| TYPE:	table
-00:11:41 -- KEY:	27	| TYPE:	table
-00:11:41 -- KEY:	28	| TYPE:	table
-00:11:41 -- KEY:	29	| TYPE:	table
-00:11:41 -- KEY:	30	| TYPE:	table
-00:11:41 -- KEY:	31	| TYPE:	table
-00:11:41 -- KEY:	32	| TYPE:	table
-00:11:41 -- KEY:	33	| TYPE:	table
-00:11:41 -- KEY:	34	| TYPE:	table
-00:11:41 -- KEY:	35	| TYPE:	table
-00:11:41 -- KEY:	36	| TYPE:	table
-00:11:41 -- KEY:	37	| TYPE:	table
-00:11:41 -- KEY:	38	| TYPE:	table
-00:11:41 -- KEY:	39	| TYPE:	table
-00:11:41 -- KEY:	40	| TYPE:	table
-00:11:41 -- KEY:	41	| TYPE:	table
-00:11:41 -- KEY:	42	| TYPE:	table
-00:11:41 -- KEY:	43	| TYPE:	table
-00:11:41 -- KEY:	44	| TYPE:	table
-00:11:41 -- KEY:	45	| TYPE:	table
-00:11:41 -- KEY:	46	| TYPE:	table
-00:11:41 -- KEY:	47	| TYPE:	table
-00:11:41 -- KEY:	48	| TYPE:	table
-00:11:41 -- KEY:	49	| TYPE:	table
-00:11:41 -- KEY:	50	| TYPE:	table
-00:11:41 -- KEY:	51	| TYPE:	table
-00:11:41 -- KEY:	52	| TYPE:	table
-00:11:41 -- KEY:	53	| TYPE:	table
-00:11:41 -- KEY:	54	| TYPE:	table
-00:11:41 -- KEY:	55	| TYPE:	table
-00:11:41 -- KEY:	56	| TYPE:	table
-00:11:41 -- KEY:	57	| TYPE:	table
-00:11:41 -- KEY:	58	| TYPE:	table
-00:11:41 -- KEY:	59	| TYPE:	table
-00:11:41 -- KEY:	60	| TYPE:	table
-00:11:41 -- KEY:	61	| TYPE:	table
-00:11:41 -- KEY:	62	| TYPE:	table
-00:11:41 -- KEY:	63	| TYPE:	table
-00:11:41 -- KEY:	64	| TYPE:	table
-00:11:41 -- KEY:	65	| TYPE:	table
-00:11:41 -- KEY:	66	| TYPE:	table
-00:11:41 -- KEY:	67	| TYPE:	table
-00:11:41 -- KEY:	68	| TYPE:	table
-00:11:41 -- KEY:	69	| TYPE:	table
-00:11:41 -- KEY:	70	| TYPE:	table
-00:11:41 -- KEY:	71	| TYPE:	table
-00:11:41 -- KEY:	72	| TYPE:	table
-00:11:41 -- KEY:	73	| TYPE:	table
-00:11:41 -- KEY:	74	| TYPE:	table
-00:11:41 -- KEY:	75	| TYPE:	table
-00:11:41 -- KEY:	76	| TYPE:	table
-00:11:41 -- KEY:	77	| TYPE:	table
-00:11:41 -- KEY:	78	| TYPE:	table
-00:11:41 -- KEY:	79	| TYPE:	table
-00:11:41 -- KEY:	80	| TYPE:	table
-00:11:41 -- KEY:	81	| TYPE:	table
-00:11:41 -- KEY:	82	| TYPE:	table
-00:11:41 -- KEY:	83	| TYPE:	table
-00:11:41 -- KEY:	84	| TYPE:	table
-00:11:41 -- KEY:	85	| TYPE:	table
-00:11:41 -- KEY:	86	| TYPE:	table
-00:11:41 -- KEY:	87	| TYPE:	table
-00:11:41 -- KEY:	88	| TYPE:	table
-00:11:41 -- KEY:	89	| TYPE:	table
-00:11:41 -- KEY:	90	| TYPE:	table
-00:11:41 -- KEY:	91	| TYPE:	table
-00:11:41 -- KEY:	92	| TYPE:	table
-00:11:41 -- KEY:	93	| TYPE:	table
-00:11:41 -- KEY:	94	| TYPE:	table
-00:11:41 -- KEY:	95	| TYPE:	table
-00:11:41 -- KEY:	96	| TYPE:	table
-00:11:41 -- KEY:	97	| TYPE:	table
-00:11:41 -- KEY:	98	| TYPE:	table
-00:11:41 -- KEY:	99	| TYPE:	table
-00:11:41 -- KEY:	100	| TYPE:	table
-00:11:41 -- KEY:	101	| TYPE:	table
-00:11:41 -- KEY:	102	| TYPE:	table
-00:11:41 -- KEY:	103	| TYPE:	table
-00:11:41 -- KEY:	104	| TYPE:	table
-00:11:41 -- KEY:	105	| TYPE:	table
-00:11:41 -- KEY:	106	| TYPE:	table
-00:11:41 -- KEY:	107	| TYPE:	table
-00:11:41 -- KEY:	108	| TYPE:	table
-00:11:41 -- KEY:	109	| TYPE:	table
-00:11:41 -- KEY:	110	| TYPE:	table
-00:11:41 -- KEY:	111	| TYPE:	table
-00:11:41 -- KEY:	112	| TYPE:	table
-00:11:41 -- KEY:	113	| TYPE:	table
-00:11:41 -- KEY:	114	| TYPE:	table
-00:11:41 -- KEY:	115	| TYPE:	table
-00:11:41 -- KEY:	116	| TYPE:	table
-00:11:41 -- KEY:	117	| TYPE:	table
-00:11:41 -- KEY:	118	| TYPE:	table
-00:11:41 -- KEY:	119	| TYPE:	table
-00:11:41 -- KEY:	120	| TYPE:	table
-00:11:41 -- KEY:	121	| TYPE:	table
-00:11:41 -- KEY:	122	| TYPE:	table
-00:11:41 -- KEY:	123	| TYPE:	table
-00:11:41 -- KEY:	124	| TYPE:	table
-00:11:41 -- KEY:	125	| TYPE:	table
-00:11:41 -- KEY:	126	| TYPE:	table
-00:11:41 -- KEY:	127	| TYPE:	table
-00:11:41 -- KEY:	128	| TYPE:	table
-00:11:41 -- KEY:	129	| TYPE:	table
-00:11:41 -- KEY:	130	| TYPE:	table
-00:11:41 -- KEY:	131	| TYPE:	table
-00:11:41 -- KEY:	132	| TYPE:	table
-00:11:41 -- KEY:	133	| TYPE:	table
-00:11:41 -- KEY:	134	| TYPE:	table
-00:11:41 -- KEY:	135	| TYPE:	table
-00:11:41 -- KEY:	136	| TYPE:	table
-00:11:41 -- KEY:	137	| TYPE:	table
-00:11:41 -- KEY:	138	| TYPE:	table
-00:11:41 -- KEY:	139	| TYPE:	table
-00:11:41 -- KEY:	140	| TYPE:	table
-00:11:41 -- KEY:	141	| TYPE:	table
-00:11:41 -- KEY:	142	| TYPE:	table
-00:11:41 -- KEY:	143	| TYPE:	table
-00:11:41 -- KEY:	144	| TYPE:	table
-00:11:41 -- KEY:	145	| TYPE:	table
-00:11:41 -- KEY:	146	| TYPE:	table
-00:11:41 -- KEY:	147	| TYPE:	table
-00:11:41 -- KEY:	148	| TYPE:	table
-00:11:41 -- KEY:	149	| TYPE:	table
-00:11:41 -- KEY:	150	| TYPE:	table
-00:11:41 -- KEY:	151	| TYPE:	table
-00:11:41 -- KEY:	152	| TYPE:	table
-00:11:41 -- KEY:	153	| TYPE:	table
-00:11:41 -- KEY:	154	| TYPE:	table
-00:11:41 -- KEY:	155	| TYPE:	table
-00:11:41 -- KEY:	156	| TYPE:	table
-00:11:41 -- KEY:	157	| TYPE:	table
-00:11:41 -- KEY:	158	| TYPE:	table
-00:11:41 -- KEY:	159	| TYPE:	table
-00:11:41 -- KEY:	160	| TYPE:	table
-00:11:41 -- KEY:	161	| TYPE:	table
-00:11:41 -- KEY:	162	| TYPE:	table
-00:11:41 -- KEY:	163	| TYPE:	table
-00:11:41 -- KEY:	164	| TYPE:	table
-00:11:41 -- KEY:	165	| TYPE:	table
-00:11:41 -- KEY:	166	| TYPE:	table
-00:11:41 -- KEY:	167	| TYPE:	table
-00:11:41 -- KEY:	168	| TYPE:	table
-00:11:41 -- KEY:	169	| TYPE:	table
-00:11:41 -- KEY:	170	| TYPE:	table
-00:11:41 -- KEY:	171	| TYPE:	table
-00:11:41 -- KEY:	172	| TYPE:	table
-00:11:41 -- KEY:	173	| TYPE:	table
-00:11:41 -- KEY:	174	| TYPE:	table
-00:11:41 -- KEY:	175	| TYPE:	table
-00:11:41 -- KEY:	176	| TYPE:	table
-00:11:41 -- KEY:	177	| TYPE:	table
-00:11:41 -- KEY:	178	| TYPE:	table
-00:11:41 -- KEY:	179	| TYPE:	table
-00:11:41 -- KEY:	180	| TYPE:	table
-00:11:41 -- KEY:	181	| TYPE:	table
-00:11:41 -- KEY:	182	| TYPE:	table
-00:11:41 -- KEY:	183	| TYPE:	table
-00:11:41 -- KEY:	184	| TYPE:	table
-00:11:41 -- KEY:	185	| TYPE:	table
-00:11:41 -- KEY:	186	| TYPE:	table
-00:11:41 -- KEY:	187	| TYPE:	table
-00:11:41 -- KEY:	188	| TYPE:	table
-00:11:41 -- KEY:	189	| TYPE:	table
-00:11:41 -- KEY:	190	| TYPE:	table
-00:11:41 -- KEY:	191	| TYPE:	table
-00:11:41 -- KEY:	192	| TYPE:	table
-00:11:41 -- KEY:	193	| TYPE:	table
-00:11:41 -- KEY:	194	| TYPE:	table
-00:11:41 -- KEY:	195	| TYPE:	table
-00:11:41 -- KEY:	196	| TYPE:	table
-00:11:41 -- KEY:	197	| TYPE:	table
-00:11:41 -- KEY:	198	| TYPE:	table
-00:11:41 -- KEY:	199	| TYPE:	table
-00:11:41 -- KEY:	200	| TYPE:	table
-00:11:41 -- KEY:	201	| TYPE:	table
-00:11:41 -- KEY:	202	| TYPE:	table
-00:11:41 -- KEY:	203	| TYPE:	table
-00:11:41 -- KEY:	204	| TYPE:	table
-00:11:41 -- KEY:	205	| TYPE:	table
-00:11:41 -- KEY:	206	| TYPE:	table
-00:11:41 -- KEY:	207	| TYPE:	table
-00:11:41 -- KEY:	208	| TYPE:	table
-00:11:41 -- KEY:	209	| TYPE:	table
-00:11:41 -- KEY:	210	| TYPE:	table
-00:11:41 -- KEY:	211	| TYPE:	table
-00:11:41 -- KEY:	212	| TYPE:	table
-00:11:41 -- KEY:	213	| TYPE:	table
-00:11:41 -- KEY:	214	| TYPE:	table
-00:11:41 -- KEY:	215	| TYPE:	table
-00:11:41 -- KEY:	216	| TYPE:	table
-00:11:41 -- KEY:	217	| TYPE:	table
-00:11:41 -- KEY:	218	| TYPE:	table
-00:11:41 -- KEY:	219	| TYPE:	table
-00:11:41 -- KEY:	220	| TYPE:	table
-00:11:41 -- KEY:	221	| TYPE:	table
-00:11:41 -- KEY:	222	| TYPE:	table
-00:11:41 -- KEY:	223	| TYPE:	table
-00:11:41 -- KEY:	224	| TYPE:	table
-00:11:41 -- KEY:	225	| TYPE:	table
-00:11:41 -- KEY:	226	| TYPE:	table
-00:11:41 -- KEY:	227	| TYPE:	table
-00:11:41 -- KEY:	228	| TYPE:	table
-00:11:41 -- KEY:	229	| TYPE:	table
-00:11:41 -- KEY:	230	| TYPE:	table
-00:11:41 -- KEY:	231	| TYPE:	table
-00:11:41 -- KEY:	232	| TYPE:	table
-00:11:41 -- KEY:	233	| TYPE:	table
-00:11:41 -- KEY:	234	| TYPE:	table
-00:11:41 -- KEY:	235	| TYPE:	table
-00:11:41 -- KEY:	236	| TYPE:	table
-00:11:41 -- KEY:	237	| TYPE:	table
-00:11:41 -- KEY:	238	| TYPE:	table
-00:11:41 -- KEY:	239	| TYPE:	table
-00:11:41 -- KEY:	240	| TYPE:	table
-00:11:41 -- KEY:	241	| TYPE:	table
-00:11:41 -- KEY:	242	| TYPE:	table
-00:11:41 -- KEY:	243	| TYPE:	table
-00:11:41 -- KEY:	244	| TYPE:	table
-00:11:41 -- KEY:	245	| TYPE:	table
-00:11:41 -- KEY:	246	| TYPE:	table
-00:11:41 -- KEY:	247	| TYPE:	table
-00:11:41 -- KEY:	248	| TYPE:	table
-00:11:41 -- KEY:	249	| TYPE:	table
-00:11:41 -- KEY:	250	| TYPE:	table
-00:11:41 -- KEY:	251	| TYPE:	table
-00:11:41 -- KEY:	252	| TYPE:	table
-00:11:41 -- KEY:	253	| TYPE:	table
-00:11:41 -- KEY:	254	| TYPE:	table
-00:11:41 -- KEY:	255	| TYPE:	table
-00:11:41 -- KEY:	256	| TYPE:	table
-00:11:41 -- KEY:	257	| TYPE:	table
-00:11:41 -- KEY:	258	| TYPE:	table
-00:11:41 -- KEY:	259	| TYPE:	table
-00:11:41 -- KEY:	260	| TYPE:	table
-00:11:41 -- KEY:	261	| TYPE:	table
-00:11:41 -- KEY:	262	| TYPE:	table
-00:11:41 -- KEY:	263	| TYPE:	table
-00:11:41 -- KEY:	264	| TYPE:	table
-00:11:41 -- KEY:	265	| TYPE:	table
-00:11:41 -- KEY:	266	| TYPE:	table
-00:11:41 -- KEY:	267	| TYPE:	table
-00:11:41 -- KEY:	268	| TYPE:	table
-00:11:41 -- KEY:	269	| TYPE:	table
-00:11:41 -- KEY:	270	| TYPE:	table
-00:11:41 -- KEY:	271	| TYPE:	table
-00:11:41 -- KEY:	272	| TYPE:	table
-00:11:41 -- KEY:	273	| TYPE:	table
-00:11:41 -- KEY:	274	| TYPE:	table
-00:11:41 -- KEY:	275	| TYPE:	table
-00:11:41 -- KEY:	276	| TYPE:	table
-00:11:41 -- KEY:	277	| TYPE:	table
-00:11:41 -- KEY:	278	| TYPE:	table
-00:11:41 -- KEY:	279	| TYPE:	table
-00:11:41 -- KEY:	280	| TYPE:	table
-00:11:41 -- KEY:	281	| TYPE:	table
-00:11:41 -- KEY:	282	| TYPE:	table
-00:11:41 -- KEY:	283	| TYPE:	table
-00:11:41 -- KEY:	284	| TYPE:	table
-00:11:41 -- KEY:	285	| TYPE:	table
-00:11:41 -- KEY:	286	| TYPE:	table
-00:11:41 -- KEY:	287	| TYPE:	table
-00:11:41 -- KEY:	288	| TYPE:	table
-00:11:41 -- KEY:	289	| TYPE:	table
-00:11:41 -- KEY:	290	| TYPE:	table
-00:11:41 -- KEY:	291	| TYPE:	table
-00:11:41 -- KEY:	292	| TYPE:	table
-00:11:41 -- KEY:	293	| TYPE:	table
-00:11:41 -- KEY:	294	| TYPE:	table
-00:11:41 -- KEY:	295	| TYPE:	table
-00:11:41 -- KEY:	296	| TYPE:	table
-00:11:41 -- KEY:	297	| TYPE:	table
-00:11:41 -- KEY:	298	| TYPE:	table
-00:11:41 -- KEY:	299	| TYPE:	table
-00:11:41 -- KEY:	300	| TYPE:	table
-00:11:41 -- KEY:	301	| TYPE:	table
-00:11:41 -- KEY:	302	| TYPE:	table
-00:11:41 -- KEY:	303	| TYPE:	table
-00:11:41 -- KEY:	304	| TYPE:	table
-00:11:41 -- KEY:	305	| TYPE:	table
-00:11:41 -- KEY:	306	| TYPE:	table
-00:11:41 -- KEY:	307	| TYPE:	table
-00:11:41 -- KEY:	308	| TYPE:	table
-00:11:41 -- KEY:	309	| TYPE:	table
-00:11:41 -- KEY:	310	| TYPE:	table
-00:11:41 -- KEY:	311	| TYPE:	table
-00:11:41 -- KEY:	312	| TYPE:	table
-00:11:41 -- KEY:	313	| TYPE:	table
-00:11:41 -- KEY:	314	| TYPE:	table
-00:11:41 -- KEY:	315	| TYPE:	table
-00:11:41 -- KEY:	316	| TYPE:	table
-00:11:41 -- KEY:	317	| TYPE:	table
-00:11:41 -- KEY:	318	| TYPE:	table
-00:11:41 -- KEY:	319	| TYPE:	table
-00:11:41 -- KEY:	320	| TYPE:	table
-00:11:41 -- KEY:	321	| TYPE:	table
-00:11:41 -- KEY:	322	| TYPE:	table
-00:11:41 -- KEY:	323	| TYPE:	table
-00:11:41 -- KEY:	324	| TYPE:	table
-00:11:41 -- KEY:	325	| TYPE:	table
-00:11:41 -- KEY:	326	| TYPE:	table
-00:11:41 -- KEY:	327	| TYPE:	table
-00:11:41 -- KEY:	328	| TYPE:	table
-00:11:41 -- KEY:	329	| TYPE:	table
-00:11:41 -- KEY:	330	| TYPE:	table
-00:11:41 -- KEY:	331	| TYPE:	table
-00:11:41 -- KEY:	332	| TYPE:	table
-00:11:41 -- KEY:	333	| TYPE:	table
-00:11:41 -- KEY:	334	| TYPE:	table
-00:11:41 -- KEY:	335	| TYPE:	table
-00:11:41 -- KEY:	336	| TYPE:	table
-00:11:41 -- KEY:	337	| TYPE:	table
-00:11:41 -- KEY:	338	| TYPE:	table
-00:11:41 -- KEY:	339	| TYPE:	table
-00:11:41 -- KEY:	340	| TYPE:	table
-00:11:41 -- KEY:	341	| TYPE:	table
-00:11:41 -- KEY:	342	| TYPE:	table
-00:11:41 -- KEY:	343	| TYPE:	table
-00:11:41 -- KEY:	344	| TYPE:	table
-00:11:41 -- KEY:	345	| TYPE:	table
-00:11:41 -- KEY:	346	| TYPE:	table
-00:11:41 -- KEY:	347	| TYPE:	table
-00:11:41 -- KEY:	348	| TYPE:	table
-00:11:41 -- KEY:	349	| TYPE:	table
-00:11:41 -- KEY:	350	| TYPE:	table
-00:11:41 -- KEY:	351	| TYPE:	table
-00:11:41 -- KEY:	352	| TYPE:	table
-00:11:41 -- KEY:	353	| TYPE:	table
-00:11:41 -- KEY:	354	| TYPE:	table
-00:11:41 -- KEY:	355	| TYPE:	table
-00:11:41 -- KEY:	356	| TYPE:	table
-00:11:41 -- KEY:	357	| TYPE:	table
-00:11:41 -- KEY:	358	| TYPE:	table
-00:11:41 -- KEY:	359	| TYPE:	table
-00:11:41 -- KEY:	360	| TYPE:	table
-00:11:41 -- KEY:	361	| TYPE:	table
-00:11:41 -- KEY:	362	| TYPE:	table
-00:11:41 -- KEY:	363	| TYPE:	table
-00:11:41 -- KEY:	364	| TYPE:	table
-00:11:41 -- KEY:	365	| TYPE:	table
-00:11:41 -- KEY:	366	| TYPE:	table
-00:11:41 -- KEY:	367	| TYPE:	table
-00:11:41 -- KEY:	368	| TYPE:	table
-00:11:41 -- KEY:	369	| TYPE:	table
-00:11:41 -- KEY:	370	| TYPE:	table
-00:11:41 -- KEY:	371	| TYPE:	table
-00:11:41 -- KEY:	372	| TYPE:	table
-00:11:41 -- KEY:	373	| TYPE:	table
-00:11:41 -- KEY:	374	| TYPE:	table
-00:11:41 -- KEY:	375	| TYPE:	table
-00:11:41 -- KEY:	376	| TYPE:	table
-00:11:41 -- KEY:	377	| TYPE:	table
-00:11:41 -- KEY:	378	| TYPE:	table
-00:11:41 -- KEY:	379	| TYPE:	table
-00:11:41 -- KEY:	380	| TYPE:	table
-00:11:41 -- KEY:	381	| TYPE:	table
-00:11:41 -- KEY:	382	| TYPE:	table
-00:11:41 -- KEY:	383	| TYPE:	table
-00:11:41 -- KEY:	384	| TYPE:	table
-00:11:41 -- KEY:	385	| TYPE:	table
-00:11:41 -- KEY:	386	| TYPE:	table
-00:11:41 -- KEY:	387	| TYPE:	table
-00:11:41 -- KEY:	388	| TYPE:	table
-00:11:41 -- KEY:	389	| TYPE:	table
-00:11:41 -- KEY:	390	| TYPE:	table
-00:11:41 -- KEY:	391	| TYPE:	table
-00:11:41 -- KEY:	392	| TYPE:	table
-00:11:41 -- KEY:	393	| TYPE:	table
-00:11:41 -- KEY:	394	| TYPE:	table
-00:11:41 -- KEY:	395	| TYPE:	table
-00:11:41 -- KEY:	396	| TYPE:	table
-00:11:41 -- KEY:	397	| TYPE:	table
-00:11:41 -- KEY:	398	| TYPE:	table
-00:11:41 -- KEY:	399	| TYPE:	table
-00:11:41 -- KEY:	400	| TYPE:	table
-00:11:41 -- KEY:	401	| TYPE:	table
-00:11:41 -- KEY:	402	| TYPE:	table
-00:11:41 -- KEY:	403	| TYPE:	table
-00:11:41 -- KEY:	404	| TYPE:	table
-00:11:41 -- KEY:	405	| TYPE:	table
-00:11:41 -- KEY:	406	| TYPE:	table
-00:11:41 -- KEY:	407	| TYPE:	table
-00:11:41 -- KEY:	408	| TYPE:	table
-00:11:41 -- KEY:	409	| TYPE:	table
-00:11:41 -- KEY:	410	| TYPE:	table
-00:11:41 -- KEY:	411	| TYPE:	table
-00:11:41 -- KEY:	412	| TYPE:	table
-00:11:41 -- KEY:	413	| TYPE:	table
-00:11:41 -- KEY:	414	| TYPE:	table
-00:11:41 -- KEY:	415	| TYPE:	table
-00:11:41 -- KEY:	416	| TYPE:	table
-00:11:41 -- KEY:	417	| TYPE:	table
-00:11:41 -- KEY:	418	| TYPE:	table
-00:11:41 -- KEY:	419	| TYPE:	table
-00:11:41 -- KEY:	420	| TYPE:	table
-00:11:41 -- KEY:	421	| TYPE:	table
-00:11:41 -- KEY:	422	| TYPE:	table
-00:11:41 -- KEY:	423	| TYPE:	table
-00:11:41 -- KEY:	424	| TYPE:	table
-00:11:41 -- KEY:	425	| TYPE:	table
-00:11:41 -- KEY:	426	| TYPE:	table
-00:11:41 -- KEY:	427	| TYPE:	table
-00:11:41 -- KEY:	428	| TYPE:	table
-00:11:41 -- KEY:	429	| TYPE:	table
-00:11:41 -- KEY:	430	| TYPE:	table
-00:11:41 -- KEY:	431	| TYPE:	table
-00:11:41 -- KEY:	432	| TYPE:	table
-00:11:41 -- KEY:	433	| TYPE:	table
-00:11:41 -- KEY:	434	| TYPE:	table
-00:11:41 -- KEY:	435	| TYPE:	table
-00:11:41 -- KEY:	436	| TYPE:	table
-00:11:41 -- KEY:	437	| TYPE:	table
-00:11:41 -- KEY:	438	| TYPE:	table
-00:11:41 -- KEY:	439	| TYPE:	table
-00:11:41 -- KEY:	440	| TYPE:	table
-00:11:41 -- KEY:	441	| TYPE:	table
-00:11:41 -- KEY:	442	| TYPE:	table
-00:11:41 -- KEY:	443	| TYPE:	table
-00:11:41 -- KEY:	444	| TYPE:	table
-00:11:41 -- KEY:	445	| TYPE:	table
-00:11:41 -- KEY:	446	| TYPE:	table
-00:11:41 -- KEY:	447	| TYPE:	table
-00:11:41 -- KEY:	448	| TYPE:	table
-00:11:41 -- KEY:	449	| TYPE:	table
-00:11:41 -- KEY:	450	| TYPE:	table
-00:11:41 -- KEY:	451	| TYPE:	table
-00:11:41 -- KEY:	452	| TYPE:	table
-00:11:41 -- KEY:	453	| TYPE:	table
-00:11:41 -- KEY:	454	| TYPE:	table
-00:11:41 -- KEY:	455	| TYPE:	table
-00:11:41 -- KEY:	456	| TYPE:	table
-00:11:41 -- KEY:	457	| TYPE:	table
-00:11:41 -- KEY:	458	| TYPE:	table
-00:11:41 -- KEY:	459	| TYPE:	table
-00:11:41 -- KEY:	460	| TYPE:	table
-00:11:41 -- KEY:	461	| TYPE:	table
-00:11:41 -- KEY:	462	| TYPE:	table
-00:11:41 -- KEY:	463	| TYPE:	table
-00:11:41 -- KEY:	464	| TYPE:	table
-00:11:41 -- KEY:	465	| TYPE:	table
-00:11:41 -- KEY:	466	| TYPE:	table
-00:11:41 -- KEY:	467	| TYPE:	table
-00:11:41 -- KEY:	468	| TYPE:	table
-00:11:41 -- KEY:	469	| TYPE:	table
-00:11:41 -- KEY:	470	| TYPE:	table
-00:11:41 -- KEY:	471	| TYPE:	table
-00:11:41 -- KEY:	472	| TYPE:	table
-00:11:41 -- KEY:	473	| TYPE:	table
-00:11:41 -- KEY:	474	| TYPE:	table
-00:11:41 -- KEY:	475	| TYPE:	table
-00:11:41 -- KEY:	476	| TYPE:	table
-00:11:41 -- KEY:	477	| TYPE:	table
-00:11:41 -- KEY:	478	| TYPE:	table
-00:11:41 -- KEY:	479	| TYPE:	table
-00:11:41 -- KEY:	480	| TYPE:	table
-00:11:41 -- KEY:	481	| TYPE:	table
-00:11:41 -- KEY:	482	| TYPE:	table
-00:11:41 -- KEY:	483	| TYPE:	table
-00:11:41 -- KEY:	484	| TYPE:	table
-00:11:41 -- KEY:	485	| TYPE:	table
-00:11:41 -- KEY:	486	| TYPE:	table
-00:11:41 -- KEY:	487	| TYPE:	table
-00:11:41 -- KEY:	488	| TYPE:	table
-00:11:41 -- KEY:	489	| TYPE:	table
-00:11:41 -- KEY:	490	| TYPE:	table
-00:11:41 -- KEY:	491	| TYPE:	table
-00:11:41 -- KEY:	492	| TYPE:	table
-00:11:41 -- KEY:	493	| TYPE:	table
-00:11:41 -- KEY:	494	| TYPE:	table
-00:11:41 -- KEY:	495	| TYPE:	table
-00:11:41 -- KEY:	496	| TYPE:	table
-00:11:41 -- KEY:	497	| TYPE:	table
-00:11:41 -- KEY:	498	| TYPE:	table
-00:11:41 -- KEY:	499	| TYPE:	table
-00:11:41 -- KEY:	500	| TYPE:	table
-00:11:41 -- KEY:	501	| TYPE:	table
-00:11:41 -- KEY:	502	| TYPE:	table
-00:11:41 -- KEY:	503	| TYPE:	table
-00:11:41 -- KEY:	504	| TYPE:	table
-00:11:41 -- KEY:	505	| TYPE:	table
-00:11:41 -- KEY:	506	| TYPE:	table
-00:11:41 -- KEY:	507	| TYPE:	table
-00:11:41 -- KEY:	508	| TYPE:	table
-00:11:41 -- KEY:	509	| TYPE:	table
-00:11:41 -- KEY:	510	| TYPE:	table
-00:11:41 -- KEY:	511	| TYPE:	table
-00:11:41 -- KEY:	512	| TYPE:	table
-00:11:41 -- KEY:	513	| TYPE:	table
-00:11:41 -- KEY:	514	| TYPE:	table
-00:11:41 -- KEY:	515	| TYPE:	table
-00:11:41 -- KEY:	516	| TYPE:	table
-00:11:41 -- KEY:	517	| TYPE:	table
-00:11:41 -- KEY:	518	| TYPE:	table
-00:11:41 -- KEY:	519	| TYPE:	table
-00:11:41 -- KEY:	520	| TYPE:	table
-00:11:41 -- KEY:	521	| TYPE:	table
-00:11:41 -- KEY:	522	| TYPE:	table
-00:11:41 -- KEY:	523	| TYPE:	table
-00:11:41 -- KEY:	524	| TYPE:	table
-00:11:41 -- KEY:	525	| TYPE:	table
-00:11:41 -- KEY:	526	| TYPE:	table
-00:11:41 -- KEY:	527	| TYPE:	table
-00:11:41 -- KEY:	528	| TYPE:	table
-00:11:41 -- KEY:	529	| TYPE:	table
-00:11:41 -- KEY:	530	| TYPE:	table
-00:11:41 -- KEY:	531	| TYPE:	table
-00:11:41 -- KEY:	532	| TYPE:	table
-00:11:41 -- KEY:	533	| TYPE:	table
-00:11:41 -- KEY:	534	| TYPE:	table
-00:11:41 -- KEY:	535	| TYPE:	table
-00:11:41 -- KEY:	536	| TYPE:	table
-00:11:41 -- KEY:	537	| TYPE:	table
-00:11:41 -- KEY:	538	| TYPE:	table
-00:11:41 -- KEY:	539	| TYPE:	table
-00:11:41 -- KEY:	540	| TYPE:	table
-00:11:41 -- KEY:	541	| TYPE:	table
-00:11:41 -- KEY:	542	| TYPE:	table
-00:11:41 -- KEY:	543	| TYPE:	table
-00:11:41 -- KEY:	544	| TYPE:	table
-00:11:41 -- KEY:	545	| TYPE:	table
-00:11:41 -- KEY:	546	| TYPE:	table
-00:11:41 -- KEY:	547	| TYPE:	table
-00:11:41 -- KEY:	548	| TYPE:	table
-00:11:41 -- KEY:	549	| TYPE:	table
-00:11:41 -- KEY:	550	| TYPE:	table
-00:11:41 -- KEY:	551	| TYPE:	table
-00:11:41 -- KEY:	552	| TYPE:	table
-00:11:41 -- KEY:	553	| TYPE:	table
-00:11:41 -- KEY:	554	| TYPE:	table
-00:11:41 -- KEY:	555	| TYPE:	table
-00:11:41 -- KEY:	556	| TYPE:	table
-00:11:41 -- KEY:	557	| TYPE:	table
-00:11:41 -- KEY:	558	| TYPE:	table
-00:11:41 -- KEY:	559	| TYPE:	table
-00:11:41 -- KEY:	560	| TYPE:	table
-00:11:41 -- KEY:	561	| TYPE:	table
-00:11:41 -- KEY:	562	| TYPE:	table
-00:11:41 -- KEY:	563	| TYPE:	table
-00:11:41 -- KEY:	564	| TYPE:	table
-00:11:41 -- KEY:	565	| TYPE:	table
-00:11:41 -- KEY:	566	| TYPE:	table
-00:11:41 -- KEY:	567	| TYPE:	table
-00:11:41 -- KEY:	568	| TYPE:	table
-00:11:41 -- KEY:	569	| TYPE:	table
-00:11:41 -- KEY:	570	| TYPE:	table
-00:11:41 -- KEY:	571	| TYPE:	table
-00:11:41 -- KEY:	572	| TYPE:	table
-00:11:41 -- KEY:	573	| TYPE:	table
-00:11:41 -- KEY:	574	| TYPE:	table
-00:11:41 -- KEY:	575	| TYPE:	table
-00:11:41 -- KEY:	576	| TYPE:	table
-00:11:41 -- KEY:	577	| TYPE:	table
-00:11:41 -- KEY:	578	| TYPE:	table
-00:11:41 -- KEY:	579	| TYPE:	table
-00:11:41 -- KEY:	580	| TYPE:	table
-00:11:41 -- KEY:	581	| TYPE:	table
-00:11:41 -- KEY:	582	| TYPE:	table
-00:11:41 -- KEY:	583	| TYPE:	table
-00:11:41 -- KEY:	584	| TYPE:	table
-00:11:41 -- KEY:	585	| TYPE:	table
-00:11:41 -- KEY:	586	| TYPE:	table
-00:11:41 -- KEY:	587	| TYPE:	table
-00:11:41 -- KEY:	588	| TYPE:	table
-00:11:41 -- KEY:	589	| TYPE:	table
-00:11:41 -- KEY:	590	| TYPE:	table
-00:11:41 -- KEY:	591	| TYPE:	table
-00:11:41 -- KEY:	592	| TYPE:	table
-00:11:41 -- KEY:	593	| TYPE:	table
-00:11:41 -- KEY:	594	| TYPE:	table
-00:11:41 -- KEY:	595	| TYPE:	table
-00:11:41 -- KEY:	596	| TYPE:	table
-00:11:41 -- KEY:	597	| TYPE:	table
-00:11:41 -- KEY:	598	| TYPE:	table
-00:11:41 -- KEY:	599	| TYPE:	table
-00:11:41 -- KEY:	600	| TYPE:	table
-00:11:41 -- KEY:	601	| TYPE:	table
-00:11:41 -- KEY:	602	| TYPE:	table
-00:11:41 -- KEY:	603	| TYPE:	table
-00:11:41 -- KEY:	604	| TYPE:	table
-00:11:41 -- KEY:	605	| TYPE:	table
-00:11:41 -- KEY:	606	| TYPE:	table
-00:11:41 -- KEY:	607	| TYPE:	table
-00:11:41 -- KEY:	608	| TYPE:	table
-00:11:41 -- KEY:	609	| TYPE:	table
-00:11:41 -- KEY:	610	| TYPE:	table
-00:11:41 -- KEY:	611	| TYPE:	table
-00:11:41 -- KEY:	612	| TYPE:	table
-00:11:41 -- KEY:	613	| TYPE:	table
-00:11:41 -- KEY:	614	| TYPE:	table
-00:11:41 -- KEY:	615	| TYPE:	table
-00:11:41 -- KEY:	616	| TYPE:	table
-00:11:41 -- KEY:	617	| TYPE:	table
-00:11:41 -- KEY:	618	| TYPE:	table
-00:11:41 -- KEY:	619	| TYPE:	table
-00:11:41 -- KEY:	620	| TYPE:	table
-00:11:41 -- KEY:	621	| TYPE:	table
-00:11:41 -- KEY:	622	| TYPE:	table
-00:11:41 -- KEY:	623	| TYPE:	table
-00:11:41 -- KEY:	624	| TYPE:	table
-00:11:41 -- KEY:	625	| TYPE:	table
-00:11:41 -- KEY:	626	| TYPE:	table
-00:11:41 -- KEY:	627	| TYPE:	table
-00:11:41 -- KEY:	628	| TYPE:	table
-00:11:41 -- KEY:	629	| TYPE:	table
-00:11:41 -- KEY:	630	| TYPE:	table
-00:11:41 -- KEY:	631	| TYPE:	table
-00:11:41 -- KEY:	632	| TYPE:	table
-00:11:41 -- KEY:	633	| TYPE:	table
-00:11:41 -- KEY:	634	| TYPE:	table
-00:11:41 -- KEY:	635	| TYPE:	table
-00:11:41 -- KEY:	636	| TYPE:	table
-00:11:41 -- KEY:	637	| TYPE:	table
-00:11:41 -- KEY:	638	| TYPE:	table
-00:11:41 -- KEY:	639	| TYPE:	table
-00:11:41 -- KEY:	640	| TYPE:	table
-00:11:41 -- KEY:	641	| TYPE:	table
-00:11:41 -- KEY:	642	| TYPE:	table
-00:11:41 -- KEY:	643	| TYPE:	table
-00:11:41 -- KEY:	644	| TYPE:	table
-00:11:41 -- KEY:	645	| TYPE:	table
-00:11:41 -- KEY:	646	| TYPE:	table
-00:11:41 -- KEY:	647	| TYPE:	table
-00:11:41 -- KEY:	648	| TYPE:	table
-00:11:41 -- KEY:	649	| TYPE:	table
-00:11:41 -- KEY:	650	| TYPE:	table
-00:11:41 -- KEY:	651	| TYPE:	table
-00:11:41 -- KEY:	652	| TYPE:	table
-00:11:41 -- KEY:	653	| TYPE:	table
-00:11:41 -- KEY:	654	| TYPE:	table
-00:11:41 -- KEY:	655	| TYPE:	table
-00:11:41 -- KEY:	656	| TYPE:	table
-00:11:41 -- KEY:	657	| TYPE:	table
-00:11:41 -- KEY:	658	| TYPE:	table
-00:11:41 -- KEY:	659	| TYPE:	table
-00:11:41 -- KEY:	660	| TYPE:	table
-00:11:41 -- KEY:	661	| TYPE:	table
-00:11:41 -- KEY:	662	| TYPE:	table
-00:11:41 -- KEY:	663	| TYPE:	table
-00:11:41 -- KEY:	664	| TYPE:	table
-00:11:41 -- KEY:	665	| TYPE:	table
-00:11:41 -- KEY:	666	| TYPE:	table
-00:11:41 -- KEY:	667	| TYPE:	table
-00:11:41 -- KEY:	668	| TYPE:	table
-00:11:41 -- KEY:	669	| TYPE:	table
-00:11:41 -- KEY:	670	| TYPE:	table
-00:11:41 -- KEY:	671	| TYPE:	table
-00:11:41 -- KEY:	672	| TYPE:	table
-00:11:41 -- KEY:	673	| TYPE:	table
-00:11:41 -- KEY:	674	| TYPE:	table
-00:11:41 -- KEY:	675	| TYPE:	table
-00:11:41 -- KEY:	676	| TYPE:	table
-00:11:41 -- KEY:	677	| TYPE:	table
-00:11:41 -- KEY:	678	| TYPE:	table
-00:11:41 -- KEY:	679	| TYPE:	table
-00:11:41 -- KEY:	680	| TYPE:	table
-00:11:41 -- KEY:	681	| TYPE:	table
-00:11:41 -- KEY:	682	| TYPE:	table
-00:11:41 -- KEY:	683	| TYPE:	table
-00:11:41 -- KEY:	684	| TYPE:	table
-00:11:41 -- KEY:	685	| TYPE:	table
-00:11:41 -- KEY:	686	| TYPE:	table
-00:11:41 -- KEY:	687	| TYPE:	table
-00:11:41 -- KEY:	688	| TYPE:	table
-00:11:41 -- KEY:	689	| TYPE:	table
-00:11:41 -- KEY:	690	| TYPE:	table
-00:11:41 -- KEY:	691	| TYPE:	table
-00:11:41 -- KEY:	692	| TYPE:	table
-00:11:41 -- KEY:	693	| TYPE:	table
-00:11:41 -- KEY:	694	| TYPE:	table
-00:11:41 -- KEY:	695	| TYPE:	table
-00:11:41 -- KEY:	696	| TYPE:	table
-00:11:41 -- KEY:	697	| TYPE:	table
-00:11:41 -- KEY:	698	| TYPE:	table
-00:11:41 -- KEY:	699	| TYPE:	table
-00:11:41 -- KEY:	700	| TYPE:	table
-00:11:41 -- KEY:	701	| TYPE:	table
-00:11:41 -- KEY:	702	| TYPE:	table
-00:11:41 -- KEY:	703	| TYPE:	table
-00:11:41 -- KEY:	704	| TYPE:	table
-00:11:41 -- KEY:	705	| TYPE:	table
-00:11:41 -- KEY:	706	| TYPE:	table
-00:11:41 -- KEY:	707	| TYPE:	table
-00:11:41 -- KEY:	708	| TYPE:	table
-00:11:41 -- KEY:	709	| TYPE:	table
-00:11:41 -- KEY:	710	| TYPE:	table
-00:11:41 -- KEY:	711	| TYPE:	table
-00:11:41 -- KEY:	712	| TYPE:	table
-00:11:41 -- KEY:	713	| TYPE:	table
-00:11:41 -- KEY:	714	| TYPE:	table
-00:11:41 -- KEY:	715	| TYPE:	table
-00:11:41 -- KEY:	716	| TYPE:	table
-00:11:41 -- KEY:	717	| TYPE:	table
-00:11:41 -- KEY:	718	| TYPE:	table
-00:11:41 -- KEY:	719	| TYPE:	table
-00:11:41 -- KEY:	720	| TYPE:	table
-00:11:41 -- KEY:	721	| TYPE:	table
-00:11:41 -- KEY:	722	| TYPE:	table
-00:11:41 -- KEY:	723	| TYPE:	table
-00:11:41 -- KEY:	724	| TYPE:	table
-00:11:41 -- KEY:	725	| TYPE:	table
-00:11:41 -- KEY:	726	| TYPE:	table
-00:11:41 -- KEY:	727	| TYPE:	table
-00:11:41 -- KEY:	728	| TYPE:	table
-00:11:41 -- KEY:	729	| TYPE:	table
-00:11:41 -- KEY:	730	| TYPE:	table
-00:11:41 -- KEY:	731	| TYPE:	table
-00:11:41 -- KEY:	732	| TYPE:	table
-00:11:41 -- KEY:	733	| TYPE:	table
-00:11:41 -- KEY:	734	| TYPE:	table
-00:11:41 -- KEY:	735	| TYPE:	table
-00:11:41 -- KEY:	736	| TYPE:	table
-00:11:41 -- KEY:	737	| TYPE:	table
-00:11:41 -- KEY:	738	| TYPE:	table
-00:11:41 -- KEY:	739	| TYPE:	table
-00:11:41 -- KEY:	740	| TYPE:	table
-00:11:41 -- KEY:	741	| TYPE:	table
-00:11:41 -- KEY:	742	| TYPE:	table
-00:11:41 -- KEY:	743	| TYPE:	table
-00:11:41 -- KEY:	744	| TYPE:	table
-00:11:41 -- KEY:	745	| TYPE:	table
-00:11:41 -- KEY:	746	| TYPE:	table
-00:11:41 -- KEY:	747	| TYPE:	table
-00:11:41 -- KEY:	748	| TYPE:	table
-00:11:41 -- KEY:	749	| TYPE:	table
-00:11:41 -- KEY:	750	| TYPE:	table
-00:11:41 -- KEY:	751	| TYPE:	table
-00:11:41 -- KEY:	752	| TYPE:	table
-00:11:41 -- KEY:	753	| TYPE:	table
-00:11:41 -- KEY:	754	| TYPE:	table
-00:11:41 -- KEY:	755	| TYPE:	table
-00:11:41 -- KEY:	756	| TYPE:	table
-00:11:41 -- KEY:	757	| TYPE:	table
-00:11:41 -- KEY:	758	| TYPE:	table
-00:11:41 -- KEY:	759	| TYPE:	table
-00:11:41 -- KEY:	760	| TYPE:	table
-00:11:41 -- KEY:	761	| TYPE:	table
-00:11:41 -- KEY:	762	| TYPE:	table
-00:11:41 -- KEY:	763	| TYPE:	table
-00:11:41 -- KEY:	764	| TYPE:	table
-00:11:41 -- KEY:	765	| TYPE:	table
-00:11:41 -- KEY:	766	| TYPE:	table
-00:11:41 -- KEY:	767	| TYPE:	table
-00:11:41 -- KEY:	768	| TYPE:	table
-00:11:41 -- KEY:	769	| TYPE:	table
-00:11:41 -- KEY:	770	| TYPE:	table
-00:11:41 -- KEY:	771	| TYPE:	table
-00:11:41 -- KEY:	772	| TYPE:	table
-00:11:41 -- KEY:	773	| TYPE:	table
-00:11:41 -- KEY:	774	| TYPE:	table
-00:11:41 -- KEY:	775	| TYPE:	table
-00:11:41 -- KEY:	776	| TYPE:	table
-00:11:41 -- KEY:	777	| TYPE:	table
-00:11:41 -- KEY:	778	| TYPE:	table
-00:11:41 -- KEY:	779	| TYPE:	table
-00:11:41 -- KEY:	780	| TYPE:	table
-00:11:41 -- KEY:	781	| TYPE:	table
-00:11:41 -- KEY:	782	| TYPE:	table
-00:11:41 -- KEY:	783	| TYPE:	table
-00:11:41 -- KEY:	784	| TYPE:	table
-00:11:41 -- KEY:	785	| TYPE:	table
-00:11:41 -- KEY:	786	| TYPE:	table
-00:11:41 -- KEY:	787	| TYPE:	table
-00:11:41 -- KEY:	788	| TYPE:	table
-00:11:41 -- KEY:	789	| TYPE:	table
-00:11:41 -- KEY:	790	| TYPE:	table
-00:11:41 -- KEY:	791	| TYPE:	table
-00:11:41 -- KEY:	792	| TYPE:	table
-00:11:41 -- KEY:	793	| TYPE:	table
-00:11:41 -- KEY:	794	| TYPE:	table
-00:11:41 -- KEY:	795	| TYPE:	table
-00:11:41 -- KEY:	796	| TYPE:	table
-00:11:41 -- KEY:	797	| TYPE:	table
-00:11:41 -- KEY:	798	| TYPE:	table
-00:11:41 -- KEY:	799	| TYPE:	table
-00:11:41 -- KEY:	800	| TYPE:	table
-00:11:41 -- KEY:	801	| TYPE:	table
-00:11:41 -- KEY:	802	| TYPE:	table
-00:11:41 -- KEY:	803	| TYPE:	table
-00:11:41 -- KEY:	804	| TYPE:	table
-00:11:41 -- KEY:	805	| TYPE:	table
-00:11:41 -- KEY:	806	| TYPE:	table
-00:11:41 -- KEY:	807	| TYPE:	table
-00:11:41 -- KEY:	808	| TYPE:	table
-00:11:41 -- KEY:	809	| TYPE:	table
-00:11:41 -- KEY:	810	| TYPE:	table
-00:11:41 -- KEY:	811	| TYPE:	table
-00:11:41 -- KEY:	812	| TYPE:	table
-00:11:41 -- KEY:	813	| TYPE:	table
-00:11:41 -- KEY:	814	| TYPE:	table
-00:11:41 -- KEY:	815	| TYPE:	table
-00:11:41 -- KEY:	816	| TYPE:	table
-00:11:41 -- KEY:	817	| TYPE:	table
-00:11:41 -- KEY:	818	| TYPE:	table
-00:11:41 -- KEY:	819	| TYPE:	table
-00:11:41 -- KEY:	820	| TYPE:	table
-00:11:41 -- KEY:	821	| TYPE:	table
-00:11:41 -- KEY:	822	| TYPE:	table
-00:11:41 -- KEY:	823	| TYPE:	table
-00:11:41 -- KEY:	824	| TYPE:	table
-00:11:41 -- KEY:	825	| TYPE:	table
-00:11:41 -- KEY:	826	| TYPE:	table
-00:11:41 -- KEY:	827	| TYPE:	table
-00:11:41 -- KEY:	828	| TYPE:	table
-00:11:41 -- KEY:	829	| TYPE:	table
-00:11:41 -- KEY:	830	| TYPE:	table
-00:11:41 -- KEY:	831	| TYPE:	table
-00:11:41 -- KEY:	832	| TYPE:	table
-00:11:41 -- KEY:	833	| TYPE:	table
-00:11:41 -- KEY:	834	| TYPE:	table
-00:11:41 -- KEY:	835	| TYPE:	table
-00:11:41 -- KEY:	836	| TYPE:	table
-00:11:41 -- KEY:	837	| TYPE:	table
-00:11:41 -- KEY:	838	| TYPE:	table
-00:11:41 -- KEY:	839	| TYPE:	table
-00:11:41 -- KEY:	840	| TYPE:	table
-00:11:41 -- KEY:	841	| TYPE:	table
-00:11:41 -- KEY:	842	| TYPE:	table
-00:11:41 -- KEY:	843	| TYPE:	table
-00:11:41 -- KEY:	844	| TYPE:	table
-00:11:41 -- KEY:	845	| TYPE:	table
-00:11:41 -- KEY:	846	| TYPE:	table
-00:11:41 -- KEY:	847	| TYPE:	table
-00:11:41 -- KEY:	848	| TYPE:	table
-00:11:41 -- KEY:	849	| TYPE:	table
-00:11:41 -- KEY:	850	| TYPE:	table
-00:11:41 -- KEY:	851	| TYPE:	table
-00:11:41 -- KEY:	852	| TYPE:	table
-00:11:41 -- KEY:	853	| TYPE:	table
-00:11:41 -- KEY:	854	| TYPE:	table
-00:11:41 -- KEY:	855	| TYPE:	table
-00:11:41 -- KEY:	856	| TYPE:	table
-00:11:41 -- KEY:	857	| TYPE:	table
-00:11:41 -- KEY:	858	| TYPE:	table
-00:11:41 -- KEY:	859	| TYPE:	table
-00:11:41 -- KEY:	860	| TYPE:	table
-00:11:41 -- KEY:	861	| TYPE:	table
-00:11:41 -- KEY:	862	| TYPE:	table
-00:11:41 -- KEY:	863	| TYPE:	table
-00:11:41 -- KEY:	864	| TYPE:	table
-00:11:41 -- KEY:	865	| TYPE:	table
-00:11:41 -- KEY:	866	| TYPE:	table
-00:11:41 -- KEY:	867	| TYPE:	table
-00:11:41 -- KEY:	868	| TYPE:	table
-00:11:41 -- KEY:	869	| TYPE:	table
-00:11:41 -- KEY:	870	| TYPE:	table
-00:11:41 -- KEY:	871	| TYPE:	table
-00:11:41 -- KEY:	872	| TYPE:	table
-00:11:41 -- KEY:	873	| TYPE:	table
-00:11:41 -- KEY:	874	| TYPE:	table
-00:11:41 -- KEY:	875	| TYPE:	table
-00:11:41 -- KEY:	876	| TYPE:	table
-00:11:41 -- KEY:	877	| TYPE:	table
-00:11:41 -- KEY:	878	| TYPE:	table
-00:11:41 -- KEY:	879	| TYPE:	table
-00:11:41 -- KEY:	880	| TYPE:	table
-00:11:41 -- KEY:	881	| TYPE:	table
-00:11:41 -- KEY:	882	| TYPE:	table
-00:11:41 -- KEY:	883	| TYPE:	table
-00:11:41 -- KEY:	884	| TYPE:	table
-00:11:41 -- KEY:	885	| TYPE:	table
-00:11:41 -- KEY:	886	| TYPE:	table
-00:11:41 -- KEY:	887	| TYPE:	table
-00:11:41 -- KEY:	888	| TYPE:	table
-00:11:41 -- KEY:	889	| TYPE:	table
-00:11:41 -- KEY:	890	| TYPE:	table
-00:11:41 -- KEY:	891	| TYPE:	table
-00:11:41 -- KEY:	892	| TYPE:	table
-00:11:41 -- KEY:	893	| TYPE:	table
-00:11:41 -- KEY:	894	| TYPE:	table
-00:11:41 -- KEY:	895	| TYPE:	table
-00:11:41 -- KEY:	896	| TYPE:	table
-00:11:41 -- KEY:	897	| TYPE:	table
-00:11:41 -- KEY:	898	| TYPE:	table
-00:11:41 -- KEY:	899	| TYPE:	table
-00:11:41 -- KEY:	900	| TYPE:	table
-00:11:41 -- KEY:	901	| TYPE:	table
-00:11:41 -- KEY:	902	| TYPE:	table
-00:11:41 -- KEY:	903	| TYPE:	table
-00:11:41 -- KEY:	904	| TYPE:	table
-00:11:41 -- KEY:	905	| TYPE:	table
-00:11:41 -- KEY:	906	| TYPE:	table
-00:11:41 -- KEY:	907	| TYPE:	table
-00:11:41 -- KEY:	908	| TYPE:	table
-00:11:41 -- KEY:	909	| TYPE:	table
-00:11:41 -- KEY:	910	| TYPE:	table
-00:11:41 -- KEY:	911	| TYPE:	table
-00:11:41 -- KEY:	912	| TYPE:	table
-00:11:41 -- KEY:	913	| TYPE:	table
-00:11:41 -- KEY:	914	| TYPE:	table
-00:11:41 -- KEY:	915	| TYPE:	table
-00:11:41 -- KEY:	916	| TYPE:	table
-00:11:41 -- KEY:	917	| TYPE:	table
-00:11:41 -- KEY:	918	| TYPE:	table
-00:11:41 -- KEY:	919	| TYPE:	table
-00:11:41 -- KEY:	920	| TYPE:	table
-00:11:41 -- KEY:	921	| TYPE:	table
-00:11:41 -- KEY:	922	| TYPE:	table
-00:11:41 -- KEY:	923	| TYPE:	table
-00:11:41 -- KEY:	924	| TYPE:	table
-00:11:41 -- KEY:	925	| TYPE:	table
-00:11:41 -- KEY:	926	| TYPE:	table
-00:11:41 -- KEY:	927	| TYPE:	table
-00:11:41 -- KEY:	928	| TYPE:	table
-00:11:41 -- KEY:	929	| TYPE:	table
-00:11:41 -- KEY:	930	| TYPE:	table
-00:11:41 -- KEY:	931	| TYPE:	table
-00:11:41 -- KEY:	932	| TYPE:	table
-00:11:41 -- KEY:	933	| TYPE:	table
-00:11:41 -- KEY:	934	| TYPE:	table
-00:11:41 -- KEY:	935	| TYPE:	table
-00:11:41 -- KEY:	936	| TYPE:	table
-00:11:41 -- KEY:	937	| TYPE:	table
-00:11:41 -- KEY:	938	| TYPE:	table
-00:11:41 -- KEY:	939	| TYPE:	table
-00:11:41 -- KEY:	940	| TYPE:	table
-00:11:41 -- KEY:	941	| TYPE:	table
-00:11:41 -- KEY:	942	| TYPE:	table
-00:11:41 -- KEY:	943	| TYPE:	table
-00:11:41 -- KEY:	944	| TYPE:	table
-00:11:41 -- KEY:	945	| TYPE:	table
-00:11:41 -- KEY:	946	| TYPE:	table
-00:11:41 -- KEY:	947	| TYPE:	table
-00:11:41 -- KEY:	948	| TYPE:	table
-00:11:41 -- KEY:	949	| TYPE:	table
-00:11:41 -- KEY:	950	| TYPE:	table
-00:11:41 -- KEY:	951	| TYPE:	table
-00:11:41 -- KEY:	952	| TYPE:	table
-00:11:41 -- KEY:	953	| TYPE:	table
-00:11:41 -- KEY:	954	| TYPE:	table
-00:11:41 -- KEY:	955	| TYPE:	table
-00:11:41 -- KEY:	956	| TYPE:	table
-00:11:41 -- KEY:	957	| TYPE:	table
-00:11:41 -- KEY:	958	| TYPE:	table
-00:11:41 -- KEY:	959	| TYPE:	table
-00:11:41 -- KEY:	960	| TYPE:	table
-00:11:41 -- KEY:	961	| TYPE:	table
-00:11:41 -- KEY:	962	| TYPE:	table
-00:11:41 -- KEY:	963	| TYPE:	table
-00:11:41 -- KEY:	964	| TYPE:	table
-00:11:41 -- KEY:	965	| TYPE:	table
-00:11:41 -- KEY:	966	| TYPE:	table
-00:11:41 -- KEY:	967	| TYPE:	table
-00:11:41 -- KEY:	968	| TYPE:	table
-00:11:41 -- KEY:	969	| TYPE:	table
-00:11:41 -- KEY:	970	| TYPE:	table
-00:11:41 -- KEY:	971	| TYPE:	table
-00:11:41 -- KEY:	972	| TYPE:	table
-00:11:41 -- KEY:	973	| TYPE:	table
-00:11:41 -- KEY:	974	| TYPE:	table
-00:11:41 -- KEY:	975	| TYPE:	table
-00:11:41 -- KEY:	976	| TYPE:	table
-00:11:41 -- KEY:	977	| TYPE:	table
-00:11:41 -- KEY:	978	| TYPE:	table
-00:11:41 -- KEY:	979	| TYPE:	table
-00:11:41 -- KEY:	980	| TYPE:	table
-00:11:41 -- KEY:	981	| TYPE:	table
-00:11:41 -- KEY:	982	| TYPE:	table
-00:11:41 -- KEY:	983	| TYPE:	table
-00:11:41 -- KEY:	984	| TYPE:	table
-00:11:41 -- KEY:	985	| TYPE:	table
-00:11:41 -- KEY:	986	| TYPE:	table
-00:11:41 -- KEY:	987	| TYPE:	table
-00:11:41 -- KEY:	988	| TYPE:	table
-00:11:41 -- KEY:	989	| TYPE:	table
-00:11:41 -- KEY:	990	| TYPE:	table
-00:11:41 -- KEY:	991	| TYPE:	table
-00:11:41 -- KEY:	992	| TYPE:	table
-00:11:41 -- KEY:	993	| TYPE:	table
-00:11:41 -- KEY:	994	| TYPE:	table
-00:11:41 -- KEY:	995	| TYPE:	table
-00:11:41 -- KEY:	996	| TYPE:	table
-00:11:41 -- KEY:	997	| TYPE:	table
-00:11:41 -- KEY:	998	| TYPE:	table
-00:11:41 -- KEY:	999	| TYPE:	table
-00:11:41 -- KEY:	1000	| TYPE:	table
-00:11:41 -- KEY:	1001	| TYPE:	table
-00:11:41 -- KEY:	1002	| TYPE:	table
-00:11:41 -- KEY:	1003	| TYPE:	table
-00:11:41 -- KEY:	1004	| TYPE:	table
-00:11:41 -- KEY:	1005	| TYPE:	table
-00:11:41 -- KEY:	1006	| TYPE:	table
-00:11:41 -- KEY:	1007	| TYPE:	table
-00:11:41 -- KEY:	1008	| TYPE:	table
-00:11:41 -- KEY:	1009	| TYPE:	table
-00:11:41 -- KEY:	1010	| TYPE:	table
-00:11:41 -- KEY:	1011	| TYPE:	table
-00:11:41 -- KEY:	1012	| TYPE:	table
-00:11:41 -- KEY:	1013	| TYPE:	table
-00:11:41 -- KEY:	1014	| TYPE:	table
-00:11:41 -- KEY:	1015	| TYPE:	table
-00:11:41 -- KEY:	1016	| TYPE:	table
-00:11:41 -- KEY:	1017	| TYPE:	table
-00:11:41 -- KEY:	1018	| TYPE:	table
-00:11:41 -- KEY:	1019	| TYPE:	table
-00:11:41 -- KEY:	1020	| TYPE:	table
-00:11:41 -- KEY:	1021	| TYPE:	table
-00:11:41 -- KEY:	1022	| TYPE:	table
-00:11:41 -- KEY:	1023	| TYPE:	table
-00:11:41 -- KEY:	1024	| TYPE:	table
-00:11:41 -- KEY:	1025	| TYPE:	table
-00:11:41 -- KEY:	1026	| TYPE:	table
-00:11:41 -- KEY:	1027	| TYPE:	table
-00:11:41 -- KEY:	1028	| TYPE:	table
-00:11:41 -- KEY:	1029	| TYPE:	table
-00:11:41 -- KEY:	1030	| TYPE:	table
-00:11:41 -- KEY:	1031	| TYPE:	table
-00:11:41 -- KEY:	1032	| TYPE:	table
-00:11:41 -- KEY:	1033	| TYPE:	table
-00:11:41 -- KEY:	1034	| TYPE:	table
-00:11:41 -- KEY:	1035	| TYPE:	table
-00:11:41 -- KEY:	1036	| TYPE:	table
-00:11:41 -- KEY:	1037	| TYPE:	table
-00:11:41 -- KEY:	1038	| TYPE:	table
-00:11:41 -- KEY:	1039	| TYPE:	table
-00:11:41 -- KEY:	1040	| TYPE:	table
-00:11:41 -- KEY:	1041	| TYPE:	table
-00:11:41 -- KEY:	1042	| TYPE:	table
-00:11:41 -- KEY:	1043	| TYPE:	table
-00:11:41 -- KEY:	1044	| TYPE:	table
-00:11:41 -- KEY:	1045	| TYPE:	table
-00:11:41 -- KEY:	1046	| TYPE:	table
-00:11:41 -- KEY:	1047	| TYPE:	table
-00:11:41 -- KEY:	1048	| TYPE:	table
-00:11:41 -- KEY:	1049	| TYPE:	table
-00:11:41 -- KEY:	1050	| TYPE:	table
-00:11:41 -- KEY:	1051	| TYPE:	table
-00:11:41 -- KEY:	1052	| TYPE:	table
-00:11:41 -- KEY:	1053	| TYPE:	table
-00:11:41 -- KEY:	1054	| TYPE:	table
-00:11:41 -- KEY:	1055	| TYPE:	table
-00:11:41 -- KEY:	1056	| TYPE:	table
-00:11:41 -- KEY:	1057	| TYPE:	table
-00:11:41 -- KEY:	1058	| TYPE:	table
-00:11:41 -- KEY:	1059	| TYPE:	table
-00:11:41 -- KEY:	1060	| TYPE:	table
-00:11:41 -- KEY:	1061	| TYPE:	table
-00:11:41 -- KEY:	1062	| TYPE:	table
-00:11:41 -- KEY:	1063	| TYPE:	table
-00:11:41 -- KEY:	1064	| TYPE:	table
-00:11:41 -- KEY:	1065	| TYPE:	table
-00:11:41 -- KEY:	1066	| TYPE:	table
-00:11:41 -- KEY:	1067	| TYPE:	table
-00:11:41 -- KEY:	1068	| TYPE:	table
-00:11:41 -- KEY:	1069	| TYPE:	table
-00:11:41 -- KEY:	1070	| TYPE:	table
-00:11:41 -- KEY:	1071	| TYPE:	table
-00:11:41 -- KEY:	1072	| TYPE:	table
-00:11:41 -- KEY:	1073	| TYPE:	table
-00:11:41 -- KEY:	1074	| TYPE:	table
-00:11:41 -- KEY:	1075	| TYPE:	table
-00:11:41 -- KEY:	1076	| TYPE:	table
-00:11:41 -- KEY:	1077	| TYPE:	table
-00:11:41 -- KEY:	1078	| TYPE:	table
-00:11:41 -- KEY:	1079	| TYPE:	table
-00:11:41 -- KEY:	1080	| TYPE:	table
-00:11:41 -- KEY:	1081	| TYPE:	table
-00:11:41 -- KEY:	1082	| TYPE:	table
-00:11:41 -- KEY:	1083	| TYPE:	table
-00:11:41 -- KEY:	1084	| TYPE:	table
-00:11:41 -- KEY:	1085	| TYPE:	table
-00:11:41 -- KEY:	1086	| TYPE:	table
-00:11:41 -- KEY:	1087	| TYPE:	table
-00:11:41 -- KEY:	1088	| TYPE:	table
-00:11:41 -- KEY:	1089	| TYPE:	table
-00:11:41 -- KEY:	1090	| TYPE:	table
-00:11:41 -- KEY:	1091	| TYPE:	table
-00:11:41 -- KEY:	1092	| TYPE:	table
-00:11:41 -- KEY:	1093	| TYPE:	table
-00:11:41 -- KEY:	1094	| TYPE:	table
-00:11:41 -- KEY:	1095	| TYPE:	table
-00:11:41 -- KEY:	1096	| TYPE:	table
-00:11:41 -- KEY:	1097	| TYPE:	table
-00:11:41 -- KEY:	1098	| TYPE:	table
-00:11:41 -- KEY:	1099	| TYPE:	table
-00:11:41 -- KEY:	1100	| TYPE:	table
-00:11:41 -- KEY:	1101	| TYPE:	table
-00:11:41 -- KEY:	1102	| TYPE:	table
-00:11:41 -- KEY:	1103	| TYPE:	table
-00:11:41 -- KEY:	1104	| TYPE:	table
-00:11:41 -- KEY:	1105	| TYPE:	table
-00:11:41 -- KEY:	1106	| TYPE:	table
-00:11:41 -- KEY:	1107	| TYPE:	table
-00:11:41 -- KEY:	1108	| TYPE:	table
-00:11:41 -- KEY:	1109	| TYPE:	table
-00:11:41 -- KEY:	1110	| TYPE:	table
-00:11:41 -- KEY:	1111	| TYPE:	table
-00:11:41 -- KEY:	1112	| TYPE:	table
-00:11:41 -- KEY:	1113	| TYPE:	table
-00:11:41 -- KEY:	1114	| TYPE:	table
-00:11:41 -- KEY:	1115	| TYPE:	table
-00:11:41 -- KEY:	1116	| TYPE:	table
-00:11:41 -- KEY:	1117	| TYPE:	table
-00:11:41 -- KEY:	1118	| TYPE:	table
-00:11:41 -- KEY:	1119	| TYPE:	table
-00:11:41 -- KEY:	1120	| TYPE:	table
-00:11:41 -- KEY:	1121	| TYPE:	table
-00:11:41 -- KEY:	1122	| TYPE:	table
-00:11:41 -- KEY:	1123	| TYPE:	table
-00:11:41 -- KEY:	1124	| TYPE:	table
-00:11:41 -- KEY:	1125	| TYPE:	table
-00:11:41 -- KEY:	1126	| TYPE:	table
-00:11:41 -- KEY:	1127	| TYPE:	table
-00:11:41 -- KEY:	1128	| TYPE:	table
-00:11:41 -- KEY:	1129	| TYPE:	table
-00:11:41 -- KEY:	1130	| TYPE:	table
-00:11:41 -- KEY:	1131	| TYPE:	table
-00:11:41 -- KEY:	1132	| TYPE:	table
-00:11:41 -- KEY:	1133	| TYPE:	table
-00:11:41 -- KEY:	1134	| TYPE:	table
-00:11:41 -- KEY:	1135	| TYPE:	table
-00:11:41 -- KEY:	1136	| TYPE:	table
-00:11:41 -- KEY:	1137	| TYPE:	table
-00:11:41 -- KEY:	1138	| TYPE:	table
-00:11:41 -- KEY:	1139	| TYPE:	table
-00:11:41 -- KEY:	1140	| TYPE:	table
-00:11:41 -- KEY:	1141	| TYPE:	table
-00:11:41 -- KEY:	1142	| TYPE:	table
-00:11:41 -- KEY:	1143	| TYPE:	table
-00:11:41 -- KEY:	1144	| TYPE:	table
-00:11:41 -- KEY:	1145	| TYPE:	table
-00:11:41 -- KEY:	1146	| TYPE:	table
-00:11:41 -- KEY:	1147	| TYPE:	table
-00:11:41 -- KEY:	1148	| TYPE:	table
-00:11:41 -- KEY:	1149	| TYPE:	table
-00:11:41 -- KEY:	1150	| TYPE:	table
-00:11:41 -- KEY:	1151	| TYPE:	table
-00:11:41 -- KEY:	1152	| TYPE:	table
-00:11:41 -- KEY:	1153	| TYPE:	table
-00:11:41 -- KEY:	1154	| TYPE:	table
-00:11:41 -- KEY:	1155	| TYPE:	table
-00:11:41 -- KEY:	1156	| TYPE:	table
-00:11:41 -- KEY:	1157	| TYPE:	table
-00:11:41 -- KEY:	1158	| TYPE:	table
-00:11:41 -- KEY:	1159	| TYPE:	table
-00:11:41 -- KEY:	1160	| TYPE:	table
-00:11:41 -- KEY:	1161	| TYPE:	table
-00:11:41 -- KEY:	1162	| TYPE:	table
-00:11:41 -- KEY:	1163	| TYPE:	table
-00:11:41 -- KEY:	1164	| TYPE:	table
-00:11:41 -- KEY:	1165	| TYPE:	table
-00:11:41 -- KEY:	1166	| TYPE:	table
-00:11:41 -- KEY:	1167	| TYPE:	table
-00:11:41 -- KEY:	1168	| TYPE:	table
-00:11:41 -- KEY:	1169	| TYPE:	table
-00:11:41 -- KEY:	1170	| TYPE:	table
-00:11:41 -- KEY:	1171	| TYPE:	table
-00:11:41 -- KEY:	1172	| TYPE:	table
-00:11:41 -- KEY:	1173	| TYPE:	table
-00:11:41 -- KEY:	1174	| TYPE:	table
-00:11:41 -- KEY:	1175	| TYPE:	table
-00:11:41 -- KEY:	1176	| TYPE:	table
-00:11:41 -- KEY:	1177	| TYPE:	table
-00:11:41 -- KEY:	1178	| TYPE:	table
-00:11:41 -- KEY:	1179	| TYPE:	table
-00:11:41 -- KEY:	1180	| TYPE:	table
-00:11:41 -- KEY:	1181	| TYPE:	table
-00:11:41 -- KEY:	1182	| TYPE:	table
-00:11:41 -- KEY:	1183	| TYPE:	table
-00:11:41 -- KEY:	1184	| TYPE:	table
-00:11:41 -- KEY:	1185	| TYPE:	table
-00:11:41 -- KEY:	1186	| TYPE:	table
-00:11:41 -- KEY:	1187	| TYPE:	table
-00:11:41 -- KEY:	1188	| TYPE:	table
-00:11:41 -- KEY:	1189	| TYPE:	table
-00:11:41 -- KEY:	1190	| TYPE:	table
-00:11:41 -- ===== SELESAI =====
+[07:20:59 AM] ItemId:	508	| Value:	table: 0xb2ed0e908313aa5d {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "7",
+      "F": "0.65",
+      "TAP": "2",
+      "V": "15",
+      "X": "6",
+      "Z": "3"
+    },
+    "value": "table: 0x83c3f376d6f7e931"
+  },
+  "Cost": {
+    "keys": {
+      "C": "50",
+      "F": "25",
+      "TAP": "5",
+      "V": "100",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x925ed7702b725828"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "75",
+      "F": "25",
+      "TAP": "0",
+      "V": "125",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0xa33eb624f04819e8"
+  }
+}
+[07:20:59 AM]   	Lvl	table: 0xa33eb624f04819e8 {
+  "C": "75",
+  "F": "25",
+  "TAP": "0",
+  "V": "125",
+  "X": "50",
+  "Z": "1"
+}
+[07:20:59 AM]   	Cap	200
+[07:20:59 AM]   	Cooldown	table: 0x83c3f376d6f7e931 {
+  "C": "7",
+  "F": "0.65",
+  "TAP": "2",
+  "V": "15",
+  "X": "6",
+  "Z": "3"
+}
+[07:21:00 AM]   	Cost	table: 0x925ed7702b725828 {
+  "C": "50",
+  "F": "25",
+  "TAP": "5",
+  "V": "100",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:00 AM] ItemId:	57	| Value:	table: 0x4fdfe2c7298b7c1e {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "C": "12.5",
+      "F": "4.25",
+      "V": "16.5",
+      "X": "8",
+      "Z": "5"
+    },
+    "value": "table: 0xb064990f30f892a1"
+  },
+  "Cost": {
+    "keys": {
+      "C": "80",
+      "F": "20",
+      "V": "100",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0xa439fea39336b380"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "50",
+      "V": "300",
+      "X": "100",
+      "Z": "1"
+    },
+    "value": "table: 0x70b7a36c560447e5"
+  }
+}
+[07:21:00 AM]   	Lvl	table: 0x70b7a36c560447e5 {
+  "C": "200",
+  "F": "50",
+  "V": "300",
+  "X": "100",
+  "Z": "1"
+}
+[07:21:00 AM]   	Cap	400
+[07:21:00 AM]   	Cooldown	table: 0xb064990f30f892a1 {
+  "C": "12.5",
+  "F": "4.25",
+  "V": "16.5",
+  "X": "8",
+  "Z": "5"
+}
+[07:21:00 AM]   	Cost	table: 0xa439fea39336b380 {
+  "C": "80",
+  "F": "20",
+  "V": "100",
+  "X": "60",
+  "Z": "40"
+}
+[07:21:00 AM] ItemId:	1411	| Value:	table: 0x612b28b889fd8a4d {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "9.5",
+      "F": "5",
+      "X": "7.25",
+      "Z": "5.5"
+    },
+    "value": "table: 0x153cc6d384f68dc5"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x2a26c443473d9e88"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "90",
+      "F": "25",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0x10c3c7c88965269d"
+  }
+}
+[07:21:00 AM]   	Lvl	table: 0x10c3c7c88965269d {
+  "C": "90",
+  "F": "25",
+  "X": "50",
+  "Z": "1"
+}
+[07:21:00 AM]   	Cap	200
+[07:21:00 AM]   	Cooldown	table: 0x153cc6d384f68dc5 {
+  "C": "9.5",
+  "F": "5",
+  "X": "7.25",
+  "Z": "5.5"
+}
+[07:21:01 AM]   	Cost	table: 0x2a26c443473d9e88 {
+  "C": "35",
+  "F": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:01 AM] ItemId:	32	| Value:	table: 0x2889ee7ec695746a {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "9",
+      "F": "3",
+      "X": "6",
+      "Z": "3.5"
+    },
+    "value": "table: 0x16d450c8e10cf750"
+  },
+  "Cost": {
+    "keys": {
+      "C": "50",
+      "F": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0xbc4a06ba447a5530"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "50",
+      "F": "10",
+      "X": "20",
+      "Z": "1"
+    },
+    "value": "table: 0x70ee9e9ec5d4124f"
+  }
+}
+[07:21:01 AM]   	Lvl	table: 0x70ee9e9ec5d4124f {
+  "C": "50",
+  "F": "10",
+  "X": "20",
+  "Z": "1"
+}
+[07:21:01 AM]   	Cap	200
+[07:21:01 AM]   	Cooldown	table: 0x16d450c8e10cf750 {
+  "C": "9",
+  "F": "3",
+  "X": "6",
+  "Z": "3.5"
+}
+[07:21:01 AM]   	Cost	table: 0xbc4a06ba447a5530 {
+  "C": "50",
+  "F": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:01 AM] ItemId:	1417	| Value:	table: 0xd1e9bae1b9ea1df1 {
+  "Awakening": {
+    "keys": {
+      "Cooldown": {
+        "keys": {
+          "C": "11",
+          "F": "4.5",
+          "TAP": "0.5",
+          "V": "15",
+          "X": "8.5",
+          "Z": "6"
+        },
+        "value": "table: 0xb2ebb66acc080677"
+      },
+      "Cost": {
+        "keys": {
+          "C": "80",
+          "F": "25",
+          "TAP": "40",
+          "V": "90",
+          "X": "60",
+          "Z": "40"
+        },
+        "value": "table: 0x8eb6ca5521f6a62d"
+      },
+      "Fragments": {
+        "keys": {
+          "C": "4000",
+          "F": "2000",
+          "TAP": "4000",
+          "V": "5000",
+          "X": "3000",
+          "Z": "500"
+        },
+        "value": "table: 0x831b9d089bd8d55f"
+      }
+    },
+    "value": "table: 0xcefe2fcc9fd8bac0"
+  },
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "F": "4.5",
+      "V": "15",
+      "X": "8.5",
+      "Z": "6"
+    },
+    "value": "table: 0xc4a80f1ba90e67c9"
+  },
+  "Cost": {
+    "keys": {
+      "C": "80",
+      "F": "25",
+      "V": "90",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0x22cc1765226094f6"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "50",
+      "TAP": "1",
+      "V": "300",
+      "X": "100",
+      "Z": "1"
+    },
+    "value": "table: 0x8a319e0b2434add3"
+  }
+}
+[07:21:01 AM]   	Cap	275
+[07:21:02 AM]   	Cost	table: 0x22cc1765226094f6 {
+  "C": "80",
+  "F": "25",
+  "V": "90",
+  "X": "60",
+  "Z": "40"
+}
+[07:21:02 AM]   	Awakening	table: 0xcefe2fcc9fd8bac0 {
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "F": "4.5",
+      "TAP": "0.5",
+      "V": "15",
+      "X": "8.5",
+      "Z": "6"
+    },
+    "value": "table: 0xb2ebb66acc080677"
+  },
+  "Cost": {
+    "keys": {
+      "C": "80",
+      "F": "25",
+      "TAP": "40",
+      "V": "90",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0x8eb6ca5521f6a62d"
+  },
+  "Fragments": {
+    "keys": {
+      "C": "4000",
+      "F": "2000",
+      "TAP": "4000",
+      "V": "5000",
+      "X": "3000",
+      "Z": "500"
+    },
+    "value": "table: 0x831b9d089bd8d55f"
+  }
+}
+[07:21:02 AM]   	Cooldown	table: 0xc4a80f1ba90e67c9 {
+  "C": "11",
+  "F": "4.5",
+  "V": "15",
+  "X": "8.5",
+  "Z": "6"
+}
+[07:21:02 AM]   	Lvl	table: 0x8a319e0b2434add3 {
+  "C": "200",
+  "F": "50",
+  "TAP": "1",
+  "V": "300",
+  "X": "100",
+  "Z": "1"
+}
+[07:21:02 AM] ItemId:	1204	| Value:	table: 0xc08a12ba1044a80a {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0xea6a3414330c360a"
+  },
+  "Cost": {
+    "keys": {
+      "X": "30",
+      "Z": "20"
+    },
+    "value": "table: 0x73fe61b4e1e6a587"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "300",
+      "Z": "150"
+    },
+    "value": "table: 0x2800c322b7bfc9b3"
+  }
+}
+[07:21:02 AM]   	Lvl	table: 0x2800c322b7bfc9b3 {
+  "X": "300",
+  "Z": "150"
+}
+[07:21:02 AM]   	Cap	400
+[07:21:02 AM]   	Cooldown	table: 0xea6a3414330c360a {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:02 AM]   	Cost	table: 0x73fe61b4e1e6a587 {
+  "X": "30",
+  "Z": "20"
+}
+[07:21:02 AM] ItemId:	8	| Value:	table: 0x41606edc1e40e65a {
+  "Awakening": {
+    "keys": {
+      "Cooldown": {
+        "keys": {
+          "C": "9",
+          "F": "4",
+          "V": "16",
+          "X": "7",
+          "Z": "5"
+        },
+        "value": "table: 0x3b9c617901cc46d2"
+      },
+      "Cost": {
+        "keys": {
+          "C": "35",
+          "F": "75",
+          "V": "50",
+          "X": "25",
+          "Z": "15"
+        },
+        "value": "table: 0x4c8ee7108319f706"
+      },
+      "Fragments": {
+        "keys": {
+          "C": "4000",
+          "F": "2000",
+          "V": "5000",
+          "X": "3000",
+          "Z": "500"
+        },
+        "value": "table: 0xe86ad295b3ea851c"
+      }
+    },
+    "value": "table: 0x2a3c7693fe59709c"
+  },
+  "Cap": "300",
+  "Cooldown": {
+    "keys": {
+      "C": "9",
+      "F": "4",
+      "V": "16",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0xd68f9ae5ac5e6a22"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "75",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x7fb564eebab3a12b"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "95",
+      "F": "10",
+      "V": "140",
+      "X": "45",
+      "Z": "1"
+    },
+    "value": "table: 0x66f59b5f0c32cdb3"
+  }
+}
+[07:21:02 AM]   	Cap	300
+[07:21:03 AM]   	Cost	table: 0x7fb564eebab3a12b {
+  "C": "35",
+  "F": "75",
+  "V": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:03 AM]   	Awakening	table: 0x2a3c7693fe59709c {
+  "Cooldown": {
+    "keys": {
+      "C": "9",
+      "F": "4",
+      "V": "16",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0x3b9c617901cc46d2"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "75",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x4c8ee7108319f706"
+  },
+  "Fragments": {
+    "keys": {
+      "C": "4000",
+      "F": "2000",
+      "V": "5000",
+      "X": "3000",
+      "Z": "500"
+    },
+    "value": "table: 0xe86ad295b3ea851c"
+  }
+}
+[07:21:03 AM]   	Cooldown	table: 0xd68f9ae5ac5e6a22 {
+  "C": "9",
+  "F": "4",
+  "V": "16",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:03 AM]   	Lvl	table: 0x66f59b5f0c32cdb3 {
+  "C": "95",
+  "F": "10",
+  "V": "140",
+  "X": "45",
+  "Z": "1"
+}
+[07:21:03 AM] ItemId:	1184	| Value:	table: 0xa55d54a0f5ad30cb {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "V": "30",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0x26a0c8c701fcd0ca"
+  },
+  "Cost": {
+    "keys": {
+      "C": "55",
+      "V": "100",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0xf8cae4897710af58"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "300",
+      "V": "400",
+      "X": "200",
+      "Z": "100"
+    },
+    "value": "table: 0xccbe12774730f37f"
+  }
+}
+[07:21:03 AM]   	Lvl	table: 0xccbe12774730f37f {
+  "C": "300",
+  "V": "400",
+  "X": "200",
+  "Z": "100"
+}
+[07:21:03 AM]   	Cap	400
+[07:21:03 AM]   	Cooldown	table: 0x26a0c8c701fcd0ca {
+  "C": "11",
+  "V": "30",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:03 AM]   	Cost	table: 0xf8cae4897710af58 {
+  "C": "55",
+  "V": "100",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:03 AM] ItemId:	1145	| Value:	table: 0xd12bfec35c8a44b4 {
+  "Cap": "450",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0x20540440b2d49f37"
+  },
+  "Cost": {
+    "keys": {
+      "X": "30",
+      "Z": "20"
+    },
+    "value": "table: 0x120febf32e87f7d6"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "300",
+      "Z": "150"
+    },
+    "value": "table: 0x46d5e0e811c519c7"
+  }
+}
+[07:21:04 AM]   	Lvl	table: 0x46d5e0e811c519c7 {
+  "X": "300",
+  "Z": "150"
+}
+[07:21:04 AM]   	Cap	450
+[07:21:04 AM]   	Cooldown	table: 0x20540440b2d49f37 {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:04 AM]   	Cost	table: 0x120febf32e87f7d6 {
+  "X": "30",
+  "Z": "20"
+}
+[07:21:04 AM] ItemId:	1419	| Value:	table: 0xa985accb803b33a1 {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "2",
+      "V": "16",
+      "X": "8",
+      "Z": "6"
+    },
+    "value": "table: 0x4615446f0dd6d94c"
+  },
+  "Cost": {
+    "keys": {
+      "C": "75",
+      "F": "25",
+      "V": "100",
+      "X": "50",
+      "Z": "25"
+    },
+    "value": "table: 0x203e47e8091d8c97"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "100",
+      "F": "175",
+      "V": "250",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0x3277e2ab918d7fd1"
+  }
+}
+[07:21:04 AM]   	Lvl	table: 0x3277e2ab918d7fd1 {
+  "C": "100",
+  "F": "175",
+  "V": "250",
+  "X": "50",
+  "Z": "1"
+}
+[07:21:04 AM]   	Cap	275
+[07:21:04 AM]   	Cooldown	table: 0x4615446f0dd6d94c {
+  "C": "10",
+  "F": "2",
+  "V": "16",
+  "X": "8",
+  "Z": "6"
+}
+[07:21:04 AM]   	Cost	table: 0x203e47e8091d8c97 {
+  "C": "75",
+  "F": "25",
+  "V": "100",
+  "X": "50",
+  "Z": "25"
+}
+[07:21:04 AM] ItemId:	1423	| Value:	table: 0xfca6d353111c6e9b {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "6",
+      "V": "2",
+      "X": "8",
+      "Z": "6"
+    },
+    "value": "table: 0xc4e0ed074963ba17"
+  },
+  "Cost": {
+    "keys": {
+      "C": "80",
+      "F": "60",
+      "V": "20",
+      "X": "40",
+      "Z": "20"
+    },
+    "value": "table: 0x074ec6fad30a1347"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "100",
+      "F": "200",
+      "V": "300",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0x915c7338ce2281a5"
+  }
+}
+[07:21:04 AM]   	Lvl	table: 0x915c7338ce2281a5 {
+  "C": "100",
+  "F": "200",
+  "V": "300",
+  "X": "50",
+  "Z": "1"
+}
+[07:21:04 AM]   	Cap	275
+[07:21:05 AM]   	Cooldown	table: 0xc4e0ed074963ba17 {
+  "C": "10",
+  "F": "6",
+  "V": "2",
+  "X": "8",
+  "Z": "6"
+}
+[07:21:05 AM]   	Cost	table: 0x074ec6fad30a1347 {
+  "C": "80",
+  "F": "60",
+  "V": "20",
+  "X": "40",
+  "Z": "20"
+}
+[07:21:05 AM] ItemId:	458	| Value:	table: 0x2c4db514c40b9dea {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "F": "5",
+      "TAP": "2.5",
+      "V": "16",
+      "X": "12.5",
+      "Z": "5"
+    },
+    "value": "table: 0xb725581326270eae"
+  },
+  "Cost": {
+    "keys": {
+      "C": "100",
+      "F": "25",
+      "TAP": "0",
+      "V": "100",
+      "X": "50",
+      "Z": "15"
+    },
+    "value": "table: 0x1bac9275ffe75aea"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "100",
+      "TAP": "1",
+      "V": "300",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0xc362a736bb939522"
+  }
+}
+[07:21:05 AM]   	Lvl	table: 0xc362a736bb939522 {
+  "C": "200",
+  "F": "100",
+  "TAP": "1",
+  "V": "300",
+  "X": "50",
+  "Z": "1"
+}
+[07:21:05 AM]   	Cap	200
+[07:21:05 AM]   	Cooldown	table: 0xb725581326270eae {
+  "C": "11",
+  "F": "5",
+  "TAP": "2.5",
+  "V": "16",
+  "X": "12.5",
+  "Z": "5"
+}
+[07:21:05 AM]   	Cost	table: 0x1bac9275ffe75aea {
+  "C": "100",
+  "F": "25",
+  "TAP": "0",
+  "V": "100",
+  "X": "50",
+  "Z": "15"
+}
+[07:21:05 AM] ItemId:	1240	| Value:	table: 0x94639728463591a9 {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0xdf5d319cfe4a9859"
+  },
+  "Cost": {
+    "keys": {
+      "C": "75",
+      "X": "35",
+      "Z": "25"
+    },
+    "value": "table: 0x58a5fb33e013aa55"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "350",
+      "X": "250",
+      "Z": "125"
+    },
+    "value": "table: 0xd2937ac781879f88"
+  }
+}
+[07:21:05 AM]   	Lvl	table: 0xd2937ac781879f88 {
+  "C": "350",
+  "X": "250",
+  "Z": "125"
+}
+[07:21:05 AM]   	Cap	275
+[07:21:05 AM]   	Cooldown	table: 0xdf5d319cfe4a9859 {
+  "C": "11",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:06 AM]   	Cost	table: 0x58a5fb33e013aa55 {
+  "C": "75",
+  "X": "35",
+  "Z": "25"
+}
+[07:21:06 AM] ItemId:	1406	| Value:	table: 0x4ae896eb72ed6204 {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "C": "12.5",
+      "F": "4.25",
+      "V": "16.5",
+      "X": "8",
+      "Z": "5"
+    },
+    "value": "table: 0xcd26da27e0047e7b"
+  },
+  "Cost": {
+    "keys": {
+      "C": "80",
+      "F": "20",
+      "V": "100",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0x25e4650fa155cb21"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "50",
+      "V": "300",
+      "X": "100",
+      "Z": "1"
+    },
+    "value": "table: 0x1292cf88d6202c41"
+  }
+}
+[07:21:06 AM]   	Lvl	table: 0x1292cf88d6202c41 {
+  "C": "200",
+  "F": "50",
+  "V": "300",
+  "X": "100",
+  "Z": "1"
+}
+[07:21:06 AM]   	Cap	400
+[07:21:06 AM]   	Cooldown	table: 0xcd26da27e0047e7b {
+  "C": "12.5",
+  "F": "4.25",
+  "V": "16.5",
+  "X": "8",
+  "Z": "5"
+}
+[07:21:06 AM]   	Cost	table: 0x25e4650fa155cb21 {
+  "C": "80",
+  "F": "20",
+  "V": "100",
+  "X": "60",
+  "Z": "40"
+}
+[07:21:06 AM] ItemId:	1157	| Value:	table: 0xd48a09918f7eb026 {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "X": "10.5",
+      "Z": "6.5"
+    },
+    "value": "table: 0x87cd3ab2dd4c3c61"
+  },
+  "Cost": {
+    "keys": {
+      "X": "60",
+      "Z": "30"
+    },
+    "value": "table: 0xabf70535397b0732"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "200",
+      "Z": "100"
+    },
+    "value": "table: 0x9401a6fff02efe23"
+  }
+}
+[07:21:06 AM]   	Lvl	table: 0x9401a6fff02efe23 {
+  "X": "200",
+  "Z": "100"
+}
+[07:21:06 AM]   	Cap	400
+[07:21:06 AM]   	Cooldown	table: 0x87cd3ab2dd4c3c61 {
+  "X": "10.5",
+  "Z": "6.5"
+}
+[07:21:06 AM]   	Cost	table: 0xabf70535397b0732 {
+  "X": "60",
+  "Z": "30"
+}
+[07:21:06 AM] ItemId:	1233	| Value:	table: 0x1f7e29cfa1accfd8 {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0x49add00a5985bf8c"
+  },
+  "Cost": {
+    "keys": {
+      "X": "40",
+      "Z": "20"
+    },
+    "value": "table: 0x5ae2cbffb4a3c634"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "300",
+      "Z": "150"
+    },
+    "value": "table: 0xd7868326069df1be"
+  }
+}
+[07:21:07 AM]   	Lvl	table: 0xd7868326069df1be {
+  "X": "300",
+  "Z": "150"
+}
+[07:21:07 AM]   	Cap	275
+[07:21:07 AM]   	Cooldown	table: 0x49add00a5985bf8c {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:07 AM]   	Cost	table: 0x5ae2cbffb4a3c634 {
+  "X": "40",
+  "Z": "20"
+}
+[07:21:07 AM] ItemId:	184	| Value:	table: 0xa638e24fbfc3d81d {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "F": "4",
+      "V": "18",
+      "X": "8.5",
+      "Z": "5.5"
+    },
+    "value": "table: 0x589649608cf6fbc0"
+  },
+  "Cost": {
+    "keys": {
+      "C": "80",
+      "F": "60",
+      "V": "100",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0xe82a549c6272e10b"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "160",
+      "F": "40",
+      "V": "250",
+      "X": "90",
+      "Z": "1"
+    },
+    "value": "table: 0x2eb38c3cb343653e"
+  }
+}
+[07:21:07 AM]   	Lvl	table: 0x2eb38c3cb343653e {
+  "C": "160",
+  "F": "40",
+  "V": "250",
+  "X": "90",
+  "Z": "1"
+}
+[07:21:07 AM]   	Cap	275
+[07:21:07 AM]   	Cooldown	table: 0x589649608cf6fbc0 {
+  "C": "11",
+  "F": "4",
+  "V": "18",
+  "X": "8.5",
+  "Z": "5.5"
+}
+[07:21:07 AM]   	Cost	table: 0xe82a549c6272e10b {
+  "C": "80",
+  "F": "60",
+  "V": "100",
+  "X": "60",
+  "Z": "40"
+}
+[07:21:07 AM] ItemId:	1427	| Value:	table: 0x2c5abdb71358459a {
+  "Cap": "375",
+  "Cooldown": {
+    "keys": {
+      "C": "12",
+      "F": "0",
+      "TAP": "0.1",
+      "V": "28.5",
+      "X": "8",
+      "Z": "0"
+    },
+    "value": "table: 0x77acc78e5fd7c56b"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "30",
+      "TAP": "0",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0xbc83817547ddd01a"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "160",
+      "F": "30",
+      "TAP": "0",
+      "V": "250",
+      "X": "90",
+      "Z": "1"
+    },
+    "value": "table: 0x49548c7e2a5925e9"
+  }
+}
+[07:21:07 AM]   	Lvl	table: 0x49548c7e2a5925e9 {
+  "C": "160",
+  "F": "30",
+  "TAP": "0",
+  "V": "250",
+  "X": "90",
+  "Z": "1"
+}
+[07:21:07 AM]   	Cap	375
+[07:21:08 AM]   	Cooldown	table: 0x77acc78e5fd7c56b {
+  "C": "12",
+  "F": "0",
+  "TAP": "0.1",
+  "V": "28.5",
+  "X": "8",
+  "Z": "0"
+}
+[07:21:08 AM]   	Cost	table: 0xbc83817547ddd01a {
+  "C": "35",
+  "F": "30",
+  "TAP": "0",
+  "V": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:08 AM] ItemId:	1100	| Value:	table: 0x2f6d836a1dde97eb {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "X": "8",
+      "Z": "5"
+    },
+    "value": "table: 0x4a1642898292f670"
+  },
+  "Cost": {
+    "keys": {
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0xadb056ef9ec972fc"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "60",
+      "Z": "20"
+    },
+    "value": "table: 0xeed5be1f9d0313fd"
+  }
+}
+[07:21:08 AM]   	Lvl	table: 0xeed5be1f9d0313fd {
+  "X": "60",
+  "Z": "20"
+}
+[07:21:08 AM]   	Cap	200
+[07:21:08 AM]   	Cooldown	table: 0x4a1642898292f670 {
+  "X": "8",
+  "Z": "5"
+}
+[07:21:08 AM]   	Cost	table: 0xadb056ef9ec972fc {
+  "X": "25",
+  "Z": "15"
+}
+[07:21:08 AM] ItemId:	1105	| Value:	table: 0x26e21debb25a6342 {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "X": "8",
+      "Z": "5"
+    },
+    "value": "table: 0xd53fc000f50678cc"
+  },
+  "Cost": {
+    "keys": {
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x23a32ade6942c8bb"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "60",
+      "Z": "10"
+    },
+    "value": "table: 0x5166c314f31d6a4a"
+  }
+}
+[07:21:08 AM]   	Lvl	table: 0x5166c314f31d6a4a {
+  "X": "60",
+  "Z": "10"
+}
+[07:21:08 AM]   	Cap	200
+[07:21:08 AM]   	Cooldown	table: 0xd53fc000f50678cc {
+  "X": "8",
+  "Z": "5"
+}
+[07:21:08 AM]   	Cost	table: 0x23a32ade6942c8bb {
+  "X": "25",
+  "Z": "15"
+}
+[07:21:08 AM] ItemId:	1524	| Value:	table: 0x0e2efd2775265a07 {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "2.5",
+      "V": "15",
+      "X": "7.5",
+      "Z": "5"
+    },
+    "value": "table: 0xeebaaaa372f397af"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "50",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x3e2fa6e38ef91a3b"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "100",
+      "F": "75",
+      "V": "150",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0x2560ac85b5d30755"
+  }
+}
+[07:21:09 AM]   	Lvl	table: 0x2560ac85b5d30755 {
+  "C": "100",
+  "F": "75",
+  "V": "150",
+  "X": "50",
+  "Z": "1"
+}
+[07:21:09 AM]   	Cap	200
+[07:21:09 AM]   	Cooldown	table: 0xeebaaaa372f397af {
+  "C": "10",
+  "F": "2.5",
+  "V": "15",
+  "X": "7.5",
+  "Z": "5"
+}
+[07:21:09 AM]   	Cost	table: 0x3e2fa6e38ef91a3b {
+  "C": "35",
+  "F": "50",
+  "V": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:09 AM] ItemId:	95	| Value:	table: 0x846f9a09c58ad7f5 {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "5",
+      "TAP": "0.875",
+      "V": "20",
+      "X": "10",
+      "Z": "1"
+    },
+    "value": "table: 0x56755555a84bf60e"
+  },
+  "Cost": {
+    "keys": {
+      "C": "100",
+      "F": "50",
+      "TAP": "0",
+      "V": "10",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0x23ecfffcb6a0e959"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "250",
+      "F": "75",
+      "TAP": "0",
+      "V": "350",
+      "X": "150",
+      "Z": "1"
+    },
+    "value": "table: 0xa5200d23d521e98c"
+  }
+}
+[07:21:09 AM]   	Lvl	table: 0xa5200d23d521e98c {
+  "C": "250",
+  "F": "75",
+  "TAP": "0",
+  "V": "350",
+  "X": "150",
+  "Z": "1"
+}
+[07:21:09 AM]   	Cap	275
+[07:21:09 AM]   	Cooldown	table: 0x56755555a84bf60e {
+  "C": "10",
+  "F": "5",
+  "TAP": "0.875",
+  "V": "20",
+  "X": "10",
+  "Z": "1"
+}
+[07:21:09 AM]   	Cost	table: 0x23ecfffcb6a0e959 {
+  "C": "100",
+  "F": "50",
+  "TAP": "0",
+  "V": "10",
+  "X": "60",
+  "Z": "40"
+}
+[07:21:09 AM] ItemId:	1169	| Value:	table: 0x70e46ab40d056f9a {
+  "Cap": "350",
+  "Cooldown": {
+    "keys": {
+      "X": "8",
+      "Z": "6"
+    },
+    "value": "table: 0x9098488e5c7f5011"
+  },
+  "Cost": {
+    "keys": {
+      "X": "60",
+      "Z": "30"
+    },
+    "value": "table: 0x29bd404f54f80abc"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "300",
+      "Z": "150"
+    },
+    "value": "table: 0x8a24371e478c48b0"
+  }
+}
+[07:21:09 AM]   	Lvl	table: 0x8a24371e478c48b0 {
+  "X": "300",
+  "Z": "150"
+}
+[07:21:09 AM]   	Cap	350
+[07:21:10 AM]   	Cooldown	table: 0x9098488e5c7f5011 {
+  "X": "8",
+  "Z": "6"
+}
+[07:21:10 AM]   	Cost	table: 0x29bd404f54f80abc {
+  "X": "60",
+  "Z": "30"
+}
+[07:21:10 AM] ItemId:	471	| Value:	table: 0x2d35a2cac3da48db {
+  "Cap": "325",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "TAP": "0.8",
+      "V": "14",
+      "X": "8",
+      "Z": "4"
+    },
+    "value": "table: 0xc691e11e5a09d902"
+  },
+  "Cost": {
+    "keys": {
+      "C": "30",
+      "TAP": "25",
+      "V": "60",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x503436f828d6d51d"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "80",
+      "TAP": "1",
+      "V": "110",
+      "X": "1",
+      "Z": "1"
+    },
+    "value": "table: 0xd3fd8958639c5f79"
+  }
+}
+[07:21:10 AM]   	Lvl	table: 0xd3fd8958639c5f79 {
+  "C": "80",
+  "TAP": "1",
+  "V": "110",
+  "X": "1",
+  "Z": "1"
+}
+[07:21:10 AM]   	Cap	325
+[07:21:10 AM]   	Cooldown	table: 0xc691e11e5a09d902 {
+  "C": "10",
+  "TAP": "0.8",
+  "V": "14",
+  "X": "8",
+  "Z": "4"
+}
+[07:21:10 AM]   	Cost	table: 0x503436f828d6d51d {
+  "C": "30",
+  "TAP": "25",
+  "V": "60",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:10 AM] ItemId:	540	| Value:	table: 0xa18193946a7946ea {
+  "Cap": "375",
+  "Cooldown": {
+    "keys": {
+      "C": "12",
+      "F": "0",
+      "TAP": "0.1",
+      "V": "28.5",
+      "X": "8",
+      "Z": "0"
+    },
+    "value": "table: 0x6bcc40259ae89ed2"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "30",
+      "TAP": "0",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x6fc742c167f44377"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "160",
+      "F": "30",
+      "TAP": "0",
+      "V": "250",
+      "X": "90",
+      "Z": "1"
+    },
+    "value": "table: 0xbeacc2f914887f99"
+  }
+}
+[07:21:10 AM]   	Lvl	table: 0xbeacc2f914887f99 {
+  "C": "160",
+  "F": "30",
+  "TAP": "0",
+  "V": "250",
+  "X": "90",
+  "Z": "1"
+}
+[07:21:10 AM]   	Cap	375
+[07:21:10 AM]   	Cooldown	table: 0x6bcc40259ae89ed2 {
+  "C": "12",
+  "F": "0",
+  "TAP": "0.1",
+  "V": "28.5",
+  "X": "8",
+  "Z": "0"
+}
+[07:21:10 AM]   	Cost	table: 0x6fc742c167f44377 {
+  "C": "35",
+  "F": "30",
+  "TAP": "0",
+  "V": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:10 AM] ItemId:	208	| Value:	table: 0x365f1f03ef50d1ea {
+  "Cap": "325",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "TAP": "0.8",
+      "V": "14",
+      "X": "8",
+      "Z": "4"
+    },
+    "value": "table: 0x665770cb31055963"
+  },
+  "Cost": {
+    "keys": {
+      "C": "30",
+      "TAP": "25",
+      "V": "60",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x206f2dd1e3efbc92"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "80",
+      "TAP": "1",
+      "V": "110",
+      "X": "1",
+      "Z": "1"
+    },
+    "value": "table: 0x028bbf99c7cf2738"
+  }
+}
+[07:21:11 AM]   	Lvl	table: 0x028bbf99c7cf2738 {
+  "C": "80",
+  "TAP": "1",
+  "V": "110",
+  "X": "1",
+  "Z": "1"
+}
+[07:21:11 AM]   	Cap	325
+[07:21:11 AM]   	Cooldown	table: 0x665770cb31055963 {
+  "C": "10",
+  "TAP": "0.8",
+  "V": "14",
+  "X": "8",
+  "Z": "4"
+}
+[07:21:11 AM]   	Cost	table: 0x206f2dd1e3efbc92 {
+  "C": "30",
+  "TAP": "25",
+  "V": "60",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:11 AM] ItemId:	1132	| Value:	table: 0x70bacd592aad39fd {
+  "Cap": "350",
+  "Cooldown": {
+    "keys": {
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0xae3b10e57fb22d87"
+  },
+  "Cost": {
+    "keys": {
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x100c93e6530d5622"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "180",
+      "Z": "80"
+    },
+    "value": "table: 0xd320b38138492b74"
+  }
+}
+[07:21:11 AM]   	Lvl	table: 0xd320b38138492b74 {
+  "X": "180",
+  "Z": "80"
+}
+[07:21:11 AM]   	Cap	350
+[07:21:11 AM]   	Cooldown	table: 0xae3b10e57fb22d87 {
+  "X": "7",
+  "Z": "5"
+}
+[07:21:11 AM]   	Cost	table: 0x100c93e6530d5622 {
+  "X": "25",
+  "Z": "15"
+}
+[07:21:11 AM] ItemId:	1426	| Value:	table: 0x627a6a02c5d01671 {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "0.75",
+      "TAP": "2",
+      "V": "16",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0x215a70fa49dd4daf"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "5",
+      "TAP": "10",
+      "V": "70",
+      "X": "25",
+      "Z": "25"
+    },
+    "value": "table: 0x3f1794e43ea46b6c"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "90",
+      "F": "10",
+      "TAP": "1",
+      "V": "130",
+      "X": "45",
+      "Z": "1"
+    },
+    "value": "table: 0x3ae8af0b106af32d"
+  }
+}
+[07:21:11 AM]   	Lvl	table: 0x3ae8af0b106af32d {
+  "C": "90",
+  "F": "10",
+  "TAP": "1",
+  "V": "130",
+  "X": "45",
+  "Z": "1"
+}
+[07:21:12 AM]   	Cap	275
+[07:21:12 AM]   	Cooldown	table: 0x215a70fa49dd4daf {
+  "C": "10",
+  "F": "0.75",
+  "TAP": "2",
+  "V": "16",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:12 AM]   	Cost	table: 0x3f1794e43ea46b6c {
+  "C": "35",
+  "F": "5",
+  "TAP": "10",
+  "V": "70",
+  "X": "25",
+  "Z": "25"
+}
+[07:21:12 AM] ItemId:	448	| Value:	table: 0x41309e2f7498450c {
+  "Cap": "375",
+  "Cooldown": {
+    "keys": {
+      "C": "12",
+      "F": "0",
+      "TAP": "0.1",
+      "V": "28.5",
+      "X": "8",
+      "Z": "0"
+    },
+    "value": "table: 0x75f64c7694faf447"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "30",
+      "TAP": "0",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x9e43e3c9d4fa841c"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "160",
+      "F": "30",
+      "TAP": "0",
+      "V": "250",
+      "X": "90",
+      "Z": "1"
+    },
+    "value": "table: 0x8f0742aafbb92e4c"
+  }
+}
+[07:21:12 AM]   	Lvl	table: 0x8f0742aafbb92e4c {
+  "C": "160",
+  "F": "30",
+  "TAP": "0",
+  "V": "250",
+  "X": "90",
+  "Z": "1"
+}
+[07:21:12 AM]   	Cap	375
+[07:21:12 AM]   	Cooldown	table: 0x75f64c7694faf447 {
+  "C": "12",
+  "F": "0",
+  "TAP": "0.1",
+  "V": "28.5",
+  "X": "8",
+  "Z": "0"
+}
+[07:21:12 AM]   	Cost	table: 0x9e43e3c9d4fa841c {
+  "C": "35",
+  "F": "30",
+  "TAP": "0",
+  "V": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:12 AM] ItemId:	3	| Value:	table: 0xdf196a223fb4a52a {
+  "Awakening": {
+    "keys": {
+      "Cooldown": {
+        "keys": {
+          "C": "11.5",
+          "V": "19",
+          "X": "8.5",
+          "Z": "6.66"
+        },
+        "value": "table: 0x3d9bb328f3ebb4f5"
+      },
+      "Cost": {
+        "keys": {
+          "C": "35",
+          "V": "50",
+          "X": "25",
+          "Z": "15"
+        },
+        "value": "table: 0x664b63d108cde94f"
+      },
+      "Fragments": {
+        "keys": {
+          "C": "5000",
+          "V": "8000",
+          "X": "3000",
+          "Z": "1000"
+        },
+        "value": "table: 0xfab5250e59523208"
+      }
+    },
+    "value": "table: 0xd62132a16042d9f7"
+  },
+  "Cap": "300",
+  "Cooldown": {
+    "keys": {
+      "C": "12",
+      "V": "21",
+      "X": "9",
+      "Z": "7"
+    },
+    "value": "table: 0xec49cf2ec583caa7"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0xd93c51e73f4b0cc2"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "100",
+      "V": "150",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0xe1ea07aa528d4445"
+  }
+}
+[07:21:12 AM]   	Cap	300
+[07:21:12 AM]   	Cost	table: 0xd93c51e73f4b0cc2 {
+  "C": "35",
+  "V": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:12 AM]   	Awakening	table: 0xd62132a16042d9f7 {
+  "Cooldown": {
+    "keys": {
+      "C": "11.5",
+      "V": "19",
+      "X": "8.5",
+      "Z": "6.66"
+    },
+    "value": "table: 0x3d9bb328f3ebb4f5"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x664b63d108cde94f"
+  },
+  "Fragments": {
+    "keys": {
+      "C": "5000",
+      "V": "8000",
+      "X": "3000",
+      "Z": "1000"
+    },
+    "value": "table: 0xfab5250e59523208"
+  }
+}
+[07:21:13 AM]   	Cooldown	table: 0xec49cf2ec583caa7 {
+  "C": "12",
+  "V": "21",
+  "X": "9",
+  "Z": "7"
+}
+[07:21:13 AM]   	Lvl	table: 0xe1ea07aa528d4445 {
+  "C": "100",
+  "V": "150",
+  "X": "50",
+  "Z": "1"
+}
+[07:21:13 AM] ItemId:	4	| Value:	table: 0xc3ce359bdc24fd61 {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "9.5",
+      "F": "5",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0xabbe794f58575c46"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "35",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0xee8b74646ba866bc"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "50",
+      "F": "75",
+      "X": "20",
+      "Z": "1"
+    },
+    "value": "table: 0x8245ea34396784f6"
+  }
+}
+[07:21:13 AM]   	Lvl	table: 0x8245ea34396784f6 {
+  "C": "50",
+  "F": "75",
+  "X": "20",
+  "Z": "1"
+}
+[07:21:13 AM]   	Cap	200
+[07:21:13 AM]   	Cooldown	table: 0xabbe794f58575c46 {
+  "C": "9.5",
+  "F": "5",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:13 AM]   	Cost	table: 0xee8b74646ba866bc {
+  "C": "35",
+  "F": "35",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:13 AM] ItemId:	450	| Value:	table: 0xc77779b6869d574f {
+  "Cap": "375",
+  "Cooldown": {
+    "keys": {
+      "C": "12",
+      "F": "0",
+      "TAP": "0.1",
+      "V": "28.5",
+      "X": "8",
+      "Z": "0"
+    },
+    "value": "table: 0xa2db056594b83238"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "30",
+      "TAP": "0",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x01ccc406f34a8dfc"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "160",
+      "F": "30",
+      "TAP": "0",
+      "V": "250",
+      "X": "90",
+      "Z": "1"
+    },
+    "value": "table: 0xc7e5232ad0d96694"
+  }
+}
+[07:21:13 AM]   	Lvl	table: 0xc7e5232ad0d96694 {
+  "C": "160",
+  "F": "30",
+  "TAP": "0",
+  "V": "250",
+  "X": "90",
+  "Z": "1"
+}
+[07:21:13 AM]   	Cap	375
+[07:21:13 AM]   	Cooldown	table: 0xa2db056594b83238 {
+  "C": "12",
+  "F": "0",
+  "TAP": "0.1",
+  "V": "28.5",
+  "X": "8",
+  "Z": "0"
+}
+[07:21:14 AM]   	Cost	table: 0x01ccc406f34a8dfc {
+  "C": "35",
+  "F": "30",
+  "TAP": "0",
+  "V": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:14 AM] ItemId:	1162	| Value:	table: 0xa4035556f98db98f {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0xb6ab898e38d9f964"
+  },
+  "Cost": {
+    "keys": {
+      "C": "75",
+      "X": "35",
+      "Z": "25"
+    },
+    "value": "table: 0xa0882cfe1379e1f6"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "330",
+      "X": "220",
+      "Z": "110"
+    },
+    "value": "table: 0x2a24f431fbbd599b"
+  }
+}
+[07:21:14 AM]   	Lvl	table: 0x2a24f431fbbd599b {
+  "C": "330",
+  "X": "220",
+  "Z": "110"
+}
+[07:21:14 AM]   	Cap	275
+[07:21:14 AM]   	Cooldown	table: 0xb6ab898e38d9f964 {
+  "C": "11",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:14 AM]   	Cost	table: 0xa0882cfe1379e1f6 {
+  "C": "75",
+  "X": "35",
+  "Z": "25"
+}
+[07:21:14 AM] ItemId:	1252	| Value:	table: 0x2f755d5c8b16ea4d {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0xd8acd57cd89f42ae"
+  },
+  "Cost": {
+    "keys": {
+      "X": "60",
+      "Z": "30"
+    },
+    "value": "table: 0xa5e37dfd756aed34"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "350",
+      "Z": "150"
+    },
+    "value": "table: 0x1f948a5de99c8377"
+  }
+}
+[07:21:14 AM]   	Lvl	table: 0x1f948a5de99c8377 {
+  "X": "350",
+  "Z": "150"
+}
+[07:21:14 AM]   	Cap	275
+[07:21:14 AM]   	Cooldown	table: 0xd8acd57cd89f42ae {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:14 AM]   	Cost	table: 0xa5e37dfd756aed34 {
+  "X": "60",
+  "Z": "30"
+}
+[07:21:14 AM] ItemId:	1185	| Value:	table: 0x8e8362807235902f {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0xe37d0a8c7f146aea"
+  },
+  "Cost": {
+    "keys": {
+      "X": "30",
+      "Z": "20"
+    },
+    "value": "table: 0xf3702f1071d37ab1"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "350",
+      "Z": "150"
+    },
+    "value": "table: 0xf6c24b87fe8f8e93"
+  }
+}
+[07:21:15 AM]   	Lvl	table: 0xf6c24b87fe8f8e93 {
+  "X": "350",
+  "Z": "150"
+}
+[07:21:15 AM]   	Cap	400
+[07:21:15 AM]   	Cooldown	table: 0xe37d0a8c7f146aea {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:15 AM]   	Cost	table: 0xf3702f1071d37ab1 {
+  "X": "30",
+  "Z": "20"
+}
+[07:21:15 AM] ItemId:	1106	| Value:	table: 0xc551e12658005754 {
+  "Cap": "50",
+  "Cooldown": {
+    "keys": {
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0xb2e7971f722780fb"
+  },
+  "Cost": {
+    "keys": {
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x2818a6aa07b8de7e"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "20",
+      "Z": "1"
+    },
+    "value": "table: 0x277ffa3a45f931c2"
+  }
+}
+[07:21:15 AM]   	Lvl	table: 0x277ffa3a45f931c2 {
+  "X": "20",
+  "Z": "1"
+}
+[07:21:15 AM]   	Cap	50
+[07:21:15 AM]   	Cooldown	table: 0xb2e7971f722780fb {
+  "X": "7",
+  "Z": "5"
+}
+[07:21:15 AM]   	Cost	table: 0x2818a6aa07b8de7e {
+  "X": "25",
+  "Z": "15"
+}
+[07:21:15 AM] ItemId:	31	| Value:	table: 0xda83017debcc787c {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "8",
+      "F": "3",
+      "X": "6",
+      "Z": "2.5"
+    },
+    "value": "table: 0x25b0e429a487f423"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "35",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0xb12889cfba8a148f"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "50",
+      "F": "80",
+      "X": "20",
+      "Z": "1"
+    },
+    "value": "table: 0x9110f93abf59b74d"
+  }
+}
+[07:21:15 AM]   	Lvl	table: 0x9110f93abf59b74d {
+  "C": "50",
+  "F": "80",
+  "X": "20",
+  "Z": "1"
+}
+[07:21:15 AM]   	Cap	200
+[07:21:16 AM]   	Cooldown	table: 0x25b0e429a487f423 {
+  "C": "8",
+  "F": "3",
+  "X": "6",
+  "Z": "2.5"
+}
+[07:21:16 AM]   	Cost	table: 0xb12889cfba8a148f {
+  "C": "35",
+  "F": "35",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:16 AM] ItemId:	1177	| Value:	table: 0xd4a0627a2b99d9a2 {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0x9c7fbebb3170309d"
+  },
+  "Cost": {
+    "keys": {
+      "X": "60",
+      "Z": "30"
+    },
+    "value": "table: 0xde13a8a34a95fd58"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "325",
+      "Z": "150"
+    },
+    "value": "table: 0x69a11aeb46203570"
+  }
+}
+[07:21:16 AM]   	Lvl	table: 0x69a11aeb46203570 {
+  "X": "325",
+  "Z": "150"
+}
+[07:21:16 AM]   	Cap	400
+[07:21:16 AM]   	Cooldown	table: 0x9c7fbebb3170309d {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:16 AM]   	Cost	table: 0xde13a8a34a95fd58 {
+  "X": "60",
+  "Z": "30"
+}
+[07:21:16 AM] ItemId:	1224	| Value:	table: 0xf513df7cf79a6998 {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0x230ec6d9f03e3f1a"
+  },
+  "Cost": {
+    "keys": {
+      "X": "40",
+      "Z": "20"
+    },
+    "value": "table: 0xbded4a9bcd3b6622"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "300",
+      "Z": "150"
+    },
+    "value": "table: 0xd09e0068d491a60a"
+  }
+}
+[07:21:16 AM]   	Lvl	table: 0xd09e0068d491a60a {
+  "X": "300",
+  "Z": "150"
+}
+[07:21:16 AM]   	Cap	275
+[07:21:16 AM]   	Cooldown	table: 0x230ec6d9f03e3f1a {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:16 AM]   	Cost	table: 0xbded4a9bcd3b6622 {
+  "X": "40",
+  "Z": "20"
+}
+[07:21:17 AM] ItemId:	1404	| Value:	table: 0xeedf550b0ca11547 {
+  "Awakening": {
+    "keys": {
+      "Cooldown": {
+        "keys": {
+          "C": "10",
+          "F": "10",
+          "V": "17.5",
+          "X": "7",
+          "Z": "5"
+        },
+        "value": "table: 0x16cb6a6b6037312c"
+      },
+      "Cost": {
+        "keys": {
+          "C": "35",
+          "F": "80",
+          "V": "60",
+          "X": "25",
+          "Z": "20"
+        },
+        "value": "table: 0xfdaa524b419a4ae6"
+      },
+      "Fragments": {
+        "keys": {
+          "C": "4000",
+          "F": "2000",
+          "V": "5000",
+          "X": "3000",
+          "Z": "500"
+        },
+        "value": "table: 0x7455865196d0f4b8"
+      }
+    },
+    "value": "table: 0x6bc3d38f49199478"
+  },
+  "Cap": "250",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "10",
+      "V": "17.5",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0xe690bdc40cbeb756"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "80",
+      "V": "60",
+      "X": "25",
+      "Z": "20"
+    },
+    "value": "table: 0x8a528dcfed6f3f32"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "80",
+      "F": "15",
+      "V": "120",
+      "X": "40",
+      "Z": "1"
+    },
+    "value": "table: 0xcd0d3f3f25537a76"
+  }
+}
+[07:21:17 AM]   	Cap	250
+[07:21:17 AM]   	Cost	table: 0x8a528dcfed6f3f32 {
+  "C": "35",
+  "F": "80",
+  "V": "60",
+  "X": "25",
+  "Z": "20"
+}
+[07:21:17 AM]   	Awakening	table: 0x6bc3d38f49199478 {
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "10",
+      "V": "17.5",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0x16cb6a6b6037312c"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "80",
+      "V": "60",
+      "X": "25",
+      "Z": "20"
+    },
+    "value": "table: 0xfdaa524b419a4ae6"
+  },
+  "Fragments": {
+    "keys": {
+      "C": "4000",
+      "F": "2000",
+      "V": "5000",
+      "X": "3000",
+      "Z": "500"
+    },
+    "value": "table: 0x7455865196d0f4b8"
+  }
+}
+[07:21:17 AM]   	Cooldown	table: 0xe690bdc40cbeb756 {
+  "C": "10",
+  "F": "10",
+  "V": "17.5",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:17 AM]   	Lvl	table: 0xcd0d3f3f25537a76 {
+  "C": "80",
+  "F": "15",
+  "V": "120",
+  "X": "40",
+  "Z": "1"
+}
+[07:21:17 AM] ItemId:	254	| Value:	table: 0xd93169eaa35ac20d {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "3.5",
+      "TAP": "0.5",
+      "V": "1",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0xf34fd2b34fb899d1"
+  },
+  "Cost": {
+    "keys": {
+      "C": "100",
+      "F": "50",
+      "TAP": "0",
+      "V": "10",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0xd220e77610ac7c7b"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "250",
+      "F": "75",
+      "TAP": "0",
+      "V": "350",
+      "X": "150",
+      "Z": "1"
+    },
+    "value": "table: 0x5bbbaadc22b86940"
+  }
+}
+[07:21:17 AM]   	Lvl	table: 0x5bbbaadc22b86940 {
+  "C": "250",
+  "F": "75",
+  "TAP": "0",
+  "V": "350",
+  "X": "150",
+  "Z": "1"
+}
+[07:21:17 AM]   	Cap	275
+[07:21:17 AM]   	Cooldown	table: 0xf34fd2b34fb899d1 {
+  "C": "10",
+  "F": "3.5",
+  "TAP": "0.5",
+  "V": "1",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:18 AM]   	Cost	table: 0xd220e77610ac7c7b {
+  "C": "100",
+  "F": "50",
+  "TAP": "0",
+  "V": "10",
+  "X": "60",
+  "Z": "40"
+}
+[07:21:18 AM] ItemId:	1408	| Value:	table: 0x013d2f2bd5e75d19 {
+  "Cap": "325",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "1.25",
+      "V": "15",
+      "X": "8",
+      "Z": "6"
+    },
+    "value": "table: 0x958c213ce07e919c"
+  },
+  "Cost": {
+    "keys": {
+      "C": "60",
+      "F": "10",
+      "V": "100",
+      "X": "40",
+      "Z": "20"
+    },
+    "value": "table: 0xa90786a0a4a8a148"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "150",
+      "F": "100",
+      "V": "200",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0x444659ca4a6bf304"
+  }
+}
+[07:21:18 AM]   	Lvl	table: 0x444659ca4a6bf304 {
+  "C": "150",
+  "F": "100",
+  "V": "200",
+  "X": "50",
+  "Z": "1"
+}
+[07:21:18 AM]   	Cap	325
+[07:21:18 AM]   	Cooldown	table: 0x958c213ce07e919c {
+  "C": "10",
+  "F": "1.25",
+  "V": "15",
+  "X": "8",
+  "Z": "6"
+}
+[07:21:18 AM]   	Cost	table: 0xa90786a0a4a8a148 {
+  "C": "60",
+  "F": "10",
+  "V": "100",
+  "X": "40",
+  "Z": "20"
+}
+[07:21:18 AM] ItemId:	1421	| Value:	table: 0x5d693ce3e2a1e4d6 {
+  "Cap": "325",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "TAP": "0.8",
+      "V": "14",
+      "X": "8",
+      "Z": "4"
+    },
+    "value": "table: 0xbe5d6ed888266feb"
+  },
+  "Cost": {
+    "keys": {
+      "C": "30",
+      "TAP": "25",
+      "V": "60",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0xc1fefdc7a84c62fb"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "80",
+      "TAP": "1",
+      "V": "110",
+      "X": "1",
+      "Z": "1"
+    },
+    "value": "table: 0x3d74a31454ae3eef"
+  }
+}
+[07:21:18 AM]   	Lvl	table: 0x3d74a31454ae3eef {
+  "C": "80",
+  "TAP": "1",
+  "V": "110",
+  "X": "1",
+  "Z": "1"
+}
+[07:21:19 AM]   	Cap	325
+[07:21:19 AM]   	Cooldown	table: 0xbe5d6ed888266feb {
+  "C": "10",
+  "TAP": "0.8",
+  "V": "14",
+  "X": "8",
+  "Z": "4"
+}
+[07:21:19 AM]   	Cost	table: 0xc1fefdc7a84c62fb {
+  "C": "30",
+  "TAP": "25",
+  "V": "60",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:19 AM] ItemId:	1170	| Value:	table: 0xd37f69f168b82b01 {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0x0aa03bc4b5fca0f2"
+  },
+  "Cost": {
+    "keys": {
+      "X": "50",
+      "Z": "30"
+    },
+    "value": "table: 0xf7aa09ec9a60064c"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "325",
+      "Z": "150"
+    },
+    "value": "table: 0x826ee85120c9cc77"
+  }
+}
+[07:21:19 AM]   	Lvl	table: 0x826ee85120c9cc77 {
+  "X": "325",
+  "Z": "150"
+}
+[07:21:19 AM]   	Cap	400
+[07:21:19 AM]   	Cooldown	table: 0x0aa03bc4b5fca0f2 {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:19 AM]   	Cost	table: 0xf7aa09ec9a60064c {
+  "X": "50",
+  "Z": "30"
+}
+[07:21:20 AM] ItemId:	1526	| Value:	table: 0x6e331d6195937aa2 {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "8",
+      "F": "3",
+      "X": "6",
+      "Z": "2.5"
+    },
+    "value": "table: 0x58edd1aa1c01932d"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "35",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0xafcd3ef26ac54faf"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "50",
+      "F": "80",
+      "X": "20",
+      "Z": "1"
+    },
+    "value": "table: 0xce57537656bba0ca"
+  }
+}
+[07:21:20 AM]   	Lvl	table: 0xce57537656bba0ca {
+  "C": "50",
+  "F": "80",
+  "X": "20",
+  "Z": "1"
+}
+[07:21:20 AM]   	Cap	200
+[07:21:20 AM]   	Cooldown	table: 0x58edd1aa1c01932d {
+  "C": "8",
+  "F": "3",
+  "X": "6",
+  "Z": "2.5"
+}
+[07:21:20 AM]   	Cost	table: 0xafcd3ef26ac54faf {
+  "C": "35",
+  "F": "35",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:20 AM] ItemId:	470	| Value:	table: 0xccbb7d885b303dc5 {
+  "Cap": "325",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "TAP": "0.8",
+      "V": "14",
+      "X": "8",
+      "Z": "4"
+    },
+    "value": "table: 0x03b9530c1f893aae"
+  },
+  "Cost": {
+    "keys": {
+      "C": "30",
+      "TAP": "25",
+      "V": "60",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x1791d3928e5c45e2"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "80",
+      "TAP": "1",
+      "V": "110",
+      "X": "1",
+      "Z": "1"
+    },
+    "value": "table: 0x545832a249420f81"
+  }
+}
+[07:21:20 AM]   	Lvl	table: 0x545832a249420f81 {
+  "C": "80",
+  "TAP": "1",
+  "V": "110",
+  "X": "1",
+  "Z": "1"
+}
+[07:21:20 AM]   	Cap	325
+[07:21:20 AM]   	Cooldown	table: 0x03b9530c1f893aae {
+  "C": "10",
+  "TAP": "0.8",
+  "V": "14",
+  "X": "8",
+  "Z": "4"
+}
+[07:21:21 AM]   	Cost	table: 0x1791d3928e5c45e2 {
+  "C": "30",
+  "TAP": "25",
+  "V": "60",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:21 AM] ItemId:	479	| Value:	table: 0x2937efd256fc6f07 {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "C": "12.5",
+      "F": "4.25",
+      "V": "16.5",
+      "X": "8",
+      "Z": "5"
+    },
+    "value": "table: 0x13d85ba0931bde3f"
+  },
+  "Cost": {
+    "keys": {
+      "C": "80",
+      "F": "20",
+      "V": "100",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0xf338207874423371"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "50",
+      "V": "300",
+      "X": "100",
+      "Z": "1"
+    },
+    "value": "table: 0xf082e4fc604ed7e7"
+  }
+}
+[07:21:21 AM]   	Lvl	table: 0xf082e4fc604ed7e7 {
+  "C": "200",
+  "F": "50",
+  "V": "300",
+  "X": "100",
+  "Z": "1"
+}
+[07:21:21 AM]   	Cap	400
+[07:21:21 AM]   	Cooldown	table: 0x13d85ba0931bde3f {
+  "C": "12.5",
+  "F": "4.25",
+  "V": "16.5",
+  "X": "8",
+  "Z": "5"
+}
+[07:21:21 AM]   	Cost	table: 0xf338207874423371 {
+  "C": "80",
+  "F": "20",
+  "V": "100",
+  "X": "60",
+  "Z": "40"
+}
+[07:21:21 AM] ItemId:	220	| Value:	table: 0x83fc52a11389e6b4 {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "9.75",
+      "F": "4.75",
+      "TAP": "0",
+      "V": "3.75",
+      "X": "7.75",
+      "Z": "5.75"
+    },
+    "value": "table: 0xb4ad2b663c0ea221"
+  },
+  "Cost": {
+    "keys": {
+      "C": "75",
+      "F": "25",
+      "TAP": "0",
+      "V": "50",
+      "X": "50",
+      "Z": "25"
+    },
+    "value": "table: 0x267689ad76bb8052"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "50",
+      "TAP": "0",
+      "V": "300",
+      "X": "100",
+      "Z": "1"
+    },
+    "value": "table: 0xcfcc59a30b149900"
+  }
+}
+[07:21:21 AM]   	Lvl	table: 0xcfcc59a30b149900 {
+  "C": "200",
+  "F": "50",
+  "TAP": "0",
+  "V": "300",
+  "X": "100",
+  "Z": "1"
+}
+[07:21:21 AM]   	Cap	275
+[07:21:21 AM]   	Cooldown	table: 0xb4ad2b663c0ea221 {
+  "C": "9.75",
+  "F": "4.75",
+  "TAP": "0",
+  "V": "3.75",
+  "X": "7.75",
+  "Z": "5.75"
+}
+[07:21:21 AM]   	Cost	table: 0x267689ad76bb8052 {
+  "C": "75",
+  "F": "25",
+  "TAP": "0",
+  "V": "50",
+  "X": "50",
+  "Z": "25"
+}
+[07:21:21 AM] ItemId:	1397	| Value:	table: 0x279440530dc62580 {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "7",
+      "F": "0.65",
+      "TAP": "2",
+      "V": "15",
+      "X": "6",
+      "Z": "3"
+    },
+    "value": "table: 0x36f3364896bc79b3"
+  },
+  "Cost": {
+    "keys": {
+      "C": "50",
+      "F": "25",
+      "TAP": "5",
+      "V": "100",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x442517a351e9f508"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "75",
+      "F": "25",
+      "TAP": "0",
+      "V": "125",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0x0d93d16ee4b1e811"
+  }
+}
+[07:21:22 AM]   	Lvl	table: 0x0d93d16ee4b1e811 {
+  "C": "75",
+  "F": "25",
+  "TAP": "0",
+  "V": "125",
+  "X": "50",
+  "Z": "1"
+}
+[07:21:22 AM]   	Cap	200
+[07:21:22 AM]   	Cooldown	table: 0x36f3364896bc79b3 {
+  "C": "7",
+  "F": "0.65",
+  "TAP": "2",
+  "V": "15",
+  "X": "6",
+  "Z": "3"
+}
+[07:21:22 AM]   	Cost	table: 0x442517a351e9f508 {
+  "C": "50",
+  "F": "25",
+  "TAP": "5",
+  "V": "100",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:22 AM] ItemId:	1422	| Value:	table: 0xca02d99a2121b01e {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "9.75",
+      "F": "4.75",
+      "TAP": "0",
+      "V": "3.75",
+      "X": "7.75",
+      "Z": "5.75"
+    },
+    "value": "table: 0x0f35c1de590570e4"
+  },
+  "Cost": {
+    "keys": {
+      "C": "75",
+      "F": "25",
+      "TAP": "0",
+      "V": "50",
+      "X": "50",
+      "Z": "25"
+    },
+    "value": "table: 0x55d575105f395210"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "50",
+      "TAP": "0",
+      "V": "300",
+      "X": "100",
+      "Z": "1"
+    },
+    "value": "table: 0xe1ed68d765812aa1"
+  }
+}
+[07:21:22 AM]   	Lvl	table: 0xe1ed68d765812aa1 {
+  "C": "200",
+  "F": "50",
+  "TAP": "0",
+  "V": "300",
+  "X": "100",
+  "Z": "1"
+}
+[07:21:22 AM]   	Cap	275
+[07:21:22 AM]   	Cooldown	table: 0x0f35c1de590570e4 {
+  "C": "9.75",
+  "F": "4.75",
+  "TAP": "0",
+  "V": "3.75",
+  "X": "7.75",
+  "Z": "5.75"
+}
+[07:21:22 AM]   	Cost	table: 0x55d575105f395210 {
+  "C": "75",
+  "F": "25",
+  "TAP": "0",
+  "V": "50",
+  "X": "50",
+  "Z": "25"
+}
+[07:21:22 AM] ItemId:	1161	| Value:	table: 0x85f21bdfb730c7e2 {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0x6faa1b27dc401d53"
+  },
+  "Cost": {
+    "keys": {
+      "X": "60",
+      "Z": "30"
+    },
+    "value": "table: 0x1f8eda5c626e8a66"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "350",
+      "Z": "150"
+    },
+    "value": "table: 0x3fd430a84e6d5502"
+  }
+}
+[07:21:22 AM]   	Lvl	table: 0x3fd430a84e6d5502 {
+  "X": "350",
+  "Z": "150"
+}
+[07:21:22 AM]   	Cap	200
+[07:21:23 AM]   	Cooldown	table: 0x6faa1b27dc401d53 {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:23 AM]   	Cost	table: 0x1f8eda5c626e8a66 {
+  "X": "60",
+  "Z": "30"
+}
+[07:21:23 AM] ItemId:	492	| Value:	table: 0xfa67492caee30afd {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "C": "12.5",
+      "F": "4.25",
+      "V": "16.5",
+      "X": "8",
+      "Z": "5"
+    },
+    "value": "table: 0xe66aaead3e7039bd"
+  },
+  "Cost": {
+    "keys": {
+      "C": "80",
+      "F": "20",
+      "V": "100",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0x72c258b0b370fe83"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "50",
+      "V": "300",
+      "X": "100",
+      "Z": "1"
+    },
+    "value": "table: 0x1b2fc6f3fc59f105"
+  }
+}
+[07:21:23 AM]   	Lvl	table: 0x1b2fc6f3fc59f105 {
+  "C": "200",
+  "F": "50",
+  "V": "300",
+  "X": "100",
+  "Z": "1"
+}
+[07:21:23 AM]   	Cap	400
+[07:21:23 AM]   	Cooldown	table: 0xe66aaead3e7039bd {
+  "C": "12.5",
+  "F": "4.25",
+  "V": "16.5",
+  "X": "8",
+  "Z": "5"
+}
+[07:21:23 AM]   	Cost	table: 0x72c258b0b370fe83 {
+  "C": "80",
+  "F": "20",
+  "V": "100",
+  "X": "60",
+  "Z": "40"
+}
+[07:21:23 AM] ItemId:	1134	| Value:	table: 0x4c8e00b9f80fe6a0 {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "X": "7",
+      "Z": "4"
+    },
+    "value": "table: 0x053366a1a08f1516"
+  },
+  "Cost": {
+    "keys": {
+      "C": "60",
+      "X": "30",
+      "Z": "25"
+    },
+    "value": "table: 0xce7a1c853a57613f"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "250",
+      "X": "130",
+      "Z": "70"
+    },
+    "value": "table: 0x288e91dbe9d4c2b2"
+  }
+}
+[07:21:23 AM]   	Lvl	table: 0x288e91dbe9d4c2b2 {
+  "C": "250",
+  "X": "130",
+  "Z": "70"
+}
+[07:21:23 AM]   	Cap	400
+[07:21:23 AM]   	Cooldown	table: 0x053366a1a08f1516 {
+  "C": "10",
+  "X": "7",
+  "Z": "4"
+}
+[07:21:24 AM]   	Cost	table: 0xce7a1c853a57613f {
+  "C": "60",
+  "X": "30",
+  "Z": "25"
+}
+[07:21:24 AM] ItemId:	1101	| Value:	table: 0x81c2567e232c5195 {
+  "Cap": "300",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "7"
+    },
+    "value": "table: 0x611c943d65683b22"
+  },
+  "Cost": {
+    "keys": {
+      "X": "40",
+      "Z": "20"
+    },
+    "value": "table: 0xbc63c1f30973893f"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "80",
+      "Z": "40"
+    },
+    "value": "table: 0x1518c0fbff56cf8f"
+  }
+}
+[07:21:24 AM]   	Lvl	table: 0x1518c0fbff56cf8f {
+  "X": "80",
+  "Z": "40"
+}
+[07:21:24 AM]   	Cap	300
+[07:21:24 AM]   	Cooldown	table: 0x611c943d65683b22 {
+  "X": "9",
+  "Z": "7"
+}
+[07:21:24 AM]   	Cost	table: 0xbc63c1f30973893f {
+  "X": "40",
+  "Z": "20"
+}
+[07:21:24 AM] ItemId:	1198	| Value:	table: 0xd27328186c65fc7a {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0xb2d9bf862aab233d"
+  },
+  "Cost": {
+    "keys": {
+      "C": "75",
+      "X": "40",
+      "Z": "30"
+    },
+    "value": "table: 0xb94931496dbaaa13"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "330",
+      "X": "220",
+      "Z": "110"
+    },
+    "value": "table: 0x5a05c997233b281a"
+  }
+}
+[07:21:24 AM]   	Lvl	table: 0x5a05c997233b281a {
+  "C": "330",
+  "X": "220",
+  "Z": "110"
+}
+[07:21:24 AM]   	Cap	400
+[07:21:24 AM]   	Cooldown	table: 0xb2d9bf862aab233d {
+  "C": "11",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:24 AM]   	Cost	table: 0xb94931496dbaaa13 {
+  "C": "75",
+  "X": "40",
+  "Z": "30"
+}
+[07:21:24 AM] ItemId:	1194	| Value:	table: 0xa75ea8b4b7ad4244 {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "X": "7.5",
+      "Z": "5"
+    },
+    "value": "table: 0x8642eb2d113a64c2"
+  },
+  "Cost": {
+    "keys": {
+      "C": "75",
+      "X": "40",
+      "Z": "30"
+    },
+    "value": "table: 0xcc7c364cf3abcf5c"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "300",
+      "X": "200",
+      "Z": "100"
+    },
+    "value": "table: 0x5bb5d58545e53c33"
+  }
+}
+[07:21:25 AM]   	Lvl	table: 0x5bb5d58545e53c33 {
+  "C": "300",
+  "X": "200",
+  "Z": "100"
+}
+[07:21:25 AM]   	Cap	400
+[07:21:25 AM]   	Cooldown	table: 0x8642eb2d113a64c2 {
+  "C": "11",
+  "X": "7.5",
+  "Z": "5"
+}
+[07:21:25 AM]   	Cost	table: 0xcc7c364cf3abcf5c {
+  "C": "75",
+  "X": "40",
+  "Z": "30"
+}
+[07:21:25 AM] ItemId:	1403	| Value:	table: 0xb2cbacfdae518677 {
+  "Awakening": {
+    "keys": {
+      "Cooldown": {
+        "keys": {
+          "C": "10",
+          "F": "1.25",
+          "V": "18",
+          "X": "7",
+          "Z": "6"
+        },
+        "value": "table: 0xd406690a9bc5dab3"
+      },
+      "Cost": {
+        "keys": {
+          "C": "60",
+          "F": "50",
+          "V": "80",
+          "X": "40",
+          "Z": "25"
+        },
+        "value": "table: 0x5c034ca54d1ae1b8"
+      },
+      "Fragments": {
+        "keys": {
+          "C": "4500",
+          "F": "2500",
+          "V": "6000",
+          "X": "3500",
+          "Z": "800"
+        },
+        "value": "table: 0xc571975f5412a094"
+      }
+    },
+    "value": "table: 0x50d638ad8911d59c"
+  },
+  "Cap": "330",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "5",
+      "V": "16",
+      "X": "7",
+      "Z": "6"
+    },
+    "value": "table: 0xd68cdcdb64e315f9"
+  },
+  "Cost": {
+    "keys": {
+      "C": "70",
+      "F": "50",
+      "V": "100",
+      "X": "50",
+      "Z": "35"
+    },
+    "value": "table: 0xc9359bf19f098c75"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "100",
+      "F": "15",
+      "V": "225",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0x6df22c1526abae39"
+  }
+}
+[07:21:25 AM]   	Cap	330
+[07:21:25 AM]   	Cost	table: 0xc9359bf19f098c75 {
+  "C": "70",
+  "F": "50",
+  "V": "100",
+  "X": "50",
+  "Z": "35"
+}
+[07:21:25 AM]   	Awakening	table: 0x50d638ad8911d59c {
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "1.25",
+      "V": "18",
+      "X": "7",
+      "Z": "6"
+    },
+    "value": "table: 0xd406690a9bc5dab3"
+  },
+  "Cost": {
+    "keys": {
+      "C": "60",
+      "F": "50",
+      "V": "80",
+      "X": "40",
+      "Z": "25"
+    },
+    "value": "table: 0x5c034ca54d1ae1b8"
+  },
+  "Fragments": {
+    "keys": {
+      "C": "4500",
+      "F": "2500",
+      "V": "6000",
+      "X": "3500",
+      "Z": "800"
+    },
+    "value": "table: 0xc571975f5412a094"
+  }
+}
+[07:21:25 AM]   	Cooldown	table: 0xd68cdcdb64e315f9 {
+  "C": "10",
+  "F": "5",
+  "V": "16",
+  "X": "7",
+  "Z": "6"
+}
+[07:21:25 AM]   	Lvl	table: 0x6df22c1526abae39 {
+  "C": "100",
+  "F": "15",
+  "V": "225",
+  "X": "50",
+  "Z": "1"
+}
+[07:21:25 AM] ItemId:	1203	| Value:	table: 0x999a2781a1a5eff1 {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0xe35949f089387819"
+  },
+  "Cost": {
+    "keys": {
+      "X": "30",
+      "Z": "20"
+    },
+    "value": "table: 0x6ad0a2b3ca95de34"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "300",
+      "Z": "150"
+    },
+    "value": "table: 0x9289ab548d617c7f"
+  }
+}
+[07:21:25 AM]   	Lvl	table: 0x9289ab548d617c7f {
+  "X": "300",
+  "Z": "150"
+}
+[07:21:26 AM]   	Cap	400
+[07:21:26 AM]   	Cooldown	table: 0xe35949f089387819 {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:26 AM]   	Cost	table: 0x6ad0a2b3ca95de34 {
+  "X": "30",
+  "Z": "20"
+}
+[07:21:26 AM] ItemId:	80	| Value:	table: 0x03fcdf03a59958f5 {
+  "Awakening": {
+    "keys": {
+      "Cooldown": {
+        "keys": {
+          "C": "9",
+          "F": "3.75",
+          "V": "16",
+          "X": "7",
+          "Z": "5"
+        },
+        "value": "table: 0x8f515fd3368f6228"
+      },
+      "Cost": {
+        "keys": {
+          "C": "35",
+          "F": "30",
+          "V": "50",
+          "X": "25",
+          "Z": "15"
+        },
+        "value": "table: 0x8b6297475544cc5f"
+      },
+      "Fragments": {
+        "keys": {
+          "C": "4000",
+          "F": "2000",
+          "V": "5000",
+          "X": "3000",
+          "Z": "500"
+        },
+        "value": "table: 0x7bed89b6b75bd3b3"
+      }
+    },
+    "value": "table: 0x276f802a9428ae92"
+  },
+  "Cap": "250",
+  "Cooldown": {
+    "keys": {
+      "C": "9",
+      "F": "3.75",
+      "V": "16",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0x78677ef701531429"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "30",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x454102373d6543f5"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "80",
+      "F": "10",
+      "V": "110",
+      "X": "40",
+      "Z": "1"
+    },
+    "value": "table: 0x939bf6cf8488d2d4"
+  }
+}
+[07:21:26 AM]   	Cap	250
+[07:21:26 AM]   	Cost	table: 0x454102373d6543f5 {
+  "C": "35",
+  "F": "30",
+  "V": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:26 AM]   	Awakening	table: 0x276f802a9428ae92 {
+  "Cooldown": {
+    "keys": {
+      "C": "9",
+      "F": "3.75",
+      "V": "16",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0x8f515fd3368f6228"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "30",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x8b6297475544cc5f"
+  },
+  "Fragments": {
+    "keys": {
+      "C": "4000",
+      "F": "2000",
+      "V": "5000",
+      "X": "3000",
+      "Z": "500"
+    },
+    "value": "table: 0x7bed89b6b75bd3b3"
+  }
+}
+[07:21:26 AM]   	Cooldown	table: 0x78677ef701531429 {
+  "C": "9",
+  "F": "3.75",
+  "V": "16",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:26 AM]   	Lvl	table: 0x939bf6cf8488d2d4 {
+  "C": "80",
+  "F": "10",
+  "V": "110",
+  "X": "40",
+  "Z": "1"
+}
+[07:21:26 AM] ItemId:	1114	| Value:	table: 0xb56621a4fededb35 {
+  "Cap": "350",
+  "Cooldown": {
+    "keys": {
+      "X": "15",
+      "Z": "9"
+    },
+    "value": "table: 0x2571722a0bc849e3"
+  },
+  "Cost": {
+    "keys": {
+      "X": "50",
+      "Z": "30"
+    },
+    "value": "table: 0xdf9ca289e8f5c65e"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "100",
+      "Z": "40"
+    },
+    "value": "table: 0x92de6bb6fef134c0"
+  }
+}
+[07:21:27 AM]   	Lvl	table: 0x92de6bb6fef134c0 {
+  "X": "100",
+  "Z": "40"
+}
+[07:21:27 AM]   	Cap	350
+[07:21:27 AM]   	Cooldown	table: 0x2571722a0bc849e3 {
+  "X": "15",
+  "Z": "9"
+}
+[07:21:27 AM]   	Cost	table: 0xdf9ca289e8f5c65e {
+  "X": "50",
+  "Z": "30"
+}
+[07:21:27 AM] ItemId:	460	| Value:	table: 0xd96dc7e0397be1ca {
+  "Cap": "375",
+  "Cooldown": {
+    "keys": {
+      "C": "12",
+      "F": "0",
+      "TAP": "0.1",
+      "V": "28.5",
+      "X": "8",
+      "Z": "0"
+    },
+    "value": "table: 0xb5b131dfb7c3c35b"
+  },
+  "Cost": {
+    "keys": {
+      "C": "35",
+      "F": "30",
+      "TAP": "0",
+      "V": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0x9f38756cdf27554c"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "160",
+      "F": "30",
+      "TAP": "0",
+      "V": "250",
+      "X": "90",
+      "Z": "1"
+    },
+    "value": "table: 0xd6c2ce281dc6ebe0"
+  }
+}
+[07:21:27 AM]   	Lvl	table: 0xd6c2ce281dc6ebe0 {
+  "C": "160",
+  "F": "30",
+  "TAP": "0",
+  "V": "250",
+  "X": "90",
+  "Z": "1"
+}
+[07:21:27 AM]   	Cap	375
+[07:21:27 AM]   	Cooldown	table: 0xb5b131dfb7c3c35b {
+  "C": "12",
+  "F": "0",
+  "TAP": "0.1",
+  "V": "28.5",
+  "X": "8",
+  "Z": "0"
+}
+[07:21:27 AM]   	Cost	table: 0x9f38756cdf27554c {
+  "C": "35",
+  "F": "30",
+  "TAP": "0",
+  "V": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:27 AM] ItemId:	1405	| Value:	table: 0x51ee92ec4445583f {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "F": "3.5",
+      "TAP": "0.875",
+      "V": "20",
+      "X": "8.5",
+      "Z": "6"
+    },
+    "value": "table: 0x6628218c7abb5ed0"
+  },
+  "Cost": {
+    "keys": {
+      "C": "90",
+      "F": "25",
+      "TAP": "10",
+      "V": "100",
+      "X": "75",
+      "Z": "50"
+    },
+    "value": "table: 0x186292b01490dd59"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "50",
+      "TAP": "1",
+      "V": "300",
+      "X": "100",
+      "Z": "1"
+    },
+    "value": "table: 0x8e7702f29feaae0c"
+  }
+}
+[07:21:27 AM]   	Lvl	table: 0x8e7702f29feaae0c {
+  "C": "200",
+  "F": "50",
+  "TAP": "1",
+  "V": "300",
+  "X": "100",
+  "Z": "1"
+}
+[07:21:28 AM]   	Cap	400
+[07:21:28 AM]   	Cooldown	table: 0x6628218c7abb5ed0 {
+  "C": "11",
+  "F": "3.5",
+  "TAP": "0.875",
+  "V": "20",
+  "X": "8.5",
+  "Z": "6"
+}
+[07:21:28 AM]   	Cost	table: 0x186292b01490dd59 {
+  "C": "90",
+  "F": "25",
+  "TAP": "10",
+  "V": "100",
+  "X": "75",
+  "Z": "50"
+}
+[07:21:28 AM] ItemId:	1108	| Value:	table: 0x5012a8664ae2618a {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0x59034e2e3dd7e5a6"
+  },
+  "Cost": {
+    "keys": {
+      "C": "75",
+      "X": "35",
+      "Z": "25"
+    },
+    "value": "table: 0x33c2507aacf48a9e"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "350",
+      "X": "250",
+      "Z": "125"
+    },
+    "value": "table: 0x93eee5c83041b019"
+  }
+}
+[07:21:28 AM]   	Lvl	table: 0x93eee5c83041b019 {
+  "C": "350",
+  "X": "250",
+  "Z": "125"
+}
+[07:21:28 AM]   	Cap	275
+[07:21:28 AM]   	Cooldown	table: 0x59034e2e3dd7e5a6 {
+  "C": "11",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:28 AM]   	Cost	table: 0x33c2507aacf48a9e {
+  "C": "75",
+  "X": "35",
+  "Z": "25"
+}
+[07:21:28 AM] ItemId:	469	| Value:	table: 0x972164f8066f37b9 {
+  "Cap": "325",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "TAP": "0.8",
+      "V": "14",
+      "X": "8",
+      "Z": "4"
+    },
+    "value": "table: 0xe6bc2e3ab97dedde"
+  },
+  "Cost": {
+    "keys": {
+      "C": "30",
+      "TAP": "25",
+      "V": "60",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0xe4b5969a34c8183e"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "80",
+      "TAP": "1",
+      "V": "110",
+      "X": "1",
+      "Z": "1"
+    },
+    "value": "table: 0x9f4b7e0674186373"
+  }
+}
+[07:21:28 AM]   	Lvl	table: 0x9f4b7e0674186373 {
+  "C": "80",
+  "TAP": "1",
+  "V": "110",
+  "X": "1",
+  "Z": "1"
+}
+[07:21:28 AM]   	Cap	325
+[07:21:29 AM]   	Cooldown	table: 0xe6bc2e3ab97dedde {
+  "C": "10",
+  "TAP": "0.8",
+  "V": "14",
+  "X": "8",
+  "Z": "4"
+}
+[07:21:29 AM]   	Cost	table: 0xe4b5969a34c8183e {
+  "C": "30",
+  "TAP": "25",
+  "V": "60",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:29 AM] ItemId:	1435	| Value:	table: 0x2529b5890696888f {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "10",
+      "F": "3.5",
+      "TAP": "0.5",
+      "V": "1",
+      "X": "7",
+      "Z": "5"
+    },
+    "value": "table: 0x99dcbce5b4176895"
+  },
+  "Cost": {
+    "keys": {
+      "C": "100",
+      "F": "50",
+      "TAP": "0",
+      "V": "10",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0x741476762dc14f11"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "250",
+      "F": "75",
+      "TAP": "0",
+      "V": "350",
+      "X": "150",
+      "Z": "1"
+    },
+    "value": "table: 0xfe5dd207a746525f"
+  }
+}
+[07:21:29 AM]   	Lvl	table: 0xfe5dd207a746525f {
+  "C": "250",
+  "F": "75",
+  "TAP": "0",
+  "V": "350",
+  "X": "150",
+  "Z": "1"
+}
+[07:21:29 AM]   	Cap	275
+[07:21:29 AM]   	Cooldown	table: 0x99dcbce5b4176895 {
+  "C": "10",
+  "F": "3.5",
+  "TAP": "0.5",
+  "V": "1",
+  "X": "7",
+  "Z": "5"
+}
+[07:21:29 AM]   	Cost	table: 0x741476762dc14f11 {
+  "C": "100",
+  "F": "50",
+  "TAP": "0",
+  "V": "10",
+  "X": "60",
+  "Z": "40"
+}
+[07:21:29 AM] ItemId:	541	| Value:	table: 0x46be7e2732a2888f {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "C": "12.5",
+      "F": "4.25",
+      "V": "16.5",
+      "X": "8",
+      "Z": "5"
+    },
+    "value": "table: 0x0be3931d7cfc5ba6"
+  },
+  "Cost": {
+    "keys": {
+      "C": "80",
+      "F": "20",
+      "V": "100",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0xd7aeae504c13bd5f"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "50",
+      "V": "300",
+      "X": "100",
+      "Z": "1"
+    },
+    "value": "table: 0x6779e60ff12a1841"
+  }
+}
+[07:21:29 AM]   	Lvl	table: 0x6779e60ff12a1841 {
+  "C": "200",
+  "F": "50",
+  "V": "300",
+  "X": "100",
+  "Z": "1"
+}
+[07:21:29 AM]   	Cap	400
+[07:21:29 AM]   	Cooldown	table: 0x0be3931d7cfc5ba6 {
+  "C": "12.5",
+  "F": "4.25",
+  "V": "16.5",
+  "X": "8",
+  "Z": "5"
+}
+[07:21:29 AM]   	Cost	table: 0xd7aeae504c13bd5f {
+  "C": "80",
+  "F": "20",
+  "V": "100",
+  "X": "60",
+  "Z": "40"
+}
+[07:21:30 AM] ItemId:	1413	| Value:	table: 0x01b5bb5295065ff5 {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "F": "4.5",
+      "V": "15",
+      "X": "8.5",
+      "Z": "6"
+    },
+    "value": "table: 0xba7c60b1a3684e91"
+  },
+  "Cost": {
+    "keys": {
+      "C": "80",
+      "F": "40",
+      "V": "100",
+      "X": "60",
+      "Z": "40"
+    },
+    "value": "table: 0x62e2fd378fbc5852"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "50",
+      "V": "300",
+      "X": "100",
+      "Z": "1"
+    },
+    "value": "table: 0xb161e654caa4ba2a"
+  }
+}
+[07:21:30 AM]   	Lvl	table: 0xb161e654caa4ba2a {
+  "C": "200",
+  "F": "50",
+  "V": "300",
+  "X": "100",
+  "Z": "1"
+}
+[07:21:30 AM]   	Cap	275
+[07:21:30 AM]   	Cooldown	table: 0xba7c60b1a3684e91 {
+  "C": "11",
+  "F": "4.5",
+  "V": "15",
+  "X": "8.5",
+  "Z": "6"
+}
+[07:21:30 AM]   	Cost	table: 0x62e2fd378fbc5852 {
+  "C": "80",
+  "F": "40",
+  "V": "100",
+  "X": "60",
+  "Z": "40"
+}
+[07:21:30 AM] ItemId:	1414	| Value:	table: 0xa85cebd1427ad7bf {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "F": "5",
+      "TAP": "2.5",
+      "V": "16",
+      "X": "12.5",
+      "Z": "5"
+    },
+    "value": "table: 0x16e98a46e91ff311"
+  },
+  "Cost": {
+    "keys": {
+      "C": "100",
+      "F": "25",
+      "TAP": "0",
+      "V": "100",
+      "X": "50",
+      "Z": "15"
+    },
+    "value": "table: 0xa8799878b8cb9b5d"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "100",
+      "TAP": "1",
+      "V": "300",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0xd14ba67281d963e2"
+  }
+}
+[07:21:30 AM]   	Lvl	table: 0xd14ba67281d963e2 {
+  "C": "200",
+  "F": "100",
+  "TAP": "1",
+  "V": "300",
+  "X": "50",
+  "Z": "1"
+}
+[07:21:30 AM]   	Cap	200
+[07:21:30 AM]   	Cooldown	table: 0x16e98a46e91ff311 {
+  "C": "11",
+  "F": "5",
+  "TAP": "2.5",
+  "V": "16",
+  "X": "12.5",
+  "Z": "5"
+}
+[07:21:30 AM]   	Cost	table: 0xa8799878b8cb9b5d {
+  "C": "100",
+  "F": "25",
+  "TAP": "0",
+  "V": "100",
+  "X": "50",
+  "Z": "15"
+}
+[07:21:31 AM] ItemId:	1202	| Value:	table: 0x359bf5af07020f07 {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0x6ae94c0c0102c0f9"
+  },
+  "Cost": {
+    "keys": {
+      "X": "30",
+      "Z": "20"
+    },
+    "value": "table: 0x459445282bbc5891"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "300",
+      "Z": "150"
+    },
+    "value": "table: 0x2e39b7fce3dbd651"
+  }
+}
+[07:21:31 AM]   	Lvl	table: 0x2e39b7fce3dbd651 {
+  "X": "300",
+  "Z": "150"
+}
+[07:21:31 AM]   	Cap	400
+[07:21:31 AM]   	Cooldown	table: 0x6ae94c0c0102c0f9 {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:31 AM]   	Cost	table: 0x459445282bbc5891 {
+  "X": "30",
+  "Z": "20"
+}
+[07:21:31 AM] ItemId:	1143	| Value:	table: 0xce015bf72336b0fd {
+  "Cap": "400",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "5"
+    },
+    "value": "table: 0x032c45ac0337cc9b"
+  },
+  "Cost": {
+    "keys": {
+      "X": "30",
+      "Z": "20"
+    },
+    "value": "table: 0x82ef9157c4ddde8d"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "200",
+      "Z": "100"
+    },
+    "value": "table: 0x89a6747d14012b4c"
+  }
+}
+[07:21:31 AM]   	Lvl	table: 0x89a6747d14012b4c {
+  "X": "200",
+  "Z": "100"
+}
+[07:21:31 AM]   	Cap	400
+[07:21:31 AM]   	Cooldown	table: 0x032c45ac0337cc9b {
+  "X": "9",
+  "Z": "5"
+}
+[07:21:32 AM]   	Cost	table: 0x82ef9157c4ddde8d {
+  "X": "30",
+  "Z": "20"
+}
+[07:21:32 AM] ItemId:	1232	| Value:	table: 0x8d7a7f3c52567d7e {
+  "Cap": "275",
+  "Cooldown": {
+    "keys": {
+      "X": "9",
+      "Z": "6"
+    },
+    "value": "table: 0x13523209cbf46a4d"
+  },
+  "Cost": {
+    "keys": {
+      "X": "40",
+      "Z": "20"
+    },
+    "value": "table: 0x58808beb716bd42e"
+  },
+  "Lvl": {
+    "keys": {
+      "X": "300",
+      "Z": "150"
+    },
+    "value": "table: 0xcddec924a099de94"
+  }
+}
+[07:21:32 AM]   	Lvl	table: 0xcddec924a099de94 {
+  "X": "300",
+  "Z": "150"
+}
+[07:21:32 AM]   	Cap	275
+[07:21:32 AM]   	Cooldown	table: 0x13523209cbf46a4d {
+  "X": "9",
+  "Z": "6"
+}
+[07:21:32 AM]   	Cost	table: 0x58808beb716bd42e {
+  "X": "40",
+  "Z": "20"
+}
+[07:21:32 AM] ItemId:	170	| Value:	table: 0x0bdec146af12988e {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "11",
+      "F": "5",
+      "TAP": "2.5",
+      "V": "16",
+      "X": "12.5",
+      "Z": "5"
+    },
+    "value": "table: 0x5dee6931cb446ae3"
+  },
+  "Cost": {
+    "keys": {
+      "C": "100",
+      "F": "25",
+      "TAP": "0",
+      "V": "100",
+      "X": "50",
+      "Z": "15"
+    },
+    "value": "table: 0x4d2f8819e796e7e0"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "200",
+      "F": "100",
+      "TAP": "1",
+      "V": "300",
+      "X": "50",
+      "Z": "1"
+    },
+    "value": "table: 0xa0bd9d9850d75234"
+  }
+}
+[07:21:32 AM]   	Lvl	table: 0xa0bd9d9850d75234 {
+  "C": "200",
+  "F": "100",
+  "TAP": "1",
+  "V": "300",
+  "X": "50",
+  "Z": "1"
+}
+[07:21:32 AM]   	Cap	200
+[07:21:32 AM]   	Cooldown	table: 0x5dee6931cb446ae3 {
+  "C": "11",
+  "F": "5",
+  "TAP": "2.5",
+  "V": "16",
+  "X": "12.5",
+  "Z": "5"
+}
+[07:21:32 AM]   	Cost	table: 0x4d2f8819e796e7e0 {
+  "C": "100",
+  "F": "25",
+  "TAP": "0",
+  "V": "100",
+  "X": "50",
+  "Z": "15"
+}
+[07:21:33 AM] ItemId:	1400	| Value:	table: 0x1b49ed1ffbb2b885 {
+  "Cap": "200",
+  "Cooldown": {
+    "keys": {
+      "C": "9",
+      "F": "3",
+      "X": "6",
+      "Z": "3.5"
+    },
+    "value": "table: 0xb7285d3916d56790"
+  },
+  "Cost": {
+    "keys": {
+      "C": "50",
+      "F": "50",
+      "X": "25",
+      "Z": "15"
+    },
+    "value": "table: 0xe8422df80cb96fb9"
+  },
+  "Lvl": {
+    "keys": {
+      "C": "50",
+      "F": "10",
+      "X": "20",
+      "Z": "1"
+    },
+    "value": "table: 0xbf415f4cfa1b466a"
+  }
+}
+[07:21:33 AM]   	Lvl	table: 0xbf415f4cfa1b466a {
+  "C": "50",
+  "F": "10",
+  "X": "20",
+  "Z": "1"
+}
+[07:21:33 AM]   	Cap	200
+[07:21:33 AM]   	Cooldown	table: 0xb7285d3916d56790 {
+  "C": "9",
+  "F": "3",
+  "X": "6",
+  "Z": "3.5"
+}
+[07:21:33 AM]   	Cost	table: 0xe8422df80cb96fb9 {
+  "C": "50",
+  "F": "50",
+  "X": "25",
+  "Z": "15"
+}
+[07:21:33 AM] 
+---	Mastery	---
+[07:21:33 AM] Success:	true
+[07:21:33 AM] ItemId:	1238	| Value:	307
+[07:21:33 AM] ItemId:	1107	| Value:	70
+[07:21:33 AM] ItemId:	1395	| Value:	1
+[07:21:33 AM] ItemId:	1110	| Value:	1
+[07:21:33 AM] ItemId:	511	| Value:	1
+[07:21:33 AM] ItemId:	1099	| Value:	175
+[07:21:34 AM] ItemId:	46	| Value:	1
+[07:21:34 AM] ItemId:	26	| Value:	1
+[07:21:34 AM] ItemId:	1396	| Value:	3
+[07:21:34 AM] ItemId:	1394	| Value:	57
+[07:21:34 AM] ItemId:	1412	| Value:	1
+[07:21:34 AM] ItemId:	25	| Value:	1
+[07:21:34 AM] ItemId:	1456	| Value:	600
+[07:21:34 AM] ItemId:	539	| Value:	1
+[07:21:34 AM] ItemId:	1425	| Value:	1
+[07:21:34 AM] ItemId:	1201	| Value:	300
+[07:21:34 AM] ItemId:	1416	| Value:	1
+[07:21:35 AM] ItemId:	1144	| Value:	600
+[07:21:35 AM] ItemId:	1129	| Value:	600
+[07:21:35 AM] ItemId:	1393	| Value:	1
+[07:21:35 AM] ItemId:	1226	| Value:	600
+[07:21:35 AM] ItemId:	402	| Value:	1
+[07:21:35 AM] ItemId:	1398	| Value:	1
+[07:21:35 AM] ItemId:	502	| Value:	1
+[07:21:35 AM] ItemId:	1239	| Value:	600
+[07:21:35 AM] ItemId:	1253	| Value:	1
+[07:21:35 AM] ItemId:	1210	| Value:	49
+[07:21:35 AM] ItemId:	1399	| Value:	5
+[07:21:36 AM] ItemId:	1109	| Value:	125
+[07:21:36 AM] ItemId:	496	| Value:	1
+[07:21:36 AM] ItemId:	1390	| Value:	1
+[07:21:36 AM] ItemId:	193	| Value:	1
+[07:21:36 AM] ItemId:	14	| Value:	1
+[07:21:36 AM] ItemId:	24	| Value:	3
+[07:21:36 AM] ItemId:	1116	| Value:	75
+[07:21:36 AM] ItemId:	1225	| Value:	600
+[07:21:36 AM] ItemId:	1146	| Value:	303
+[07:21:36 AM] ItemId:	512	| Value:	1
+[07:21:36 AM] ItemId:	1418	| Value:	1
+[07:21:36 AM] ItemId:	128	| Value:	1
+[07:21:37 AM] ItemId:	43	| Value:	1
+[07:21:37 AM] ItemId:	53	| Value:	1
+[07:21:37 AM] ItemId:	20	| Value:	1
+[07:21:37 AM] ItemId:	86	| Value:	1
+[07:21:37 AM] ItemId:	48	| Value:	1
+[07:21:37 AM] ItemId:	468	| Value:	1
+[07:21:37 AM] ItemId:	495	| Value:	1
+[07:21:37 AM] ItemId:	1111	| Value:	81
+[07:21:37 AM] ItemId:	1103	| Value:	1
+[07:21:37 AM] ItemId:	1192	| Value:	350
+[07:21:37 AM] ItemId:	1102	| Value:	82
+[07:21:37 AM] ItemId:	1115	| Value:	101
+[07:21:37 AM] ItemId:	1401	| Value:	1
+[07:21:38 AM] ItemId:	1117	| Value:	100
+[07:21:38 AM] ItemId:	158	| Value:	1
+[07:21:38 AM] ItemId:	1142	| Value:	302
+[07:21:38 AM] ItemId:	1199	| Value:	1
+[07:21:38 AM] ItemId:	1407	| Value:	1
+[07:21:38 AM] ItemId:	1112	| Value:	54
+[07:21:38 AM] ItemId:	498	| Value:	1
+[07:21:38 AM] ItemId:	1402	| Value:	1
+[07:21:38 AM] ItemId:	1141	| Value:	250
+[07:21:38 AM] ItemId:	1389	| Value:	1
+[07:21:38 AM] ItemId:	1159	| Value:	178
+[07:21:39 AM] ItemId:	191	| Value:	1
+[07:21:39 AM] ItemId:	400	| Value:	1
+[07:21:39 AM] ItemId:	491	| Value:	1
+[07:21:39 AM] ItemId:	1128	| Value:	121
+[07:21:39 AM] ItemId:	18	| Value:	57
+[07:21:39 AM] ItemId:	1113	| Value:	48
+[07:21:39 AM] ItemId:	508	| Value:	1
+[07:21:39 AM] ItemId:	57	| Value:	1
+[07:21:39 AM] ItemId:	1411	| Value:	1
+[07:21:39 AM] ItemId:	32	| Value:	1
+[07:21:39 AM] ItemId:	1204	| Value:	300
+[07:21:39 AM] ItemId:	1184	| Value:	600
+[07:21:40 AM] ItemId:	1145	| Value:	393
+[07:21:40 AM] ItemId:	1419	| Value:	1
+[07:21:40 AM] ItemId:	1240	| Value:	600
+[07:21:40 AM] ItemId:	1406	| Value:	1
+[07:21:40 AM] ItemId:	1157	| Value:	439
+[07:21:40 AM] ItemId:	1233	| Value:	545
+[07:21:40 AM] ItemId:	184	| Value:	1
+[07:21:40 AM] ItemId:	1100	| Value:	483
+[07:21:40 AM] ItemId:	1105	| Value:	60
+[07:21:40 AM] ItemId:	1524	| Value:	1
+[07:21:40 AM] ItemId:	1169	| Value:	300
+[07:21:40 AM] ItemId:	471	| Value:	1
+[07:21:41 AM] ItemId:	208	| Value:	1
+[07:21:41 AM] ItemId:	1132	| Value:	181
+[07:21:41 AM] ItemId:	1426	| Value:	1
+[07:21:41 AM] ItemId:	3	| Value:	1
+[07:21:41 AM] ItemId:	4	| Value:	1
+[07:21:41 AM] ItemId:	1162	| Value:	600
+[07:21:41 AM] ItemId:	1252	| Value:	353
+[07:21:41 AM] ItemId:	1185	| Value:	350
+[07:21:41 AM] ItemId:	1106	| Value:	192
+[07:21:41 AM] ItemId:	31	| Value:	5
+[07:21:41 AM] ItemId:	1177	| Value:	325
+[07:21:41 AM] ItemId:	1224	| Value:	600
+[07:21:41 AM] ItemId:	1404	| Value:	1
+[07:21:42 AM] ItemId:	1408	| Value:	1
+[07:21:42 AM] ItemId:	1421	| Value:	1
+[07:21:42 AM] ItemId:	1170	| Value:	325
+[07:21:42 AM] ItemId:	1526	| Value:	5
+[07:21:42 AM] ItemId:	470	| Value:	1
+[07:21:42 AM] ItemId:	479	| Value:	1
+[07:21:42 AM] ItemId:	1397	| Value:	1
+[07:21:42 AM] ItemId:	1161	| Value:	600
+[07:21:42 AM] ItemId:	492	| Value:	1
+[07:21:42 AM] ItemId:	1134	| Value:	600
+[07:21:42 AM] ItemId:	1101	| Value:	1
+[07:21:42 AM] ItemId:	1198	| Value:	600
+[07:21:42 AM] ItemId:	1194	| Value:	600
+[07:21:43 AM] ItemId:	1403	| Value:	1
+[07:21:43 AM] ItemId:	1203	| Value:	600
+[07:21:43 AM] ItemId:	80	| Value:	1
+[07:21:43 AM] ItemId:	1114	| Value:	1
+[07:21:43 AM] ItemId:	1108	| Value:	600
+[07:21:43 AM] ItemId:	469	| Value:	1
+[07:21:43 AM] ItemId:	541	| Value:	1
+[07:21:43 AM] ItemId:	1202	| Value:	600
+[07:21:43 AM] ItemId:	1143	| Value:	200
+[07:21:43 AM] ItemId:	1232	| Value:	305
+[07:21:43 AM] ItemId:	1400	| Value:	1
+[07:21:43 AM] ItemId:	1430	| Value:	50
+[07:21:43 AM] ItemId:	833	| Value:	50
